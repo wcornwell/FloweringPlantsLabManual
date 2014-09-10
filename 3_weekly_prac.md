@@ -1,7 +1,6 @@
-PRACTICAL 1 (WEEK 2): VEGETATIVE MORPHOLOGY & INTRODUCTION TO
-IDENTIFICATION KEYS.
+#PRACTICAL 1 (WEEK 2): VEGETATIVE MORPHOLOGY & INTRODUCTION TO IDENTIFICATION KEYS.
 
-**1. THE NATURE OF LEAVES**
+##**1. THE NATURE OF LEAVES**
 
 The flowering plants are the culmination of just one evolutionary
 pathway in vascular plants. This laboratory aims to place them in the
@@ -38,31 +37,35 @@ record, but there are two living genera that approach this simple level
 of organisation. These are *Psilotum* and *Tmesipteris*, both native to
 Australia.
 
-1\. Examine the plant of *Psilotum nudum*. It consists of a stem system
-bearing small *microphylls*. The stem grows by a single apical initial
-rather than a meristem (a group of initials).
+###Examine the plant of *Psilotum nudum*. 
 
-> a\) Examine the branching of the stem. Can you distinguish a main axis
-> bearing lateral branches, or are all branches of equal size and growth?
-> This type of branching, where there is no main axis bearing laterals, is
-> termed *dichotomous*. It is the oldest (most primitive) form of
-> branching in plants, being common in the algae.
->
-> b\) Determine what, if any, relationship exists between microphyll and
-> branch
->
-> position. Does this plant have axillary buds? If there are no actual
-> buds, from which point and in what manner do branches form?
+It consists of a stem system bearing small *microphylls*. The stem grows by a single apical initial rather than a meristem (a group of initials).
 
-c.  Are apical buds present? Check the definition of bud in the
-    glossary.
+- Examine the branching of the stem. This type of branching, where there is no main axis bearing laterals, is termed **dichotomous**. It is the oldest form of branching in plants, and is still common in the algae.  Can you distinguish a main axis bearing lateral branches, or are all branches of equal size and growth? 
 
-<!-- -->
+<br>
+<br>
 
-d.  How do you think new aerial stems are produced from below ground?
+- Determine what, if any, relationship exists between microphyll and branch position. Does this plant have axillary buds? If there are no actual buds, from which point and in what manner do branches form?
 
-> e\) What would be the effect of browsing or pruning the tips of the
-> aerial parts of the plant?
+<br>
+<br>
+
+- Are apical buds present? Check the definition of bud in the glossary.  
+
+<br>
+<br>
+
+- How do you think new aerial stems are produced from below ground?
+
+<br>
+<br>
+
+- What would be the effect of browsing or pruning the tips of the aerial parts of the plant?
+
+<br>
+<br>
+
 
 Division PTEROPHYTA - The Ferns: Order Filicales.
 
@@ -71,44 +74,45 @@ Members of this order have roots, stems and leaves, but the latter are
 previous group. In the Filicales there is no main root system, the roots
 being lateral organs borne on the stems (*adventitious* roots).
 
-2\. Examine the specimen of *Lygodium scandens*. The stem grows
-horizontally below the surface of the ground (it is a *rhizome*); only
+### Examine the specimen of *Lygodium scandens*. 
+The stem grows horizontally below the surface of the ground (it is a *rhizome*); only
 the leaves are visible. Each leaf grows for one year, climbing on other
 plants towards the light, but eventually dies back to be replaced by a
 new one the next year.
 
 a.  Do the leaves show determinate or indeterminate growth?
 
-<!-- -->
+
 
 b.  Note the growing apex of a leaf is coiled up to protect the initial
     cell that is responsible for the growth. All fern leaves uncoil at
     the apex like this – why is this adaptive?
 
+
+
 c.  Use the drawings in Figs.1.1. and 1.2 to identify the primary and
     secondary leaflets (*pinnae* and *pinnules*), and the primary and
     secondary *rachises*.
 
-<!-- -->
 
-b.  How would you describe the primary branching in the leaf? Is there
+d.  How would you describe the primary branching in the leaf? Is there
     any evidence of dichotomous branching in these leaves?
 
-<!-- -->
 
-b.  Note that the veins in the leaflets (pinnules) are in the form of an
+e.  Note that the veins in the leaflets (pinnules) are in the form of an
     open system where the branches end blindly rather than joining to
     form a net.
 
-<!-- -->
 
-d.  What, if any, part of *Psilotum nudum* would be homologous with the
+
+f.  What, if any, part of *Psilotum nudum* would be homologous with the
     leaf of *Lygodium scandens*? Is any organ of the latter homologous
     with the microphylls of the former?
 
-![](media/image1.jpeg)
+![](alternateLeafMorphologies.png)
 
-3\. Examine the specimen of *Gleichenia* sp. Note the small fibrous
+### Examine the specimen of *Gleichenia* sp. 
+Note the small fibrous
 adventitious roots that arise at any point along the stem, and the large
 divided (compound) megaphylls. Again these leaves uncoil during growth.
 
@@ -338,7 +342,7 @@ i.  Examine the **tendrils** on the young pea plants supplied. Each
 >
 > **Check your answers with demonstrators / lecturers / classmates**
 
-![](media/image2.jpeg)
+![](alternateLeafArrangements.png)
 
 > **TABLE 1.1** Record of leaf morphology in angiosperms.
 >
@@ -1340,22 +1344,29 @@ There will be exercises on plant identification this week. Complete the
 exercises for identifying plant families using the key / identification
 and family descriptions of the major Australian plant families.
 
-**PRAC 6 (WEEK 7):** **ROOT STRUCTURE & FUNCTION **
+<div style="page-break-after: always;"></div>
 
-Reference: Raven et al. 2013. **The biology of plants, 8^th^** edition,
-ch 24.
+#**PRAC 6 (WEEK 7):** **ROOT STRUCTURE & FUNCTION **
 
-**Introduction **
+Reference: Raven Biology of Plants. ch 24.
 
-Plants invest significant amounts of the carbon captured in
-photosynthesis in their root systems. Roots not only anchor and support
-plants but they are also pervasive systems which form an extensive
-interface with the soil. Although the branching patterns and size of
+##**Introduction **
+
+Plants invest significant carbon captured in
+photosynthesis into their root systems. Roots have four functions:
+1) Resources uptake
+2) Anchorage
+3) Transport
+4) Storage
+
+The last three of these functions are always done by the plant itself.  The first one, resource uptake is often done via symbiotic partners.
+
+Although the branching patterns and size of
 roots vary greatly with different species and in different conditions,
 the morphology and anatomy of all root systems is fundamentally similar.
 
 The basic structure of all roots is similar to that of a primary root
-covered in the first year course (BIOS 1101, session 2). We will assume
+covered in the first year course. We will assume
 that you have remembered this knowledge. Otherwise the reference above
 will help.
 
@@ -1367,74 +1378,99 @@ First we will examine how lateral branches are produced. They are
 ENDOGENOUS - that is, in contrast to stems, they are initiated deep
 inside root tissues.
 
-**1. The initiation of lateral roots.**
+### The initiation of lateral roots
 
 Lateral roots are initiated early in development in broad beans (*Vicia
 faba*). Cut transverse sections of root tissue through a young emerging
 lateral root and down the root where no lateral root has yet emerged and
 stain with toluidine blue.
 
-a\) From which tissues are lateral roots initiated?
+-From which tissues are lateral roots initiated?
 
-> b\) By what mechanism do lateral roots penetrate the cortex?
-
-c)  How soon does a lateral become ‘root-like’, with a root cap etc.?
-
-d)  Is the lateral at emergence identical to the main root apex? Look at
-    > the demonstration of prepared slides of the main root apex in L.S.
+<br>
+<br>
 
 **2. When is a root not a root?**
 
-> Aerial roots are an example of specialised roots. Here we will examine
-> the pneumatophores - aerial roots that emerge from the mud in mangrove
-> swamps.
->
-> Use the following questions to conduct an investigative exercise into
-> the differences between mangrove pneumatophores and a typical primary
-> root.
+<!---
+Can we get a rhizome to look at?
+-->
 
-a)  Is there an obvious root cap?
+ Aerating roots are an example of specialised roots with an atypical resource uptake function. 
+ 
+ Here we will examine
+ the pneumatophores - aerating roots that emerge from the dense, anoxic mud in mangrove
+ swamps.
 
-<!-- -->
+ Use the following questions to conduct an investigative exercise into
+ the differences between mangrove pneumatophores and a typical primary
+ root.
 
-a.  What happens when the root tip emerges from the mud?
+- Is there an obvious root cap?
 
-<!-- -->
+<br>
+<br>
 
-c.  What is the primary function of a pneumatophore? What adaptations do
-    > pneumatophores have that allow them to carry out this function?
 
-**3. Strategies for enhancing Plant Nutrition**
+-  What strange thing does the root tip do when it emerges from the mud?
 
-> **3.1.** *Root nodules. Fixation of Atmospheric nitrogen*
->
-> Cut and stain sections of the legume root nodules and also examine the
-> demonstration sections. Determine, and make drawings to illustrate,
-> the nature and distribution of the micro-organisms involved.
->
-> In what ways does infection alter the morphology of the infected root?
-> (You will need to compare infected and non-infected roots in each
-> case.)
->
-> **3.2.** *Proteoid or “Cluster” roots *
->
-> Examine the proteoid roots and determine their morphology. Draw a low
-> power plan of a proteoid root. What is the proposed role of proteoid
-> roots?
->
-> **3.3.** *Mycorrhizal Roots*
+<br>
+<br>
+
+
+-  What is the primary function of a pneumatophore? What adaptations do
+    pneumatophores have that allow them to carry out this function?
+
+<br>
+<br>
+
+## **Strategies for enhancing Plant Nutrition**
+
+###Root nodules: symbiotic fixation of Atmospheric nitrogen
+
+ Cut and stain sections of the legume root nodules and also examine the
+ demonstration sections. Determine, and make drawings to illustrate,
+ the nature and distribution of the micro-organisms involved.
+
+ In what ways does infection alter the morphology of the infected root?
+ (You will need to compare infected and non-infected roots in each
+ case.)
+
+### Proteoid or “Cluster” roots 
+
+ Examine the proteoid roots and determine their morphology. 
+ 
+
+### Mycorrhizas
+
+There are two types of mycorrhizal associates: ectomycorrhizal fungi and arbuscular mycorrhizal fungi.  Both principally trade the plant P for sugars.  Ectomycorrhizal fungi also can trade N to the plant for sugar.  The fungi involved are called ectomycorrhizal fungi and arbuscular mycorrhizal fungi.  One plant and fungus symbiosis together is called a mycorrhyza (plural: mycorrhizas).
+
+Arbuscular mycorrhizas are found in almost all vascular plants.  They create a structure **inside** a cortical cell to exchange materiel with the plant; these tiny tree-like structures are called arbuscules.
+
+Ectomycorrhizas found in specific families across the plant tree of life, including Myrataceae and Fabaceae.  They create a net-like hyphal structure **outside** the plant root where exchange occurs.
+
+Some species, including Eucalyptus spp., have both types of mycorrhizas.
+   
 
 -   Examine the fixed material of the *Eucalyptus* roots and identify
-    the characteristic appearance of endomycorrhizal root systems
+    the characteristic appearance of ectomycorrhizal root systems
+
+<br>
+<br>
 
 -   Examine the root systems provided to see whether you can locate any
     arbuscula mychorrhizal associations.
 
-> **PLANT IDENTIFICATION**
+<br>
+<br>
+
+## **PLANT IDENTIFICATION**
 
 **Complete the exercises for identifying plant families using the key /
 identification and family descriptions of the major Australian plant
 families at the end of the manual.**
+
+<div style="page-break-after: always;"></div>
 
 **PRAC 7 (WEEK 8): VASCULAR TISSUE, AND STEM STRUCTURE AND SECONDARY
 THICKENING IN DICOTYLEDONS **
