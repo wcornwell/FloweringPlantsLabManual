@@ -1,8 +1,8 @@
 #PRACTICAL 1 (WEEK 2): VEGETATIVE MORPHOLOGY & INTRODUCTION TO IDENTIFICATION KEYS.
 
-##**1. THE NATURE OF LEAVES**
+## THE NATURE OF LEAVES
 
-The flowering plants are the culmination of just one evolutionary
+Flowering plants are the culmination of just one evolutionary
 pathway in vascular plants. This laboratory aims to place them in the
 context of the diverse array of vascular plants and trace the evolution
 of some basic aspects of their morphology. The first section of this
@@ -26,7 +26,7 @@ The developments of new organs such as axillary buds, and the
 specialisation of organs to serve new functions such as aids to
 climbing, are also illustrated.
 
-Division PSILOPHYTA: A single living order, Psilotales.
+##Division PSILOPHYTA: A single living order, Psilotales.
 
 The earliest known vascular plants consisted of a system of cylindrical
 axes. The cortical tissues of the above ground parts had stomata and a
@@ -37,6 +37,8 @@ record, but there are two living genera that approach this simple level
 of organisation. These are *Psilotum* and *Tmesipteris*, both native to
 Australia.
 
+<div style="page-break-after: always;"></div>
+
 ###Examine the plant of *Psilotum nudum*. 
 
 It consists of a stem system bearing small *microphylls*. The stem grows by a single apical initial rather than a meristem (a group of initials).
@@ -45,9 +47,11 @@ It consists of a stem system bearing small *microphylls*. The stem grows by a si
 
 <br>
 <br>
+<br>
 
 - Determine what, if any, relationship exists between microphyll and branch position. Does this plant have axillary buds? If there are no actual buds, from which point and in what manner do branches form?
 
+<br>
 <br>
 <br>
 
@@ -55,9 +59,11 @@ It consists of a stem system bearing small *microphylls*. The stem grows by a si
 
 <br>
 <br>
+<br>
 
 - How do you think new aerial stems are produced from below ground?
 
+<br>
 <br>
 <br>
 
@@ -65,13 +71,14 @@ It consists of a stem system bearing small *microphylls*. The stem grows by a si
 
 <br>
 <br>
+<br>
 
 
-Division PTEROPHYTA - The Ferns: Order Filicales.
+## The Ferns
 
 Members of this order have roots, stems and leaves, but the latter are
 *megaphylls*, and are not homologous with the microphylls of the
-previous group. In the Filicales there is no main root system, the roots
+previous group. In the ferns there is no main root system, the roots
 being lateral organs borne on the stems (*adventitious* roots).
 
 ### Examine the specimen of *Lygodium scandens*. 
@@ -80,34 +87,52 @@ the leaves are visible. Each leaf grows for one year, climbing on other
 plants towards the light, but eventually dies back to be replaced by a
 new one the next year.
 
-a.  Do the leaves show determinate or indeterminate growth?
+- Do the leaves show determinate or indeterminate growth?
 
+<br>
+<br>
+<br>
 
-
-b.  Note the growing apex of a leaf is coiled up to protect the initial
+-  Note the growing apex of a leaf is coiled up to protect the initial
     cell that is responsible for the growth. All fern leaves uncoil at
     the apex like this – why is this adaptive?
 
+<br>
+<br>
+<br>
 
 
-c.  Use the drawings in Figs.1.1. and 1.2 to identify the primary and
+-  Use the drawings in Figs.1.1. and 1.2 to identify the primary and
     secondary leaflets (*pinnae* and *pinnules*), and the primary and
     secondary *rachises*.
 
+<br>
+<br>
+<br>
 
-d.  How would you describe the primary branching in the leaf? Is there
+
+-  How would you describe the primary branching in the leaf? Is there
     any evidence of dichotomous branching in these leaves?
 
+<br>
+<br>
+<br>
 
-e.  Note that the veins in the leaflets (pinnules) are in the form of an
+-  Note that the veins in the leaflets (pinnules) are in the form of an
     open system where the branches end blindly rather than joining to
     form a net.
 
+<br>
+<br>
+<br>
 
-
-f.  What, if any, part of *Psilotum nudum* would be homologous with the
+-  What, if any, part of *Psilotum nudum* would be homologous with the
     leaf of *Lygodium scandens*? Is any organ of the latter homologous
     with the microphylls of the former?
+
+<br>
+<br>
+<br>
 
 ![](alternateLeafMorphologies.png)
 
@@ -116,68 +141,86 @@ Note the small fibrous
 adventitious roots that arise at any point along the stem, and the large
 divided (compound) megaphylls. Again these leaves uncoil during growth.
 
-a.  Determine the relationship (if any) between leaf positions and
+-  Determine the relationship (if any) between leaf positions and
     branching of the stem. Does this species have axillary buds? How are
     branches initiated in the stem system?
 
-> b\) Use the diagrams in Fig. 1.1 to determine what type of branching is
-> present in the leaf.
->
-> How many orders of branching are there in a leaf? Identify the
-> primary, secondary and tertiary rachises.
+<br>
+<br>
+<br>
 
-c.  Compare a one-year-old leaf with a two-year-old leaf. Is there any
+
+- Use the diagrams in Fig. 1.1 to determine what type of branching is present in the leaf. How many orders of branching are there in a leaf? Identify the primary, secondary and tertiary rachises.
+
+<br>
+<br>
+<br>
+
+
+-  Compare a one-year-old leaf with a two-year-old leaf. Is there any
     evidence of indeterminate growth in these leaves?
 
-d.  Examine the apex of the rhizome (underground stem). Does this plant
+<br>
+<br>
+<br>
+
+
+-  Examine the apex of the rhizome (underground stem). Does this plant
     have an apical bud? Is there any protection of the growing apex?
 
-Division CONIFEROPHYTA - The Conifers: a single order, Coniferales.
+<br>
+<br>
+<br>
 
-These are seed plants without fruit or flowers. They are thought to have
-evolved separately from the flowering plants, and dominated the world's
-vegetation during the cooler and drier period that followed the
-Carboniferous.
 
-4\. Examine the specimen of *Podocarpus elatus* (Plum Pine), a conifer
-native to the closed forests of eastern Australia. The leaves of
-conifers are also interpreted as megaphylls, ie. as having evolved from
+## Gymnosperms
+
+These are seed plants without fruit or flowers. They are thought to have dominated the world's
+vegetation during the cooler and drier period that followed the Carboniferous.
+
+### Examine the specimen of *Podocarpus elatus* 
+
+*Podocarpus elatus* (Plum Pine) is a conifer native to the closed forests of eastern Australia. 
+
+The leaves of conifers are also interpreted as megaphylls, ie. as having evolved from
 a lateral branch that has become determinate in growth and flattened to
 enhance interception of light.
 
-> a\) Note the simple leaves that characterise the order. Are the leaves
-> strictly determinate in growth? How are they arranged? What term(s) best
-> describe the **phyllotaxis** (leaf arrangement)?
->
-> b\) Hold a leaf up against the light and examine the pattern of the veins
-> with a hand lens. Can you detect any lateral veins branching from the
-> midrib? These leaves have a continuous sheet of tracheid-like cells
-> between the adaxial and abaxial mesophyll tissue that distributes water
-> laterally through the lamina from the single midvein.
->
-> c\) Examine the pattern of branching of the stem. Look for axillary buds
-> in leaf axils.
->
-> Does this plant have axillary branching as in angiosperms or apical
-> branching as in ferns?
->
-> d\) Examine the growing apex closely. Rather than a naked apical
-> meristem, this
->
-> order has the meristem protected within a bud. Note that the bud
-> consists of a meristem enclosed with embryonic leaves, but that these
-> are themselves enclosed within a group of **bud scales**, ie., reduced
-> and hardened leaves that protect the bud. When the apex starts growing
-> next spring, the bud scales fall off (leaving scars where they were
-> attached) and the new vegetative leaves expand as the stem grows out
-> of the bud. The positions of previous **winter buds** can be seen at
-> intervals down the stem. They appear as rings of scars where the bud
-> scales were attached.
->
-> Given that each winter bud marks the end of a year's growth, how old
-> is the basal internode of the specimen you are examining?
+- Note the simple leaves that characterise the order. Are the leaves strictly determinate in growth? How are they arranged? What term(s) best
+ describe the **phyllotaxis** (leaf arrangement)?
 
-Division ANTHOPHYTA (Angiosperms).
+<br>
+<br>
+<br>
+
+- Hold a leaf up against the light and examine the pattern of the veins
+ with a hand lens. Can you detect any lateral veins branching from the
+ midrib? These leaves have a continuous sheet of tracheid-like cells
+ between the adaxial and abaxial mesophyll tissue that distributes water
+ laterally through the lamina from the single midvein.
+
+<br>
+<br>
+<br>
+
+- Examine the pattern of branching of the stem. Look for axillary buds in leaf axils. Does this plant have axillary branching as in angiosperms or apical
+ branching as in ferns?
+
+<br>
+<br>
+<br>
+
+ Examine the growing apex closely. Rather than a naked apical meristem, this group has the meristem protected within a bud. Note that the bud consists of a meristem enclosed with embryonic leaves, but that these are themselves enclosed within a group of **bud scales**, ie., reduced and hardened leaves that protect the bud. When the apex starts growing next spring, the bud scales fall off (leaving scars where they were attached) and the new vegetative leaves expand as the stem grows out of the bud. The positions of previous **winter buds** can be seen at intervals down the stem. They appear as rings of scars where the bud scales were attached.
+
+- Given that each winter bud marks the end of a year's growth, how old is the basal internode of the specimen you are examining?
+
+<br>
+<br>
+<br>
+
+## Angiosperms -- Flowering Plants
+
+**Fill in the appropriate information in Table 1.1 and 1.2 as you examine the angiosperms in the lab today.**
 
 There are many orders of flowering plants. All are characterised by the
 possession of a carpel, pollination at a distance from the micropyle of
@@ -186,192 +229,215 @@ two divisions their leaves are megaphylls, although there is some
 evidence that the megaphyll evolved separately in each group. Unlike
 conifers, the leaves of angiosperms may be simple or compound.
 
-5.  Examine the specimen of *Abelia triflora* (Abelia). Note that it has
-    simple leaves with a short petiole, and that the laminas of these
-    are mostly arranged in the one plane, spreading out either side of
-    the stem. Note carefully how leaves are attached at successive
-    nodes.
+###Examine the specimen of *Abelia triflora* 
 
-<!-- -->
+	Note that it has simple leaves with a short petiole, and that the laminas of these are mostly arranged in the one plane, spreading out either side of the stem. Note carefully how leaves are attached at successive nodes.
 
-a.  Which term(s) (see Fig. 1.2) best describes the phyllotaxis (leaf
+-  Which term(s) (see Fig. 1.2) best describes the phyllotaxis (leaf
     arrangement) of Abelia?
 
-> b\) Using a hand lens and holding the leaf against the light, examine the
-> venation pattern in the leaf lamina.
->
-> Are there any free vein endings in the leaf? Which term best describes
-> this pattern? How does this pattern differ from that in the leaflet of
-> a fern? Which pattern do you consider to be the more specialised,
-> given that both leaves evolved from a set of branches? Give your
-> reasons.
+<br>
+<br>
+<br>
 
-c.  Examine the relationship between stems, leaves and branches. How do
+- Using a hand lens and holding the leaf against the light, examine the
+ venation pattern in the leaf lamina.
+
+<br>
+<br>
+<br>
+
+- Are there any free vein endings in the leaf? Which term best describes
+this pattern? How does this pattern differ from that in the leaflet of a fern? 
+
+<br>
+<br>
+<br>
+
+- Examine the relationship between stems, leaves and branches. How do
     branches arise on the stem? Does this plant have axillary branching?
     Does each leaf axil contain a bud? How can you distinguish a branch
     of Abelia bearing two rows of simple leaves from a single pinnate
     leaf?
 
-> Fill in your answers to the above in Table 1.1.
+<br>
+<br>
+<br>
 
-6.  Examine the leaves on the pea seedlings (*Pisum sativum*) on your
-    bench. Each leaf is compound, consisting of a petiole terminating in
-    a rachis bearing several pairs of rounded leaflets.
 
-<!-- -->
 
-a.  Which term(s) best describes the form of these leaves (see Fig.
-    1.2).
+### Examine the  the pea seedlings (*Pisum sativum*) on your bench. 
+    
+	Each leaf is compound, consisting of a petiole terminating in a rachis bearing several pairs of rounded leaflets.
 
-<!-- -->
+- Which term(s) best describes the form of these leaves (see Figs. 1.1 and 1.2).
 
-b.  Identify the pair of large rounded stipules associated with each
+<br>
+
+- Identify the pair of large rounded stipules associated with each
     node, and resembling a basal pair of leaflets that are attached
     directly to the stem. Note how they enclose the apical bud of the
     main axis. What possible adaptive value could these stipules have?
 
-<!-- -->
+<br>
+<br>
+<br>
+<br>
 
-c.  Which term(s) best describe the phyllotaxis (leaf arrangement - see
-    Fig. 1.2).
+-  Which term(s) best describe the phyllotaxis (leaf arrangement - see Figs. 1.1 and 1.2).
 
-<!-- -->
+<br>
 
-d.  Does this plant have axillary buds?
+-  Does this plant have axillary buds?
 
-> Fill in the appropriate information in Table 1.1.
+<br> 
 
-7.  Examine the specimen of *Acacia elata* (Cedar Wattle).
+### Examine the specimen of *Acacia elata* (Cedar Wattle).
 
-> a\) How much constitutes a leaf? Look for axillary buds that may arise in
-> the axils of
->
-> leaves, but never in the axils of leaflets. Also look for the largest
-> repeated unit of organisation. The leaf is the largest determinate
-> unit of organisation, as distinct from the indeterminate stem system.
+	How much constitutes a leaf? Look for axillary buds that may arise in the axils of leaves, but never in the axils of leaflets. Also look for the largest repeated unit of organisation. The leaf is the largest determinate unit of organisation, as distinct from the indeterminate stem system.
 
-b.  Identify the petiole, rachis, primary leaflets (pinnae) and
+-  Identify the petiole, rachis, primary leaflets (pinnae) and
     secondary leaflets (pinnules). Are the primary and secondary
-    leaflets strictly paired? Is there a terminal leaflet on the primary
-    rachis? Is there a terminal secondary leaflet on the secondary
-    rachises? Which term(s) best describe the form of these compound
+    leaflets strictly paired? 
+
+<br>
+
+    
+- Is there a terminal leaflet on the primary
+    rachis? 
+
+<br>
+
+- Is there a terminal secondary leaflet on the secondary
+    rachises? 
+
+<br>
+    
+- Which term(s) best describe the form of these compound
     leaves? (see Fig. 1.2).
 
-<!-- -->
+<br>
 
-c.  Are there stipules present?
+-  Are there stipules present?
 
-<!-- -->
+<br>
 
-d.  Look for the doughnut- or volcano-shaped glands (**nectaries**) that
+- Look for the doughnut- or volcano-shaped glands (**nectaries**) that
     are a characteristic feature of the petiole and/or the rachis of
     *Acacia* species. What could be the adaptive value of such
     nectaries?
 
-e.  Compare the form of these leaves with those of *Gleichenia*. In
+<br>
+<br>
+<br>
+<br>
+
+- Compare the form of these leaves with those of *Gleichenia*. In
     which respects do they differ? Which of these two forms of leaf most
     closely resembles a stem system? (ie., which is the more primitive
     megaphyll?) Which features of the *Acacia* do you consider to be
     advanced, and which do you consider primitive?
 
-<!-- -->
+<br>
+<br>
+<br>
+<br>
 
-8.  In some angiosperms the process of adaptation has blurred the
+### Examine the specimens A, B, and C
+
+	In some angiosperms the process of adaptation has blurred the
     functional distinction between leaves and stems. Some such examples
     are considered below.
 
-<!-- -->
-
-a.  In each of specimens A, B and C, use your knowledge of the
+In each of specimens A, B and C, use your knowledge of the
     relationship between stems, leaves and axillary branches to work out
     what constitutes a leaf, and then enter in Table 1.1 the appropriate
     terminology from Fig 1.2 to describe the form and arrangement of the
     leaves.
 
-> b\) In the following cases, some part of the plant has been modified to
-> serve as an aid
->
-> to climbing.
+ In the following cases, some part of the plant has been modified to serve as an aid to climbing.
 
-i.  Examine the **tendrils** on the young pea plants supplied. Each
-    > tendril arises from near the end of a compound leaf, in the
-    > position in which you find a leaflet (CHECK THIS) on a leaf that
-    > has no tendril.
+	Examine the **tendrils** on the young pea plants supplied. Each
+     tendril arises from near the end of a compound leaf, in the
+     position in which you find a leaflet (CHECK THIS) on a leaf that
+     has no tendril.
 
-> Hence, we can conclude that the development has been modified so that
-> the tissues that normally develop into the leaflet grow into a tendril
-> instead (ie., the tendril is a modified leaflet/pinna).
->
-> ii\) Now examine the tendrils on the branch of *Cissus* sp. Each arises
-> on the stem
->
-> opposite a leaf. This suggests that the plant originally had leaves in
-> opposite pairs, and that one has been modified to form the tendril.
->
-> To check this explanation, find a node at which no tendril has been
-> formed.
->
-> Does this node bear a pair of leaves, or a single leaf? This shows
-> that our initial interpretation is wrong. The tendril cannot be a
-> modified leaf.
->
-> Is the tendril in the correct position to have arisen from an axillary
-> bud?
->
-> If it is neither a modified leaf nor a modified axillary branch, it
-> must in fact be a
->
-> modification of the tip of the main axis.
->
-> In this species, each time a tendril is formed it uses up the apical
-> meristem in the apical bud, so continued growth of the plant can only
-> come from an axillary bud emerging from the axil between the last leaf
-> and the tendril. As it grows, the axillary branch pushes the tendril
-> to the side, and forms a continuation of the vertical axis of the
-> plant. So the plant axis is formed by a new "side branch" at each node
-> bearing a tendril. This pattern of growth is described as **sympodial
-> growth**. Sympodial growth is also seen in some plants where the
-> apical bud is used up to form a flower.
->
-> iii\) Now examine specimens D, E and F and determine in each case whether
-> the
->
-> climbing structure (tendril or claw) represents an apical bud, and
-> axillary bud, a leaf or part of a leaf. Enter your answers in Table
-> 1.2.
->
-> **Check your answers with demonstrators / lecturers / classmates**
+ Hence, we can conclude that the development has been modified so that
+ the tissues that normally develop into the leaflet grow into a tendril
+ instead (ie., the tendril is a modified leaflet/pinna).
+
+ Now examine the tendrils on the branch of *Cissus* sp. Each arises
+ on the stem opposite a leaf. This suggests that the plant originally had leaves in
+ opposite pairs, and that one has been modified to form the tendril.
+
+ To check this explanation, find a node at which no tendril has been
+ formed.
+
+- Does this node bear a pair of leaves, or a single leaf? 
+
+<br>
+
+This shows
+ that our initial interpretation is wrong. The tendril cannot be a modified leaf.
+
+ - Is the tendril in the correct position to have arisen from an axillary bud?
+
+<br>
+
+ If it is neither a modified leaf nor a modified axillary branch, it
+ must in fact be a modification of the tip of the main axis.
+
+ In this species, each time a tendril is formed it uses up the apical
+ meristem in the apical bud, so continued growth of the plant can only
+ come from an axillary bud emerging from the axil between the last leaf
+ and the tendril. As it grows, the axillary branch pushes the tendril
+ to the side, and forms a continuation of the vertical axis of the
+ plant. So the plant axis is formed by a new "side branch" at each node
+ bearing a tendril. This pattern of growth is described as **sympodial
+ growth**. Sympodial growth is also seen in some plants where the
+ apical bud is used up to form a flower.
+
+
+### Now examine specimens D, E and F  
+
+	Determine in each case whether the climbing structure (tendril or claw) represents an apical bud, and axillary bud, a leaf or part of a leaf. Enter your answers in Table 1.2.
+
+### **Check your answers with demonstrators / lecturers / classmates**
 
 ![](alternateLeafArrangements.png)
 
-> **TABLE 1.1** Record of leaf morphology in angiosperms.
->
-> *Form of leaf Phyllotaxis Stipules*
+<div style="page-break-after: always;"></div>
 
-*Abelia triflora* simple opposite absent
+ **TABLE 1.1** Record of leaf morphology in angiosperms.
+ 
+|  Species |  Form of leaf | Phyllotaxis  | Stipules  |   
+|---|---|---|---|
+| *Abelia triflora*   |  simple | opposite   |  absent |  
+|  *Pisum sativum*  |   |  alternate helical |   present | 
+|  *Acacia elata* |   |   |   |   
+|  Specimen A |   |   |   |   
+|  Specimen B|   |   |   |   
+|  Specimen C |   |   |   |   
 
-*Pisum sativum* alternate helical present
+<br>
+<br>
+<br>
+<br>
 
-*Acacia elata*
 
-> Specimen A
->
-> Specimen B
->
-> Specimen C
->
-> **TABLE 1.2** Record of the organ modified to form structures that aid
-> climbing in plants.
->
-> Form of leaf Modification to aid climbing Organ modified
->
-> Specimen D
->
-> Specimen E
->
-> Specimen F
+ **TABLE 1.2** Record of the organ modified to form structures that aid
+ climbing in plants.
+ 
+|  Species |  Form of leaf | Modification to aid climbing | Organ modified  |   
+|---|---|---|---|
+| Specimen D   |   |    |   |  
+|  Specimen E  |   |   |    | 
 
-**2. INTRODUCTION TO THE USE OF AN IDENTIFICATION KEY**
+
+
+<div style="page-break-after: always;"></div>
+
+## INTRODUCTION TO THE USE OF AN IDENTIFICATION KEY
 
 The aims of this exercise are to learn how to use an identification key,
 and also to become familiar with a range of common vegetative features
@@ -387,56 +453,53 @@ realise that you do **not** have to use all the possible alternatives
 for any one specimen. The contrasting alternatives can be arranged in
 either of the following ways:
 
-> a\) In **Bracketed Keys** the contrasting alternatives are placed
-> together, usually under a single
->
-> number. Each alternative directs you to the numbered alternative that
-> should be examined next. Hence, the first alternative under number 1
-> might direct you to 2 (the second pair of contrasting conditions),
-> while the second alternative under 1 may direct you to 13, omitting
-> all the intervening pairs (2 to 12).
->
-> b\) In **Indented Keys** the contrasting alternatives are marked with the
-> same symbols (numbers or letters) and indented or inset the same
-> distance from the left hand margin, but are not necessarily placed
-> directly under each other; indeed, they can sometimes be on different
-> pages of the book, so one has to search for the alternative. Commonly
-> the first and second alternatives are distinguished as A and \*A, B
-> and \*B, etc. Having decided which alternative best fits the specimen,
-> proceed to the pair of alternatives that immediately *follows* the
-> correct alternative (**downwards!**). Hence, if your specimen fits the
-> second of two alternatives, say \*B, ignore all the choices listed below
-> B and go to the first choice listed under \*B.
+ a\) In **Bracketed Keys** the contrasting alternatives are placed together, usually under a single number. Each alternative directs you to the numbered alternative that should be examined next. Hence, the first alternative under number 1 might direct you to 2 (the second pair of contrasting conditions), while the second alternative under 1 may direct you to 13, omitting all the intervening pairs (2 to 12).
+
+b\) In **Indented Keys** the contrasting alternatives are marked with the
+ same symbols (numbers or letters) and indented or inset the same
+ distance from the left hand margin, but are not necessarily placed
+ directly under each other; indeed, they can sometimes be on different
+ pages of the book, so one has to search for the alternative. Commonly
+  the first and second alternatives are distinguished as A and \*A, B
+ and \*B, etc. Having decided which alternative best fits the specimen,
+ proceed to the pair of alternatives that immediately *follows* the
+ correct alternative (**downwards!**). Hence, if your specimen fits the
+ second of two alternatives, say \*B, ignore all the choices listed below
+ B and go to the first choice listed under \*B.
 
 In **both** types, it is essential to -
 
-> i\) always proceed downwards;
->
-> ii\) **read both alternatives carefully** **before** deciding which best
-> fits the specimen, and check any unfamiliar terms in the glossary.
-> **Never** decide that the first alternative is correct before you read
-> the second of the contrasting pair!
->
-> Now turn to the key on page 110. This is a key that uses only
-> vegetative characters. The advantage of such a key is that it does not
-> require you to have flowers or fruit, which are only on the tree in
-> certain seasons. Use this key to identify at least two of the
-> specimens G to K.
+1. always proceed downwards;
+2.  **read both alternatives carefully** **before** deciding which best fits the specimen, and check any unfamiliar terms in the glossary. **Never** decide that the first alternative is correct before you read the second of the contrasting pair!
 
-**3. THE PLANT COLLECTION**
+ Now turn to the key on page 110. This is a key that uses only
+vegetative characters. The advantage of such a key is that it does not
+ require you to have flowers or fruit, which are only on the tree in
+ certain seasons. Use this key to identify at least two of the
+ specimens.
+ 
+<div style="page-break-after: always;"></div>
+
+#Long-term assignments
+
+##THE PLANT COLLECTION
 
 See details at the end of the lab manual for plant collection
 guidelines. While the collection is not due until week 8, we suggest
 that you begin work on this project as soon as possible.
 
-**4. RESEARCH IN BOTANY**
+##RESEARCH IN BOTANY
 
 See details at the end of the lab manual and on Moodle for the research
 in botany guidelines. The final submission for research in botany is
 close to the end of the session. Once again, we suggest that you begin
 work on this project early.
 
-PRAC 2 (WEEK 3): PLANT CELLS
+###Start early!!!
+
+<div style="page-break-after: always;"></div>
+
+#PRAC 2 (WEEK 3): PLANT CELLS
 
 You should refer to the notes on Light Microscopy and the use of the
 Olympus CHA Microscope which you will find in the manual introduction.
@@ -1350,13 +1413,17 @@ and family descriptions of the major Australian plant families.
 
 Reference: Raven Biology of Plants. ch 24.
 
-##**Introduction **
+## Introduction
 
 Plants invest significant carbon captured in
 photosynthesis into their root systems. Roots have four functions:
+
 1) Resources uptake
+
 2) Anchorage
+
 3) Transport
+
 4) Storage
 
 The last three of these functions are always done by the plant itself.  The first one, resource uptake is often done via symbiotic partners.
@@ -1378,6 +1445,8 @@ First we will examine how lateral branches are produced. They are
 ENDOGENOUS - that is, in contrast to stems, they are initiated deep
 inside root tissues.
 
+## Root morphology
+
 ### The initiation of lateral roots
 
 Lateral roots are initiated early in development in broad beans (*Vicia
@@ -1389,8 +1458,16 @@ stain with toluidine blue.
 
 <br>
 <br>
+<br>
 
-**2. When is a root not a root?**
+Think about the vascular connections in roots.  Where is the xylem in a root compared to in a stem? 
+
+<br>
+<br>
+<br>
+
+
+### When is a root not a root?
 
 <!---
 Can we get a rhizome to look at?
@@ -1410,17 +1487,19 @@ Can we get a rhizome to look at?
 
 <br>
 <br>
+<br>
 
 
 -  What strange thing does the root tip do when it emerges from the mud?
 
 <br>
 <br>
-
+<br>
 
 -  What is the primary function of a pneumatophore? What adaptations do
     pneumatophores have that allow them to carry out this function?
 
+<br>
 <br>
 <br>
 
@@ -1457,10 +1536,12 @@ Some species, including Eucalyptus spp., have both types of mycorrhizas.
 
 <br>
 <br>
+<br>
 
 -   Examine the root systems provided to see whether you can locate any
     arbuscula mychorrhizal associations.
 
+<br>
 <br>
 <br>
 
