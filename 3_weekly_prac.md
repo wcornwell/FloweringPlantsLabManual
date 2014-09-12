@@ -1,3 +1,34 @@
+\newpage
+<div style="page-break-after: always;"></div>
+
+#Long-term assignments
+
+##THE PLANT COLLECTION
+
+See details at the end of the lab manual for plant collection
+guidelines. While the collection is not due until week 8, we suggest
+that you begin work on this project as soon as possible.
+
+##RESEARCH IN BOTANY
+
+There are three options for this assignment.
+
+1. Write a research proposal (see ideas for topics at the back of the lab manual)
+
+2.  A tree journal.  In this assignment you will take (at least) weekly notes about the morphology and physiology of one tree individual through the term.  This may include photographs, data collection, or written observations.  These observations should be uploaded weekly to moodle.  
+
+3.  A 3--minute video (groups of up to two) about a cool species from your collection or about some cool area of plant biology you want to explain to a general audience.  
+
+For all projects a one-page proposal is due at the last lecture of week 3.  This is simply a plan for what you are going to work on.    For the research proposal identify the topic.  
+For the tree journal you should find the tree that your will take repeated observations at, and have already identified it.  For the video project you should have a rough outline of the idea for the video and the 
+
+The one-page proposal is assessed, and we will give you feedback on the ideas.
+
+##Start both of these assignments early!!!
+
+\newpage
+<div style="page-break-after: always;"></div>
+
 #PRACTICAL 1 (WEEK 2): VEGETATIVE MORPHOLOGY & INTRODUCTION TO IDENTIFICATION KEYS.
 
 ## THE NATURE OF LEAVES
@@ -26,6 +57,9 @@ The developments of new organs such as axillary buds, and the
 specialisation of organs to serve new functions such as aids to
 climbing, are also illustrated.
 
+<div style="page-break-after: always;"></div>
+\newpage
+
 ##Division PSILOPHYTA: A single living order, Psilotales.
 
 The earliest known vascular plants consisted of a system of cylindrical
@@ -37,49 +71,53 @@ record, but there are two living genera that approach this simple level
 of organisation. These are *Psilotum* and *Tmesipteris*, both native to
 Australia.
 
-<div style="page-break-after: always;"></div>
+
 
 ###Examine the plant of *Psilotum nudum*. 
 
-It consists of a stem system bearing small *microphylls*. The stem grows by a single apical initial rather than a meristem (a group of initials).
+It consists of a stem system bearing small *microphylls*. The stem grows by a single apical "initial" rather than a meristem (a group of initials).
 
 - Examine the branching of the stem. This type of branching, where there is no main axis bearing laterals, is termed **dichotomous**. It is the oldest form of branching in plants, and is still common in the algae.  Can you distinguish a main axis bearing lateral branches, or are all branches of equal size and growth? 
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
 - Determine what, if any, relationship exists between microphyll and branch position. Does this plant have axillary buds? If there are no actual buds, from which point and in what manner do branches form?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
 - Are apical buds present? Check the definition of bud in the glossary.  
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
 - How do you think new aerial stems are produced from below ground?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
 - What would be the effect of browsing or pruning the tips of the aerial parts of the plant?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
+<div style="page-break-after: always;"></div>
+\newpage
 
 ## The Ferns
 
-Members of this order have roots, stems and leaves, but the latter are
-*megaphylls*, and are not homologous with the microphylls of the
-previous group. In the ferns there is no main root system, the roots
-being lateral organs borne on the stems (*adventitious* roots).
+Members of this order have roots, stems and leaves, but the latter are *megaphylls*, and are not homologous with the microphylls of the previous group. In the ferns there is no main root system, the roots being lateral organs borne on the stems (*adventitious* roots).
 
 ### Examine the specimen of *Lygodium scandens*. 
 The stem grows horizontally below the surface of the ground (it is a *rhizome*); only
@@ -89,6 +127,7 @@ new one the next year.
 
 - Do the leaves show determinate or indeterminate growth?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -97,6 +136,7 @@ new one the next year.
     cell that is responsible for the growth. All fern leaves uncoil at
     the apex like this – why is this adaptive?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -106,6 +146,7 @@ new one the next year.
     secondary leaflets (*pinnae* and *pinnules*), and the primary and
     secondary *rachises*.
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -114,6 +155,7 @@ new one the next year.
 -  How would you describe the primary branching in the leaf? Is there
     any evidence of dichotomous branching in these leaves?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -122,6 +164,7 @@ new one the next year.
     open system where the branches end blindly rather than joining to
     form a net.
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -130,28 +173,30 @@ new one the next year.
     leaf of *Lygodium scandens*? Is any organ of the latter homologous
     with the microphylls of the former?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
-![](alternateLeafMorphologies.png)
+![Terms for different leaf morphologies](alternateLeafMorphologies.png)
 
 ### Examine the specimen of *Gleichenia* sp. 
-Note the small fibrous
-adventitious roots that arise at any point along the stem, and the large
-divided (compound) megaphylls. Again these leaves uncoil during growth.
+
+Note the small fibrous adventitious roots that arise at any point along the stem, and the large divided (compound) megaphylls. These leaves uncoil during growth.
 
 -  Determine the relationship (if any) between leaf positions and
     branching of the stem. Does this species have axillary buds? How are
     branches initiated in the stem system?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
 
 
-- Use the diagrams in Fig. 1.1 to determine what type of branching is present in the leaf. How many orders of branching are there in a leaf? Identify the primary, secondary and tertiary rachises.
+- Use the diagrams in Fig. 1 to determine what type of branching is present in the leaf. How many orders of branching are there in a leaf? Identify the primary, secondary and tertiary rachises.
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -160,6 +205,7 @@ divided (compound) megaphylls. Again these leaves uncoil during growth.
 -  Compare a one-year-old leaf with a two-year-old leaf. Is there any
     evidence of indeterminate growth in these leaves?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -168,6 +214,7 @@ divided (compound) megaphylls. Again these leaves uncoil during growth.
 -  Examine the apex of the rhizome (underground stem). Does this plant
     have an apical bud? Is there any protection of the growing apex?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -175,20 +222,20 @@ divided (compound) megaphylls. Again these leaves uncoil during growth.
 
 ## Gymnosperms
 
-These are seed plants without fruit or flowers. They are thought to have dominated the world's
-vegetation during the cooler and drier period that followed the Carboniferous.
+These are seed plants without fruit or flowers. They are thought to have dominated the world's vegetation during the cooler and drier period that followed the Carboniferous.
 
 ### Examine the specimen of *Podocarpus elatus* 
 
 *Podocarpus elatus* (Plum Pine) is a conifer native to the closed forests of eastern Australia. 
 
-The leaves of conifers are also interpreted as megaphylls, ie. as having evolved from
+The leaves of conifers are also interpreted as megaphylls, i.e. as having evolved from
 a lateral branch that has become determinate in growth and flattened to
 enhance interception of light.
 
 - Note the simple leaves that characterise the order. Are the leaves strictly determinate in growth? How are they arranged? What term(s) best
  describe the **phyllotaxis** (leaf arrangement)?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -199,6 +246,7 @@ enhance interception of light.
  between the adaxial and abaxial mesophyll tissue that distributes water
  laterally through the lamina from the single midvein.
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -206,6 +254,7 @@ enhance interception of light.
 - Examine the pattern of branching of the stem. Look for axillary buds in leaf axils. Does this plant have axillary branching as in angiosperms or apical
  branching as in ferns?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -214,6 +263,7 @@ enhance interception of light.
 
 - Given that each winter bud marks the end of a year's growth, how old is the basal internode of the specimen you are examining?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -231,7 +281,7 @@ conifers, the leaves of angiosperms may be simple or compound.
 
 ###Examine the specimen of *Abelia triflora* 
 
-	Note that it has simple leaves with a short petiole, and that the laminas of these are mostly arranged in the one plane, spreading out either side of the stem. Note carefully how leaves are attached at successive nodes.
+Note that it has simple leaves with a short petiole, and that the laminas of these are mostly arranged in the one plane, spreading out either side of the stem. Note carefully how leaves are attached at successive nodes.
 
 -  Which term(s) (see Fig. 1.2) best describes the phyllotaxis (leaf
     arrangement) of Abelia?
@@ -268,7 +318,7 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
 
 ### Examine the  the pea seedlings (*Pisum sativum*) on your bench. 
     
-	Each leaf is compound, consisting of a petiole terminating in a rachis bearing several pairs of rounded leaflets.
+Each leaf is compound, consisting of a petiole terminating in a rachis bearing several pairs of rounded leaflets.
 
 - Which term(s) best describes the form of these leaves (see Figs. 1.1 and 1.2).
 
@@ -294,7 +344,7 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
 
 ### Examine the specimen of *Acacia elata* (Cedar Wattle).
 
-	How much constitutes a leaf? Look for axillary buds that may arise in the axils of leaves, but never in the axils of leaflets. Also look for the largest repeated unit of organisation. The leaf is the largest determinate unit of organisation, as distinct from the indeterminate stem system.
+How much constitutes a leaf? Look for axillary buds that may arise in the axils of leaves, but never in the axils of leaflets. Also look for the largest repeated unit of organisation. The leaf is the largest determinate unit of organisation, as distinct from the indeterminate stem system.
 
 -  Identify the petiole, rachis, primary leaflets (pinnae) and
     secondary leaflets (pinnules). Are the primary and secondary
@@ -327,6 +377,7 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
     *Acacia* species. What could be the adaptive value of such
     nectaries?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -338,6 +389,7 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
     megaphyll?) Which features of the *Acacia* do you consider to be
     advanced, and which do you consider primitive?
 
+\vspace*{3\baselineskip}
 <br>
 <br>
 <br>
@@ -345,7 +397,7 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
 
 ### Examine the specimens A, B, and C
 
-	In some angiosperms the process of adaptation has blurred the
+In some angiosperms the process of adaptation has blurred the
     functional distinction between leaves and stems. Some such examples
     are considered below.
 
@@ -357,7 +409,7 @@ In each of specimens A, B and C, use your knowledge of the
 
  In the following cases, some part of the plant has been modified to serve as an aid to climbing.
 
-	Examine the **tendrils** on the young pea plants supplied. Each
+Examine the **tendrils** on the young pea plants supplied. Each
      tendril arises from near the end of a compound leaf, in the
      position in which you find a leaflet (CHECK THIS) on a leaf that
      has no tendril.
@@ -400,13 +452,20 @@ This shows
 
 ### Now examine specimens D, E and F  
 
-	Determine in each case whether the climbing structure (tendril or claw) represents an apical bud, and axillary bud, a leaf or part of a leaf. Enter your answers in Table 1.2.
+Determine in each case whether the climbing structure (tendril or claw) 
+	represents an apical bud, and axillary bud, a leaf or part of a leaf. 
+	Enter your answers in Table 1.2.
 
-### **Check your answers with demonstrators / lecturers / classmates**
 
-![](alternateLeafArrangements.png)
+
+![Terms for the different arrangements of leaves](alternateLeafArrangements.png)
 
 <div style="page-break-after: always;"></div>
+
+<br>
+<br>
+<br>
+<br>
 
  **TABLE 1.1** Record of leaf morphology in angiosperms.
  
@@ -433,19 +492,22 @@ This shows
 | Specimen D   |   |    |   |  
 |  Specimen E  |   |   |    | 
 
+### **Check your answers with demonstrators / lecturers / classmates**
 
+<br>
 
 <div style="page-break-after: always;"></div>
 
 ## INTRODUCTION TO THE USE OF AN IDENTIFICATION KEY
 
-The aims of this exercise are to learn how to use an identification key,
-and also to become familiar with a range of common vegetative features
-of plants. Use the preceding section and the glossary to understand all
-the terms in the key.
+	**Plant identification is a key skill from this course. 
+	 This skill is essential in a range of careers
+	 including consultancy, bush regeneration, government and research**
 
-A key is a device that progressively eliminates a series of
-possibilities until the identification is completed. At each step in the
+Plant identification almost always is based on a key.  The aims of this exercise are to learn how to use an identification key, and also to become familiar with a range of common vegetative features of plants. Use the preceding section and the glossary to understand all the terms in the key.
+
+A key is a device that progressively eliminates
+possibilities until the identification is complete. At each step in the
 process it asks you to choose which of a pair of contrasting conditions
 or characters occurs in your specimen, and then directs you to the next
 appropriate choice depending on the condition chosen. It is important to
@@ -453,9 +515,9 @@ realise that you do **not** have to use all the possible alternatives
 for any one specimen. The contrasting alternatives can be arranged in
 either of the following ways:
 
- a\) In **Bracketed Keys** the contrasting alternatives are placed together, usually under a single number. Each alternative directs you to the numbered alternative that should be examined next. Hence, the first alternative under number 1 might direct you to 2 (the second pair of contrasting conditions), while the second alternative under 1 may direct you to 13, omitting all the intervening pairs (2 to 12).
+ 1. In **Bracketed Keys** the contrasting alternatives are placed together, usually under a single number. Each alternative directs you to the numbered alternative that should be examined next. Hence, the first alternative under number 1 might direct you to 2 (the second pair of contrasting conditions), while the second alternative under 1 may direct you to 13, omitting all the intervening pairs (2 to 12).
 
-b\) In **Indented Keys** the contrasting alternatives are marked with the
+2. In **Indented Keys** the contrasting alternatives are marked with the
  same symbols (numbers or letters) and indented or inset the same
  distance from the left hand margin, but are not necessarily placed
  directly under each other; indeed, they can sometimes be on different
@@ -478,26 +540,10 @@ vegetative characters. The advantage of such a key is that it does not
  certain seasons. Use this key to identify at least two of the
  specimens.
  
+ \newpage
 <div style="page-break-after: always;"></div>
 
-#Long-term assignments
 
-##THE PLANT COLLECTION
-
-See details at the end of the lab manual for plant collection
-guidelines. While the collection is not due until week 8, we suggest
-that you begin work on this project as soon as possible.
-
-##RESEARCH IN BOTANY
-
-See details at the end of the lab manual and on Moodle for the research
-in botany guidelines. The final submission for research in botany is
-close to the end of the session. Once again, we suggest that you begin
-work on this project early.
-
-###Start early!!!
-
-<div style="page-break-after: always;"></div>
 
 #PRAC 2 (WEEK 3): PLANT CELLS
 
@@ -808,26 +854,35 @@ precise function of companion cells is controversial.
 
 See Raven Ch 23 for more information on plant cells.
 
+
+
+![](parenchyma_and_collenchyma.png)\
+
 **Fig 2.1** Parenchyma and Collenchyma
 
-![](media/image3.jpeg)\
+<br>
+
+![](sclerchyma_and_xylem.png)
+
 **Fig 2.2** Sclerenchyma and Xylem
 
-![](media/image4.jpeg)
+<br>
+
+![](phloem.png)
 
 **Fig 2.3** Phloem
 
-![](media/image5.jpeg)
 
-**PRAC 3 (WEEK 4): FLORAL MORPHOLOGY, INFLORESCENCES **
+
+#PRAC 3 (WEEK 4): FLORAL MORPHOLOGY, INFLORESCENCES
 
 Reference: Raven, P.H., Evert, R.F. & Eichhorn, S.E. 2013. **The Biology
-of Plants 8^th^ edition** pp 478-492.
+of Plants 8<sup>th</sup> edition** pp 478-492.
 
-In this practical, we will examine the floral characters of typical
-angiosperms. In addition, we will introduce you to sufficient
-terminology that you can use identification keys based on reproductive
-characters.
+>In this practical, we will examine the floral characters of typical
+>angiosperms. In addition, we will introduce you to sufficient
+>terminology that you can use identification keys based on reproductive
+>characters.
 
 Adaptation of floral structure to a wide variety of pollination
 mechanisms has produced a vast array of different flowers. Analysing
@@ -836,7 +891,7 @@ descriptions are difficult to write and tedious to read, and most of us
 are not artistic enough to make accurate drawings of flowers, short-hand
 methods of recording some of the important features have been developed.
 
-***PREPARATION***
+##PREPARATION
 
 Before the class, read the following section on recording floral
 structure and examine the diagrams supplied in this manual.
@@ -844,54 +899,53 @@ structure and examine the diagrams supplied in this manual.
 Make sure you can distinguish between the following sets of terms
 (consult the glossary at the back of the manual):
 
-determinate and indeterminate growth
+1. determinate and indeterminate growth
 
-radial and bilateral symmetry
+2. radial and bilateral symmetry
 
-perianth, petal, corolla, sepal, calyx
+3. perianth, petal, corolla, sepal, calyx
 
-ovary, ovule and ovum
+4. ovary, ovule and ovum
 
-carpel and gynoecium
+5. carpel and gynoecium
 
-***METHODS OF RECORDING FLORAL STRUCTURE***
+##***METHODS OF RECORDING FLORAL STRUCTURE***
 
 As you will see, flowers are complex, highly specialised, and exhibit
 tremendous morphological diversity across taxa. Botanists have a number
 of ways of describing floral structure.
 
-**(a) A floral formula** can express the number, fusion and insertion of
+**A floral formula** can express the number, fusion and insertion of
 floral parts.
 
-> The symbols used are as follows:-
->
-> **K** : calyx (sepals)
->
-> **C** : corolla (petals)
->
-> **P** refers to the perianth, when calyx (**K**) and corolla (**C**)
-> are not different.
->
-> **A** : androecium i.e. the number and arrangement of stamens and
-> staminodes.
->
-> **G** : gynoecium i.e. the number and arrangement of carpels.
->
-> **G** *4* : a line under the number for G indicates a superior ovary
->
-> **G** 3 : a line over the number for G indicates an inferior ovary
->
-> **\*** : radially symmetric flower ie. actinomorphic
->
-> .|. : bilaterally symmetric flower ie. zygomorphic
->
-> \(5) signifies fusion of parts in the same whorl;
->
-> [C5+A5] or C5+A5 indicates fusion between the parts of different
-> whorls.
->
-> for example, the floral formula \* K5 [C(5) A5+5] G(*3*)
+The symbols used are as follows:
 
+- **K** : calyx (sepals)
+
+- **C** : corolla (petals)
+
+- **P** refers to the perianth, when calyx (**K**) and corolla (**C**) are not different.
+
+- **A** : androecium i.e. the number and arrangement of stamens and staminodes.
+
+- **G** : gynoecium i.e. the number and arrangement of carpels.
+
+- **G** *4* : a line under the number for G indicates a superior ovary
+
+- **G** 3 : a line over the number for G indicates an inferior ovary
+
+- **\*** : radially symmetric flower ie. actinomorphic
+
+- .|. : bilaterally symmetric flower ie. zygomorphic
+
+- \(5) signifies fusion of parts in the same whorl;
+
+- [C5+A5] or C5+A5 indicates fusion between the parts of different whorls.
+
+For example, the floral formula:
+
+     \* K5 [C(5) A5+5] G(*3*)
+	
 signifies a radially symmetrical flower with 5 free sepals, 5 fused
 petals, 2 whorls each of 5 stamens that arise from the inside of the
 petals, and 3 fused carpels with a superior ovary.
@@ -903,7 +957,7 @@ arrangement of the carpels (locules). Then gently squeeze each section
 of the ovary. If the ovules pop out of one end then you can assume that
 they must be attached at the other end.
 
-(b) **A floral diagram** is a ground plan that can express number of
+**A floral diagram** is a ground plan that can express number of
     parts, fusion and some of the symmetry, but not whether the ovary is
     superior or inferior. It helps to draw concentric circles for each
     whorl first in light pencil as a guide for the diagram. The position
@@ -911,47 +965,48 @@ they must be attached at the other end.
     be shown. Figures 3.1 and 3.2 show examples of floral diagrams and
     floral formulae
 
-> **\
-> **
->
-> **Fig.3.1** A floral diagram of *Flindersia*, a rainforest tree of
-> northern NSW. Note that each successive whorl is offset by the same
-> angle. This alternation of whorls is a feature of virtually all
-> flowers. There is an outer whorl of fertile stamens (the five lobed
-> anthers between the petals) and an inner whorl of sterile staminodes
-> (the five circles opposite the petals). Fusion is shown by joining
-> parts with a line (as for the sepals). Note that the petals are shown
-> to overlap, the stamens in the inner whorl are reduced and sterile,
-> and the 5 locules show axile placentation. These points are not
-> indicated in the formula.
+![](floralDiagram.png)
 
-![](media/image6.jpeg)
+ **Fig.3.1** A floral diagram of *Flindersia*, a rainforest tree of
+ northern NSW. Note that each successive whorl is offset by the same
+ angle. This alternation of whorls is a feature of virtually all
+ flowers. There is an outer whorl of fertile stamens (the five lobed
+ anthers between the petals) and an inner whorl of sterile staminodes
+ (the five circles opposite the petals). Fusion is shown by joining
+ parts with a line (as for the sepals). Note that the petals are shown
+ to overlap, the stamens in the inner whorl are reduced and sterile,
+ and the 5 locules show axile placentation. These points are not
+ indicated in the formula.
+
+![](variation_floral_diagram.png)
 
 **Fig 3.2** Examples of floral diagrams and floral formulae illustrating
 some variations in floral structure that can be shown in these ways.
 
-![](media/image7.jpeg)
+![](ovary_position.png)
 
 **Fig 3.3** Terminology for describing the position of the ovary in
 relation to other floral parts.
 
-![](media/image8.jpeg)
 
-**Fig 3.4** Primitive Carpels
 
-![](media/image9.jpeg)
 
+
+![](basal_carpels.png)
+
+**Fig 3.4**  Carpels in basal angiosperm lineages
 **Fig 3.5** Evolution of Syncarpy
+
+![](placentation.png)
 
 **Fig 3.6** Evolution of different types of placentation in the ovary of
 angiosperms by different patterns of carpel fusion
 
-![](media/image10.jpeg)
+
+![](ovary_position_evolution.png)
 
 **Fig 3.7** Vertical sections of flowers indicating two different ways
-in which an inferior ovary may have evolvee.
-
-![](media/image11.jpeg)
+in which an inferior ovary may have evolved.
 
 **Fig 3.8** Sections of the ovary of two related species, both members
 of the Agavaceae. In *Agave*, the vascular traces to the whorls of
@@ -968,40 +1023,43 @@ the pattern in which flowers are borne on inflorescences. The more an
 inflorescence differs from an ordinary vegetative branch, the more
 highly evolved it is usually considered.
 
-> \(a) The inflorescence on *specimen A* is said to be *anthotelic* (ending
-> in a flower), because the growing apex of the inflorescence axis is used
-> up to form a flower, and subsequent growth is from lateral branches. The
-> pattern of branching and the length of the internodes within the
-> inflorescence are used to define sub-types (see Fig 3.9). Which sub-type
-> of the anthotelic inflorescence is this?
->
-> \(b) *Specimen B* has a *blastotelic* inflorescence (ending in a branch
-> or vegetative bud). The apical bud of the inflorescence axis is not used
-> to form a flower, and so the inflorescence is potentially indeterminate:
-> ie. it could continue to grow indefinitely. Hence these inflorescences
-> often do not have such a precisely defined size as anthotelic ones. When
-> the axis of the inflorescence reverts back to vegetative growth at the
-> end of the flowering season, the inflorescence becomes *intercalary*
-> rather than *terminal* on the plant (ie. within a branch, rather than on
-> the end of a branch). Which of the sub-types of the blastotelic
-> inflorescence is this (see Fig 3.9)?
->
-> \(c) A mixture of branching patterns may occur within the one
-> inflorescence. These are described in order of branching eg. a raceme of
-> cymes - the cyme is the terminal form (Fig 3.9). Describe the
-> inflorescence in specimens *C,* *D* and *E*. Record each in the form of
-> a line diagram, as in Fig 3.9. Note carefully whether the flowers are
-> sessile or have a peduncle.
+- The inflorescence on *specimen A* is said to be *anthotelic* (ending
+ in a flower), because the growing apex of the inflorescence axis is used
+ up to form a flower, and subsequent growth is from lateral branches. The
+ pattern of branching and the length of the internodes within the
+ inflorescence are used to define sub-types (see Fig 3.9). Which sub-type
+ of the anthotelic inflorescence is this?
+
+- *Specimen B* has a *blastotelic* inflorescence (ending in a branch
+ or vegetative bud). The apical bud of the inflorescence axis is not used
+ to form a flower, and so the inflorescence is potentially indeterminate:
+ ie. it could continue to grow indefinitely. Hence these inflorescences
+ often do not have such a precisely defined size as anthotelic ones. When
+ the axis of the inflorescence reverts back to vegetative growth at the
+ end of the flowering season, the inflorescence becomes *intercalary*
+ rather than *terminal* on the plant (ie. within a branch, rather than on
+ the end of a branch). Which of the sub-types of the blastotelic
+ inflorescence is this (see Fig 3.9)?
+
+- A mixture of branching patterns may occur within the one
+ inflorescence. These are described in order of branching eg. a raceme of
+ cymes - the cyme is the terminal form (Fig 3.9). Describe the
+ inflorescence in specimens *C,* *D* and *E*. Record each in the form of
+ a line diagram, as in Fig 3.9. Note carefully whether the flowers are
+ sessile or have a peduncle.
+
+<!---
+![](media/image12.jpeg)
+-->
+
 
 **Fig 3.9** Types of inflorescences. The sequence in which the flowers
 open is indicated by size of the circles representing the flowers;
 largest opens first, smallest opens last.
 
-![](media/image12.jpeg)
+##***PLANT IDENTIFICATION***
 
-***PLANT IDENTIFICATION***
-
-**1. Examine the floral structure of the specimen provided.**
+### Examine the floral structure of the specimen provided.
 
 > \(a) **Perianth.** How many whorls of perianth are present? If there is
 > more than one whorl, do they alternate in position as in Fig 3.1? Are
@@ -1322,9 +1380,9 @@ i.  *Spartina anglica*
 
 This is one of the world’s worst weeds, invading mudflats in many
 locations, including southern Australia.
-
+<!---
 ![](media/image13.jpeg)
-
+-->
 Is Spartina a C~3~ or a C~4~ species?
 
 -   Draw a HP drawing showing those features of the leaf which support
@@ -1337,9 +1395,9 @@ Is Spartina a C~3~ or a C~4~ species?
 i.  *Sporobolus virginicus*
 
 *Sporobolus virginicus* is a major saltmarsh grass around the world.
-
+<!---
 ![](media/image14.jpeg)
-
+-->
 One of its adaptations to tolerating saline conditions is through
 excretion of salts through special salt glands. In grasses, salt glands
 are relatively simple two celled structures.
@@ -1389,9 +1447,9 @@ i.  Examine the demonstration material of hydathodes in *Impatiens* sp.
 > *Sporobolus virginicus*;
 
 3\. *Samolus repens*
-
+<!---
 ![](media/image15.jpeg)
-
+-->
 **2. Stem Transport**
 
 In this prac, we will compare aspects of xylem architecture between
@@ -1973,9 +2031,9 @@ the vascular cambium and the cork cambia.
 > **Fig 8.1** The three dimensional structure of wood illustrating the
 > planes of transverse (TS), tangential (TLS) and radial (RLS) sections.
 > These are most easily distinguished by the appearance of the rays.
-
+<!---
 ![](media/image16.jpeg)
-
+-->
 **ARBORESCENCE IN MONOCOTYLEDONOUS PLANTS **
 
 Arborescent plants are those with a tree-like form or ‘habit’.
@@ -2037,7 +2095,11 @@ the stem.
 >
 > objective, calculate the average and work this out as bundles per cm2,
 > given that the diameter of the X10 field is 2mm, and the area of a
-> circle is π r2.
+> circle is pi  r2.
+
+
+
+
 >
 > Enter your results in the individual result sheet provided.
 
@@ -2177,9 +2239,9 @@ iv) Total leaf weight (remove all leaves, place in a paper bag, record
 
 Using class data – complete the graph and questions on the following
 sheet. Check your answers with demonstrators / lecturers
-
+<!---
 ![](media/image17.emf)
-
+-->
 1\) What are the average Height / Diameter values for each treatment
 (high and low density)? What do these values tell us about how stem
 architecture adaptively responds to environmental variability?
@@ -2770,9 +2832,9 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
   Sabiaceae           40                  Abiotic            Biotic           Woody
   Schrophulariaceae   3000                Biotic             Biotic           Herb
   Vitaceae            700                 Biotic             Biotic           Woody
-
+<!---
 ![](media/image18.jpeg)
-
+-->
 Figure 11.1. A phylogeny of flowering plant families. From: Silvertown,
 Dodd, and Chase (1999) Evolution 53: 732-744.
 
