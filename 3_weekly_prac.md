@@ -1,10 +1,10 @@
 \newpage
-<div style="page-break-after: always;"</div
+
 
 
 # Prac 1: Vegetative Morphology & Intro to Keys
 
-## THE NATURE OF LEAVES
+## The Nature Of Leaves
 
 Flowering plants are the culmination of just one evolutionary
 pathway in vascular plants. This laboratory aims to place them in the
@@ -30,7 +30,9 @@ The developments of new organs such as axillary buds, and the
 specialisation of organs to serve new functions such as aids to
 climbing, are also illustrated.
 
-<div style="page-break-after: always;"</div
+In today's lab we will do a very brief tour of leaves across all the major groups of vascular plants 
+from whisk ferns, ferns, gymnosperms, and finishing with the angiosperms.
+
 \newpage
 
 ##Division Psilophyta: the whisk ferns
@@ -53,39 +55,26 @@ It consists of a stem system bearing small *microphylls*. The stem grows by a si
 - Examine the branching of the stem. This type of branching, where there is no main axis bearing laterals, is termed **dichotomous**. It is the oldest form of branching in plants, and is still common in the algae.  Can you distinguish a main axis bearing lateral branches, or are all branches of equal size and growth? 
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
 
 - Determine what, if any, relationship exists between microphyll and branch position. Does this plant have axillary buds? If there are no actual buds, from which point and in what manner do branches form?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
 
 - Are apical buds present? Check the definition of bud in the glossary.  
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
 
 - How do you think new aerial stems are produced from below ground?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 - What would be the effect of browsing or pruning the tips of the aerial parts of the plant?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
-<div style="page-break-after: always;"</div
 \newpage
 
 ## The Ferns
@@ -101,55 +90,35 @@ new one the next year.
 - Do the leaves show determinate or indeterminate growth?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 -  Note the growing apex of a leaf is coiled up to protect the initial
     cell that is responsible for the growth. All fern leaves uncoil at
     the apex like this – why is this adaptive?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-
 
 -  Use the drawings in Figs.1.1. and 1.2 to identify the primary and
     secondary leaflets (*pinnae* and *pinnules*), and the primary and
     secondary *rachises*.
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-
 
 -  How would you describe the primary branching in the leaf? Is there
     any evidence of dichotomous branching in these leaves?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 -  Note that the veins in the leaflets (pinnules) are in the form of an
     open system where the branches end blindly rather than joining to
     form a net.
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 -  What, if any, part of *Psilotum nudum* would be homologous with the
     leaf of *Lygodium scandens*? Is any organ of the latter homologous
     with the microphylls of the former?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 ![Terms for different leaf morphologies](alternateLeafMorphologies.png)
 
@@ -162,36 +131,20 @@ Note the small fibrous adventitious roots that arise at any point along the stem
     branches initiated in the stem system?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-
 
 - Use the diagrams in Fig. 1 to determine what type of branching is present in the leaf. How many orders of branching are there in a leaf? Identify the primary, secondary and tertiary rachises.
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-
 
 -  Compare a one-year-old leaf with a two-year-old leaf. Is there any
     evidence of indeterminate growth in these leaves?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-
 
 -  Examine the apex of the rhizome (underground stem). Does this plant
     have an apical bud? Is there any protection of the growing apex?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-
 
 ## Gymnosperms
 
@@ -209,9 +162,6 @@ enhance interception of light.
  describe the **phyllotaxis** (leaf arrangement)?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 - Hold a leaf up against the light and examine the pattern of the veins
  with a hand lens. Can you detect any lateral veins branching from the
@@ -220,26 +170,17 @@ enhance interception of light.
  laterally through the lamina from the single midvein.
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 - Examine the pattern of branching of the stem. Look for axillary buds in leaf axils. Does this plant have axillary branching as in angiosperms or apical
  branching as in ferns?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
  Examine the growing apex closely. Rather than a naked apical meristem, this group has the meristem protected within a bud. Note that the bud consists of a meristem enclosed with embryonic leaves, but that these are themselves enclosed within a group of **bud scales**, ie., reduced and hardened leaves that protect the bud. When the apex starts growing next spring, the bud scales fall off (leaving scars where they were attached) and the new vegetative leaves expand as the stem grows out of the bud. The positions of previous **winter buds** can be seen at intervals down the stem. They appear as rings of scars where the bud scales were attached.
 
 - Given that each winter bud marks the end of a year's growth, how old is the basal internode of the specimen you are examining?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
 
 ## Angiosperms -- Flowering Plants
 
@@ -260,25 +201,25 @@ Note that it has simple leaves with a short petiole, and that the laminas of the
     arrangement) of Abelia?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
+
+
 
 - Using a hand lens and holding the leaf against the light, examine the
  venation pattern in the leaf lamina.
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
+
+
 
 - Are there any free vein endings in the leaf? Which term best describes
 this pattern? How does this pattern differ from that in the leaflet of a fern? 
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
+
+
 
 - Examine the relationship between stems, leaves and branches. How do
     branches arise on the stem? Does this plant have axillary branching?
@@ -287,9 +228,9 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
     leaf?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
+
+
+
 
 
 
@@ -299,7 +240,7 @@ Each leaf is compound, consisting of a petiole terminating in a rachis bearing s
 
 - Which term(s) best describes the form of these leaves (see Figs. 1.1 and 1.2).
 
-<br
+
 
 - Identify the pair of large rounded stipules associated with each
     node, and resembling a basal pair of leaflets that are attached
@@ -307,18 +248,18 @@ Each leaf is compound, consisting of a petiole terminating in a rachis bearing s
     main axis. What possible adaptive value could these stipules have?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-<br
+
+
+
+
 
 -  Which term(s) best describe the phyllotaxis (leaf arrangement - see Figs. 1.1 and 1.2).
 
-<br
+
 
 -  Does this plant have axillary buds?
 
-<br 
+
 
 ### Examine *Acacia elata* (Cedar Wattle).
 
@@ -328,27 +269,27 @@ How much constitutes a leaf? Look for axillary buds that may arise in the axils 
     secondary leaflets (pinnules). Are the primary and secondary
     leaflets strictly paired? 
 
-<br
+
 
     
 - Is there a terminal leaflet on the primary
     rachis? 
 
-<br
+
 
 - Is there a terminal secondary leaflet on the secondary
     rachises? 
 
-<br
+
     
 - Which term(s) best describe the form of these compound
     leaves? (see Fig. 1.2).
 
-<br
+
 
 -  Are there stipules present?
 
-<br
+
 
 - Look for the doughnut- or volcano-shaped glands (**nectaries**) that
     are a characteristic feature of the petiole and/or the rachis of
@@ -356,10 +297,10 @@ How much constitutes a leaf? Look for axillary buds that may arise in the axils 
     nectaries?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-<br
+
+
+
+
 
 - Compare the form of these leaves with those of *Gleichenia*. In
     which respects do they differ? Which of these two forms of leaf most
@@ -368,10 +309,10 @@ How much constitutes a leaf? Look for axillary buds that may arise in the axils 
     advanced, and which do you consider primitive?
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-<br
+
+
+
+
 
 ### Examine specimens A, B, and C
 
@@ -405,14 +346,14 @@ Examine the **tendrils** on the young pea plants supplied. Each
 
 - Does this node bear a pair of leaves, or a single leaf? 
 
-<br
+
 
 This shows
  that our initial interpretation is wrong. The tendril cannot be a modified leaf.
 
  - Is the tendril in the correct position to have arisen from an axillary bud?
 
-<br
+
 
  If it is neither a modified leaf nor a modified axillary branch, it
  must in fact be a modification of the tip of the main axis.
@@ -438,13 +379,13 @@ Determine in each case whether the climbing structure (tendril or claw)
 
 ![Terms for the different arrangements of leaves](alternateLeafArrangements.png)
 
-<div style="page-break-after: always;"</div
+
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-<br
+
+
+
+
 
  **TABLE 1** Leaf morphology in angiosperms.  Fill in the missing fields using the terms in the figures above.
  
@@ -458,10 +399,10 @@ Determine in each case whether the climbing structure (tendril or claw)
 |  Specimen C |   |   |   |   
 
 \vspace*{3\baselineskip}
-<br
-<br
-<br
-<br
+
+
+
+
 
 
  **TABLE 2** Write down the organ modified to form structures that aid
@@ -472,14 +413,11 @@ Determine in each case whether the climbing structure (tendril or claw)
 | Specimen D   |   |    |   |  
 |  Specimen E  |   |   |    | 
 
-### **Check your answers with demonstrators / lecturers / classmates**
+**Check your answers with demonstrators / lecturers / classmates**
 
-<br
+\newpage
 
-<div style="page-break-after: always;"</div
-/newpage
-
-## INTRODUCTION TO THE USE OF AN IDENTIFICATION KEY
+## Introduction To The Use Of An Identification Key
 
 	**Plant identification is a key skill from this course. 
 	 This skill is essential in a range of careers
@@ -522,11 +460,11 @@ vegetative characters. The advantage of such a key is that it does not
  specimens.
  
  \newpage
-<div style="page-break-after: always;"</div
 
 
 
-#PRAC 2: PLANT CELLS
+
+#Prac 2: Plant Cells
 
 You should refer to the notes on Light Microscopy and the use of the
 Olympus CHA Microscope which you will find in the manual introduction.
@@ -613,35 +551,35 @@ The pith of the cladode is filled with *aerenchyma* while the cortex is
 - What is the characteristic of chlorenchyma?
 
 \vspace*{3\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 - What are the diagnostic features of aerenchyma, with respect to wall
 thickness and staining, cell contents and cell shape?
 
 \vspace*{3\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 
 Draw a few cells in an accurate, high power diagram and hand in for
 assessment.
 
 \vspace*{6\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 
 
 Why should plants have aerenchyma?
 
 \vspace*{6\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 <!---
  ***FEEDBACK***: **You will likely be assessed on biological drawing
@@ -668,17 +606,17 @@ is the spongy mesophyll of many leaves.
 - Can you explain the difference in texture in cellular terms?
 
 \vspace*{3\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 
 Draw a small (no more than 5) group of sclereids accurately.
 
 \vspace*{6\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 
 Again determine wall thickness, chemical composition of the wall and
@@ -689,17 +627,17 @@ focusing using high power.
 significance of such cells in a fruit?
 
 \vspace*{3\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 
 - Cut a section of the *Hakea* leaf provided. Where are the sclereids? What is their staining reaction with toluidine blue and what inference can you draw about wall composition? What do you need to do in order to confirm that these are indeed sclereids and not fibres?
 
 \vspace*{6\baselineskip}
-<br>
-<br>
-<br>
+
+
+
 
 
 ### *Fibres*
@@ -721,12 +659,12 @@ contents etc. and draw if you have time.
  like and in what important ways do they differ from these?
 
 \vspace*{6\baselineskip}
-<br>
-<br>
-<br>
 
 
-## PLANT CELLS: SUPPLEMENTARY NOTES
+
+
+
+## Plant Cells: Supplementary Notes
 
 Various different types of cells are found in the mature plant body.
 Each performs a specific function. In the practical classes you will be
@@ -884,29 +822,17 @@ See Raven Ch 23 for more information on plant cells.
 
 ![Parenchyma and Collenchyma](parenchyma_and_collenchyma.png)\
 
-<!---
-**Fig 2.1** Parenchyma and Collenchyma
---->
-<br>
 
 ![Sclerenchyma and Xylem](sclerchyma_and_xylem.png)
 
-<!--->
-**Fig 2.2** Sclerenchyma and Xylem
---->
-
-<br>
-
 ![Phloem](phloem.png)
 
-**Fig 2.3** Phloem
-
-/newpage
+\newpage
 
 #PRAC 3: Floral Morphology and Inflorescences
 
 Reference: Raven, P.H., Evert, R.F. & Eichhorn, S.E. 2013. **The Biology
-of Plants 8<sup>th</sup> edition** pp 478-492.
+of Plants 8$^{th}$ edition** pp 478-492.
 
 In this practical, we will examine the floral characters of typical
 angiosperms. In addition, we will introduce you to sufficient
@@ -920,7 +846,7 @@ descriptions are difficult to write and tedious to read, and most of us
 are not artistic enough to make accurate drawings of flowers, short-hand
 methods of recording some of the important features have been developed.
 
-###PREPARATION
+###Background
 
 Before the class, read the following section on recording floral
 structure and examine the diagrams supplied in this manual.
@@ -1026,7 +952,7 @@ tissue.](ovary_position_evolution.png)
 
 \newpage
 
-##INFLORESCENCES
+##Inflorescences
 
 Species in which the flowers arise singly in the axil of leaves on
 ordinary vegetative branches are usually considered to have the
@@ -1040,7 +966,7 @@ highly evolved it is usually considered.
  in a flower), because the growing apex of the inflorescence axis is used
  up to form a flower, and subsequent growth is from lateral branches. The
  pattern of branching and the length of the internodes within the
- inflorescence are used to define sub-types (see Fig 3.9). Which sub-type
+ inflorescence are used to define sub-types (see figures). Which sub-type
  of the anthotelic inflorescence is this?
 
 - *Specimen B* has a *blastotelic* inflorescence (ending in a branch
@@ -1052,11 +978,11 @@ highly evolved it is usually considered.
  end of the flowering season, the inflorescence becomes *intercalary*
  rather than *terminal* on the plant (ie. within a branch, rather than on
  the end of a branch). Which of the sub-types of the blastotelic
- inflorescence is this (see Fig 3.9)?
+ inflorescence is this (see figures)?
 
 - A mixture of branching patterns may occur within the one
  inflorescence. These are described in order of branching eg. a raceme of
- cymes - the cyme is the terminal form (Fig 3.9). Describe the
+ cymes - the cyme is the terminal form (see figures). Describe the
  inflorescence in specimens *C,* *D* and *E*. Record each in the form of
  a line diagram, as in Fig 3.9. Note carefully whether the flowers are
  sessile or have a peduncle.
@@ -1065,11 +991,13 @@ highly evolved it is usually considered.
 open is indicated by size of the circles representing the flowers;
 largest opens first, smallest opens last.](inflorescenceTypes.png)
 
-##***PLANT IDENTIFICATION***
+##Plant Identification
 
 ### Examine the floral structure of the specimen provided.
 
- **Perianth.** How many whorls of perianth are present? If there is
+ **Perianth.** 
+ 
+ - How many whorls of perianth are present? If there is
  more than one whorl, do they alternate in position as in Fig 3.1? Are
  they differentiated into calyx (sepals) and corolla (petals)?
 
@@ -1077,7 +1005,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
 
  - Are the petals free from the base or are they fused into a tube? Do
  they arise from the base of the ovary or from above the ovary? Is the ovary
- **superior** or **inferior** (see Fig. 3.3)? Would you describe the
+ **superior** or **inferior** (see figures)? Would you describe the
  flower as hypogynous, epigynous or perigynous?
 
  **Androecium.** 
@@ -1089,7 +1017,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
 
  - Do the stamens arise from a rim-like extension of the receptacle at
  the top of the ovary by individual stalks, from the top of a staminal
- tube formed by fusion of the stalks (Fig. 3.3), or from some distance
+ tube formed by fusion of the stalks (see figures), or from some distance
  up on the inner surface of the petals? The stamens may appear to be
  all on the one whorl, but often we can distinguish inner and outer
  whorls by their position in relation to the petals (see Fig. 3.8).
@@ -1112,7 +1040,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  ovary? How many locules and placentas are there? Use this information to
  determine the number of carpels in the gynoecium.
 
- - Is the flower **apocarpous** or **syncarpous** (see Fig. 3.6)? Which
+ - Is the flower **apocarpous** or **syncarpous** (see figures)? Which
  term in that figure describes the placentation?
 
 
@@ -1132,20 +1060,20 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  Draw in the stamens as lobed anthers (to distinguish them from sterile **staminodes**; Fig. 3.1), making certain to position each stamen
  correctly with respect to the perianth members. If the stamens are
  fused with the perianth, join the anther to the appropriate perianth
- part (inner or outer) by a straight line (see Fig. 3.2B).
+ part (inner or outer) by a straight line (see figures).
 
  Draw the gynoecium in the centre of your floral diagram. Use **two
  lines,** one for
 
  the outer wall of the ovary and another for the walls that divide the
  locules. Show some ovules attached to the placenta in each locule of
- the ovary (see Fig 3.1).
+ the ovary (see figures).
 
 (f) Cut a second flower of the specimen vertically along a diameter that
     divides the flower symmetrically. Note how the ovary is positioned
     in the flower with respect to the receptacle and point of attachment
     of the stamens, etc. Would you describe the flower as
-    **hypogynous**, **perigynous** or **epigynous** (see Fig 3.3)?
+    **hypogynous**, **perigynous** or **epigynous** (see figures)?
 
  \(g) Now summarize the floral structure in a floral formula.
 
@@ -1228,19 +1156,27 @@ stem to a specialised needle leaf).
 - Is there any evidence that *Pinus* leaves are more specialised for
 photosynthesis than *Psilotum* stems?
 
+\vspace*{3\baselineskip}
+
 -Photosynthetic stems are required to support the plant as well as
 photosynthesise. Are support cells present in *Psilotum* stems that are
 not seen in *Pinus* stems? If so, why is the presence of these support
 cells problematic for photosynthesis?
 
+\vspace*{3\baselineskip}
+
 *Do* Pinus *leaves have more specialised cell types than* Psilotum
 *stems?*
+
+\vspace*{3\baselineskip}
 
 Compare the *Pinus* leaf to the angiosperm *Hibbertia scandens* leaf.
 
 *Are the parenchyma cells arranged differently in the two leaf types?
 Are there more specialised cell types or arrangements in angiosperm
 leaves? *
+
+\vspace*{3\baselineskip}
 
 ##  Adaptations to arid environments
 
@@ -1250,6 +1186,7 @@ environments. As a consequence, these plants express many adaptations
 limit water loss. Open the images for each of the plants in the table
 below and list the adaptations to limit water loss.
 
+<!---
 *Student Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
   **Species**           **Adaptation to limit water loss**
@@ -1258,8 +1195,9 @@ below and list the adaptations to limit water loss.
   *Correa alba*         
   *Hakea teretifolia*   
   *Atriplex* sp         
+--->
 
-**3. Tradeoffs in leaf form and function**
+### Tradeoffs in leaf form and function
 
 Open the file for *Helianthus* sp (*Helianthus* are the sunflowers) and
 compare the leaf form to the leaf form of plants adapted to water
@@ -1270,8 +1208,10 @@ your observations on the leaf sections, could you predict that*
 Helianthus *is probably a faster growing species than the species
 adapted to water limitation? *
 
-*What do your comparisons of leaf form tell you about the tradeoffs in
-leaf function? *
+- What do your comparisons of leaf form tell you about the tradeoffs in
+leaf function? 
+
+\vspace*{3\baselineskip}
 
 ### Leaf form in *Eucalyptus*
 
@@ -1280,6 +1220,8 @@ Open the file for *Eucalyptus* sp.
 -How do *Eucalyptus* leaves differ from most of the other angiosperm
 leaves we looked at today? Why might this leaf form be an advantage for
 Eucalypts?
+
+\vspace*{3\baselineskip}
 
 ##  Rainforest tree leaves
 
@@ -1297,37 +1239,53 @@ Eucalypts?
  been told that they were from rainforest species would you have
  described them as sclerophyllous?
 
+\vspace*{3\baselineskip}
+
 - Cut and stain (in toluidine blue and mount in 50% glycerine)
  transverse sections of the leaves of one species. List, in **Table 5.2**
  provided, the features of interest shown by this species.
+
+\newpage
 
 When the class data have been assembled study the completed table and
 compare these to your observations on leaves of arid environments. Is it
 possible to recognise a general suite of features of leaves of
 rainforest plants?
 
-## PLANT IDENTIFICATION
 
-Complete the exercise(s) assigned from the Plant Identification section
+
+ **Table 4.2. Features of rainforest leaves.  Fill in the table below.**
+ 
+  Anatomical type:           
+  
+  \rule{\textwidth}{1pt}
+  Epidermis
+  \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt}        
+  Mesophyll
+   \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt} 
+  Vascular System
+  \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt}    
+  Other             
+  \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt}    
+
+## Plant Identification
+
+Complete the exercises assigned from the Plant Identification section
 at the end of the manual.
 
- **Table 4.2**
+\newpage
 
- **Features of rainforest leaves**
+#Prac 5: Transport
 
-  -- ----------------- --
-     TAXON:            
-     Epidermis         
-     Mesophyll         
-     Vascular System   
-     Other             
-  -- ----------------- --
-
-**\
-
-#PRAC 5: ?
-
-## SALT MARSH PLANTS AND VIRTUAL MICROSCOPY
+## Salt Marsh Plants And Virtual Microscopy
 
 Unlike most animal tissue, many plant tissues can be hand sectioned
 without a prior need to fix the material beforehand. To make permanent
@@ -1354,7 +1312,7 @@ the interpretation of slides in three dimensions. Thus in the standard
 textbook interpretation of the TS of dicot leaf, the palisade mesophyll
 appears as if it were a solid wall, whereas a paradermal section reveals
 the presence of, admittedly narrow, air spaces around each palisade
-cell. (Indeed, as the diffusion of CO~2~ through water is 10,000 times
+cell. (Indeed, as the diffusion of CO$_2$ through water is 10,000 times
 slower than in air, photosynthesis would be very much impaired if the
 air spaces weren’t there). Interpretation of sections of secondary wood
 also requires a three dimensional perspective.
@@ -1368,41 +1326,49 @@ variation reflects the density and distribution of glands – similar
 variation is shown in many other features. It is dangerous to leap to
 conclusions on the basis of a single section.
 
-i.  Leaf Sections
+###  Leaf Sections
 
--   Examine the section of the leaf of *Spinifex*. This is a plant that
+ Examine the section of the leaf of *Spinifex*. This is a plant that
     grows in the fore dunes around much of the Australian coast.
 
-What cells are responsible for the leaf rolling up under dry conditions?
+- What cells are responsible for the leaf rolling up under dry conditions?
 How is rolling achieved?
+
+\vspace*{3\baselineskip}
 
 Rolling of leaves is said to be an adaptation to drought as the stomata
 are protected by the moist still air trapped inside the rolled up leaf.
 
 -   Do you think this is demonstrated by *Spinifex*? If not, why not?
 
-i.  *Spartina anglica*
+\vspace*{3\baselineskip}
+  \rule{\textwidth}{1pt}    
+
+###  *Spartina anglica*
 
 This is one of the world’s worst weeds, invading mudflats in many
 locations, including southern Australia.
-<!---
-![](media/image13.jpeg)
---
-Is Spartina a C~3~ or a C~4~ species?
+
+![*Spartina anglica*](spartina_pic.png)
+
+Is Spartina a C$_3$ or a C$_4$ species?
 
 -   Draw a HP drawing showing those features of the leaf which support
     your conclusion.
 
-<!-- --
+\vspace*{6\baselineskip}
 
 -   Where are the stomata in *Spartina*?
+
+\vspace*{3\baselineskip}
+
 
 i.  *Sporobolus virginicus*
 
 *Sporobolus virginicus* is a major saltmarsh grass around the world.
-<!---
-![](media/image14.jpeg)
---
+
+![*Sporobolus virginicus* ](sporobolus.png)
+
 One of its adaptations to tolerating saline conditions is through
 excretion of salts through special salt glands. In grasses, salt glands
 are relatively simple two celled structures.
@@ -1414,19 +1380,27 @@ cytoplasm.
 
 -   Locate and draw a salt gland in the section.
 
--   Is *S. virginicus* a C~3~ or C~4~ species?
+\vspace*{3\baselineskip}
 
-i.  *Frankenia*
+-   Is *S. virginicus* a C$_3$ or C$_4$ species?
+
+\vspace*{3\baselineskip}
+
+###  *Frankenia*
 
 *Frankenia* is a small sub-shrub. Species of *Frankenia* are found on
 the upper edge of saltmarshes, or in saline semi-desert areas. There are
 a number of species in Australia.
 
--   Examine the sections of TS of *Frankenia* leaf.
+Examine the sections of TS of *Frankenia* leaf.
 
 -   What features of the leaf suggest adaptation to dry conditions?
 
+\vspace*{3\baselineskip}
+
 -   Locate and draw a salt gland.
+
+\vspace*{3\baselineskip}
 
 -   Do all the sections show salt glands? Why may there be variation
     between sections?
@@ -1455,7 +1429,7 @@ i.  Examine the demonstration material of hydathodes in *Impatiens* sp.
 <!---
 ![](media/image15.jpeg)
 -->
-**2. Stem Transport**
+## Stem Transport
 
 In this prac, we will compare aspects of xylem architecture between
 Angiosperms and non-flowering plants, and the relationship between
@@ -1464,15 +1438,15 @@ drought tolerance and xylem architecture across Angiosperm species.
 We are currently assembling the species to be used in this prac and will
 provide a worksheet on the day of the prac.
 
- **PLANT IDENTIFICATION**
+##Plant Identification
 
 There will be exercises on plant identification this week. Complete the
 exercises for identifying plant families using the key / identification
 and family descriptions of the major Australian plant families.
 
-<div style="page-break-after: always;"</div
+\newpage
 
-#PRAC 6: ROOT STRUCTURE & FUNCTION **
+# Prac 6: Root Structure & Function
 
 Reference: Raven Biology of Plants. ch 24.
 
@@ -1517,17 +1491,17 @@ faba*). Cut transverse sections of root tissue through a young emerging
 lateral root and down the root where no lateral root has yet emerged and
 stain with toluidine blue.
 
--From which tissues are lateral roots initiated?
+- From which tissues are lateral roots initiated?
 
-<br
-<br
-<br
+\vspace*{3\baselineskip}
 
-Think about the vascular connections in roots.  Where is the xylem in a root compared to in a stem? 
 
-<br
-<br
-<br
+
+- Think about the vascular connections in roots.  Where is the xylem in a root compared to in a stem? 
+
+\vspace*{3\baselineskip}
+
+
 
 
 ### When is a root not a root?
@@ -1548,23 +1522,23 @@ Can we get a rhizome to look at?
 
 - Is there an obvious root cap?
 
-<br
-<br
-<br
+
+
+\vspace*{3\baselineskip}
 
 
 -  What strange thing does the root tip do when it emerges from the mud?
 
-<br
-<br
-<br
+\vspace*{3\baselineskip}
+
+
 
 -  What is the primary function of a pneumatophore? What adaptations do
     pneumatophores have that allow them to carry out this function?
 
-<br
-<br
-<br
+\vspace*{3\baselineskip}
+
+
 
 ## Strategies for enhancing Plant Nutrition
 
@@ -1591,36 +1565,22 @@ Arbuscular mycorrhizas are found in almost all vascular plants.  They create a s
 
 Ectomycorrhizas found in specific families across the plant tree of life, including Myrataceae and Fabaceae.  They create a net-like hyphal structure **outside** the plant root where exchange occurs.
 
-Some species, including Eucalyptus spp., have both types of mycorrhizas.
-   
-
--   Examine the fixed material of the *Eucalyptus* roots and identify
+Some species, including Eucalyptus spp., have both types of mycorrhizas.  Examine the fixed material of the *Eucalyptus* roots and identify
     the characteristic appearance of ectomycorrhizal root systems
 
-<br
-<br
-<br
 
--   Examine the root systems provided to see whether you can locate any
-    arbuscula mychorrhizal associations.
-
-<br
-<br
-<br
-
-## PLANT IDENTIFICATION
+## Plant Identification
 
 **Complete the exercises for identifying plant families using the key /
 identification and family descriptions of the major Australian plant
 families at the end of the manual.**
 
-/newpage
-<div style="page-break-after: always;"</div
+\newpage
 
-#PRAC 7: VASCULAR TISSUE, AND STEM STRUCTURE AND SECONDARY
-THICKENING IN DICOTYLEDONS **
 
-**1. VASCULAR TISSUE**
+#Prac 7: Vascular Tissue, Stem Structure and Secondary Thickening **
+
+## VASCULAR TISSUE
 
 References : Raven et al. (2013) ch 25-26
 
@@ -1639,19 +1599,29 @@ The purpose of today's lab is to demonstrate the features of the types
 of cells that are found in xylem and phloem, so that these may be
 considered in relation to their role in transport.
 
-VASCULAR CESLLS AND TISSUE
+### VASCULAR CELLS AND TISSUE
 
-*Xylem tissue comprise the following*: *Phloem contains*:
+*Xylem tissue comprise the following:* 
 
-vessels } transporting cells sieve tubes } transporting cells
+1. vessels (transporting cells, only in angiosperms)
 
-tracheids sieve cells
+2. tracheids (transporting cells, all vascular plants)
 
-parenchyma companion cells
+3. parenchyma
 
-fibres parenchyma
+4. fibres
 
-fibres
+*Phloem contains:*
+
+1. sieve tubes (transporting cells)
+
+2. sieve cells (transporting cells)
+
+3. companion cells
+
+4. parenchyma
+
+5. fibres
 
 The dye toluidine blue is very useful in differentiating between xylem
 and phloem. Vessels, tracheids, fibres and sometimes also the xylem
@@ -1664,7 +1634,7 @@ Apart from this, there are also important structural differences that
 distinguish the transporting cells in these two tissue types and the
 purpose of this lab is to investigate these.
 
-**XYLEM**: tracheids and vessel elements
+## Xylem: tracheids and vessel elements 
 
 The transporting cells of the xylem are modified into either vessel
 elements or tracheids. In addition, xylem contains fibres and xylem
@@ -1672,9 +1642,9 @@ parenchyma (which may or may not be lignified). The basic distinction
 between tracheids and vessel elements is that the tracheid is an
 imperforate cell while the end walls of vessel elements are perforated.
 
-1\. **Vessel elements**
+### Vessel elements
 
- a\) *Petiole of *Apium graveolens**
+ *Petiole of *Apium graveolens**
 
  Cut both longitudinal and transverse sections (T.S.) of celery
  petiole, stain with toluidine blue and mount in 50% glycerol. Make
@@ -1687,13 +1657,15 @@ imperforate cell while the end walls of vessel elements are perforated.
  List features of xylem vessels as seen in T.S. (i.e. size, thickness
  of wall etc.).
 
- How do vessels differ from a) fibres?
+ How do vessels differ from 
+ 
+1. fibres?
 
- b\) collenchyma?
+2. collenchyma?
 
- c\) tracheids? when seen in T.S.
+3. tracheids? when seen in T.S.
 
- b\) *L.S. and T.S. of stem of *Cucurbita* sp.*
+ ### *L.S. and T.S. of stem of *Cucurbita* sp.*
 
  Examine xylem tissue in prepared slides of R.L.S. (G11/2) and T.S.
  (G11/1) sections of *Cucurbita* stem.
@@ -1703,7 +1675,7 @@ imperforate cell while the end walls of vessel elements are perforated.
 
  Fresh material is also available for hand cut sections.
 
-2.  **Tracheids**
+###  **Tracheids**
 
  Tracheids are the only xylem element found in conifer woods. These are
  elongated, tapered, thick-walled cells.
@@ -1718,9 +1690,9 @@ imperforate cell while the end walls of vessel elements are perforated.
  pits. Examine micrographs of these in the demonstration. What might be
  their purpose?
 
- **PHLOEM**: sieve tubes and companion cells
+### **PHLOEM**: sieve tubes and companion cells
 
-3\. *Phloem tissue in *Cucurbita* sp.*
+ *Phloem tissue in *Cucurbita* sp.*
 
  Vascular tissue in *Cucurbita* spp. is ideal for studying phloem
  because the sieve tubes are very large and the sieve plates are
@@ -1729,10 +1701,10 @@ imperforate cell while the end walls of vessel elements are perforated.
  Cut T.S. and L.S. of *Cucurbita* stem by hand, stain with toluidine
  blue. Find sieve tubes and companion cells.
 
-4\. *Phloem tissue* : Examine the demonstration photomicrographs of the
+ *Phloem tissue* : Examine the demonstration photomicrographs of the
 development of sieve tubes and companion cells on the side bench.
 
-## SECONDARY THICKENING 
+## Secondary Thickening 
 
 The primary growth of the stem is laid down by the **procambium**. In
 dicots the vascular tissue is arranged in a cylinder near the periphery
@@ -1746,35 +1718,27 @@ these secondary tissues include **rays** that facilitate radial
 transport and which are also formed by divisions of the vascular
 cambium.
 
-A.  ***Secondary growth in herbaceous plants***
+###  ***Secondary growth in herbaceous plants***
 
 Many herbaceous plants have a limited amount of secondary growth in the
 older and slightly woody parts of the plant. A study of *Coleus* will
 help you to revise primary stem structure in the dicot, and illustrate
 the early stages of vascular cambial activity.
 
-a.  Cut thin transverse sections through an internode in *Coleus* from
+  Cut thin transverse sections through an internode in *Coleus* from
     about the middle of plant. Stain with toluidine blue and mount in
     glycerine. Note the following features in the section:
 
-<!-- -->
-
-i.  Epidermis and cortex (indicate types of cells present).
-
- ii\) The wider parts of the vascular cylinder which contain the original
- primary
-
- vascular bundles, (primary phloem and primary xylem).
-
- iii\) A continuous ring of vascular cambium (small block-shaped
- thin-walled cells) that
-
- can be divided into those parts formed from procambium within the
+1.  Epidermis and cortex (indicate types of cells present).
+    - The wider parts of the vascular cylinder which contain the original
+ primary vascular bundles, (primary phloem and primary xylem).
+    - A continuous ring of vascular cambium (small block-shaped
+ thin-walled cells) that can be divided into those parts formed from procambium within the
  primary vascular bundles (the **fascicular cambium**) and those parts
  extending between the bundles and which were formed by
  de-differentiation of parenchyma (**interfascicular cambium**).
 
-iv. Whether any periderm is forming in the cortex?
+2. Whether any periderm is forming in the cortex?
 
  v\) The location of protoxylem with respect to the metaxylem. Is the
  development of
@@ -1797,19 +1761,19 @@ iv. Whether any periderm is forming in the cortex?
  region of the secondary xylem contributes to the stem in a functional
  sense?
 
-d.  Draw a high power drawing of 2-3 cells from the interfascicular
+Draw a high power drawing of 2-3 cells from the interfascicular
     region of the vascular cambium, together with 2 cells on either side
     of each cambial initial (ie., a strip 2-3 cells wide and 5 cells
     deep)
 
-**B. *Secondary growth in woody plants***
+### *Secondary growth in woody plants***
 
 Activity of the cambium enables long life, by renewal of vascular
 tissue, as well as increase in size of the plant, by strengthening the
 stem. Secondary growth, both of vascular tissue and of periderm (cork),
 may be relatively continuous or seasonal.
 
-1.  *Morphology*
+*Morphology*
 
  Examine the leaf-bearing branch of the Camphor Laurel (*Cinnamomum
  camphora* ) and note the obvious increase in thickness of stem with
@@ -1833,7 +1797,7 @@ epidermis have expanded?
 
  What processes must have accommodated this increase?
 
-2\. *Activity of the Vascular Cambium*
+ *Activity of the Vascular Cambium*
 
 a.  *Young stem of a woody plant*
 
@@ -1852,9 +1816,13 @@ a.  *Young stem of a woody plant*
  Note particularly the following primary tissues or regions:
 
  pith - what types of cells are present?
+ 
+ \vspace*{3\baselineskip}
 
  pericyclic fibres - groups of thick-walled fibres outside the phloem -
  about how many cells separate adjacent fibre bundles?
+ 
+ \vspace*{3\baselineskip}
 
  cortex - what type(s) of cells are present
 
@@ -1868,9 +1836,9 @@ a.  *Young stem of a woody plant*
  **
 
 
-/newpage
+\newpage
 
-#PRAC 8: ARBORESCENCE
+#Prac 8: Arborescence
 
 ##Secondary thickening in woody dicots
 
@@ -1897,12 +1865,18 @@ the vascular cambium and the cork cambia.
 
  rays - note the radial rows of *ray parenchyma* with darker staining
  contents. These extend across the cambium and out through the
- secondary phloem. What type of cell will be present in the vascular
+ secondary phloem. 
+ 
+ - What type of cell will be present in the vascular
  cambium opposite a ray? How will it differ from other cells in the
  cambium?
+ 
+ \vspace*{3\baselineskip}
 
- Do all the rays extend from pith to cortex? If not, how do you explain
+ - Do all the rays extend from pith to cortex? If not, how do you explain
  this fact?
+ 
+ \vspace*{3\baselineskip}
 
  secondary phloem - a band of living phloem cells (*sieve tubes* and
  *companion* *cells*, phloem parenchyma and scattered phloem fibres
@@ -1911,29 +1885,31 @@ the vascular cambium and the cork cambia.
  primary phloem - the outermost area of phloem not noticeably
  demarcated from secondary phloem.
 
- pericyclic fibre
-
- bundles - these are now much more widely separated than when first
+ pericyclic fibre bundles - these are now much more widely separated than when first
  formed in the young stem, since they are being pushed out onto a wider
  circumference by the secondary tissues formed inside them. Note how
- the rays tend to widen as they pass out through the phloem.
-
- primary cortex - are the cortical parenchyma (and epidermal cells)
+ the rays tend to widen as they pass out through the phloem. primary cortex. 
+ 
+ - Are the cortical parenchyma (and epidermal cells)
  more elongated tangentially than in the young stem? If so, is the
  elongation sufficient to accommodate the increase in circumference of
  the stem? What processes are going on in these primary tissues to
  accommodate secondary thickening?
 
- Is there any evidence of a cork cambium forming?
+\vspace*{3\baselineskip}
 
-2\. *Activity of the phellogen (cork cambium)*
+ - Is there any evidence of a cork cambium forming?
+ 
+ \vspace*{3\baselineskip}
+
+### *Activity of the phellogen (cork cambium)*
 
  A **cork cambium (phellogen)** may form by de-differentiation of cells
  in the outer cortex. This cambium gives rise to secondary cortex
  **(phelloderm)** internally, and cork **(phellem)** externally. These
  3 layers are called the **periderm**.
 
- a\) Examine the transverse section of *Sambucus* (Elder; G25/1) stem
+ Examine the transverse section of *Sambucus* (Elder; G25/1) stem
  showing the formation of periderm. Note the thin-walled phellogen
  forming regular rows of suberised cork to the outside. A small amount of
  secondary cortex may also be distinguished inside the cambium; this
@@ -1941,86 +1917,64 @@ the vascular cambium and the cork cambia.
  corresponding to individual phellogen cells. All tissue outside the cork
  layer (e.g. the original epidermis) will be dead at this stage.
 
- b\) In older stems **lenticels**, openings into the cork, form. It is
+ In older stems **lenticels**, openings into the cork, form. It is
  thought these allow some gaseous exchange to take place between the
  intercellular spaces of the cortex and the outside atmosphere. The
  lenticel does not open and shut but may be structured so that at times
  it is closed over (closing cells) and at other times open, revealing
  loosely packed complementary cells with air spaces.
 
-3.  *Wood in longitudinal aspect*
+###  *Wood in longitudinal aspect*
 
- a\) Examine the wood blocks and identify the two different planes in
- which a stem may be sectioned longitudinally (see also Fig 9.1):
+  Examine the wood blocks and identify the two different planes in
+ which a stem may be sectioned longitudinally (see also the figures) in two ways:
 
- - the **radial** plane, which passes through the centre of the stem,
- and
+ 1. the **radial** plane, which passes through the centre of the stem,
+ and therefore lies in the plane of a radius of the stem. A section in this plane is termed an **RLS** (a radial longitudinal section).
 
- therefore lies in the plane of a radius of the stem. A section in this
-
- plane is termed an **RLS** (a radial longitudinal section).
-
- - the **tangential** plane, which will be in a plane perpendicular to
- a radius
-
- of the stem. A section in this plane is termed a **TLS** (a tangential
-
- longitudinal section).
+ 2. the **tangential** plane, which will be in a plane perpendicular to
+ a radius of the stem. A section in this plane is termed a **TLS** (a tangential longitudinal section).
 
  Both these types of sections are perpendicular to a **TS**. Hence
- there are three planes
-
- in which to examine the structure of wood, or any other tissue in a
+ there are three planes in which to examine the structure of wood, or any other tissue in a
  radially symmetrical organ (stem or root).
 
- b\) Each plane of section will show the rays in a different aspect, and
+ Each plane of section will show the rays in a different aspect, and
  this may be used to distinguish the plane of any section of wood. This
- is shown in Fig. 9.1
+ is shown in figure below.
 
  In a TS the rays appear as narrow lines **radiating** from the centre
- of the stem.
-
- In a TLS the rays pass vertically through the section, and so are seen
- **end on**.
-
- In an RLS the rays are seen in side view as they pass **across** the
+ of the stem. In a TLS the rays pass vertically through the section, and so are seen
+ **end on**. In an RLS the rays are seen in side view as they pass **across** the
  section.
 
- i\) Examine the TLS of *Cinnamomum* *camphora* wood (G35/3) and note the
+  Examine the TLS of *Cinnamomum* *camphora* wood (G35/3) and note the
  lens-shaped clusters of small block-shaped ray parenchyma, with the
  elongated xylem fibres bending either side of them. Note the larger ray
  parenchyma cells that often occur at the top and/or bottom of the rays
  in this species.
 
- Are the walls of the ray parenchyma lignified?
+ - Are the walls of the ray parenchyma lignified?
 
- All the ray cells contain protoplasts (see also the RLS below)
+ All the ray cells contain protoplasts (see also the RLS below). Look for the vessels; these will be seen in side view - look for the
+ multiseriate bordered pits. Note how few vessels are visible in one section.
 
- Look for the vessels; these will be seen in side view - look for the
- multiseriate bordered
-
- pits. Note how few vessels are visible in one section.
-
- ii\) Examine the RLS of the same wood (G35/5). Here the rays appear as
+ Examine the RLS of the same wood (G35/5). Here the rays appear as
  lines of brick-shaped cells passing across at right angles to the long
  axis of the xylem fibres and vessels.
 
  Make drawings or diagrams that will remind you of these features.
 
- iii\) Now re-examine the *Casuarina* wood blocks. Are the rays visible to
+\vspace*{6\baselineskip}
+
+  Now re-examine the *Casuarina* wood blocks. 
+  
+  - Are the rays visible to
  the naked eye?
 
- c\) Compare these with blocks of other species in the demonstration.
-
- Variation in the size and frequency of rays is responsible for much of
- the difference in
-
- the texture and structural features of wood.
-
- Variations in the frequencies of the different vertical elements (ie.
- vessels, tracheids,
-
- fibres, parenchyma) also contribute.
+  Compare these with blocks of other species in the demonstration. Variation in the size and frequency of rays is responsible for much of
+ the difference in the texture and structural features of wood. Variations in the frequencies of the different vertical elements (ie.
+ vessels, tracheids, fibres, parenchyma) also contribute.
 
  Complete the following table after examining the demonstration. The
  features that should be included in the table are lateral strength
@@ -2080,7 +2034,7 @@ lays down very many vascular bundles but only the central ones mature
 immediately. The outer bundles remain immature for years and are
 differentiated over time as required.
 
-1.  You are provided with sections of parts of young and mature stems of
+  You are provided with sections of parts of young and mature stems of
     the Bangalow Palm, *Archontophoenix cunninghamiana*. All sections
     are taken from the same level in the palm, and so will illustrate
     the developmental changes which occur within an internode from the
@@ -2092,44 +2046,34 @@ Working in pairs, examine the 4 sections provided.
 One student should examine young and old sections of the central zone of
 the stem.
 
- a\) Observe in the young central zone sections -
-
- i\) the scattered collateral bundles with *immature* fibre caps but
+1. Observe in the young central zone sections -
+    - the scattered collateral bundles with *immature* fibre caps but
  mature phloem and metaxylem vessels;
+    - the compact parenchymatous ground tissue between the bundles.
 
- ii\) the compact parenchymatous ground tissue between the bundles.
-
- Score the number of vascular bundles in each of **two separate
- fields** under the X10
-
- objective, calculate the average and work this out as bundles per cm2,
+2. Score the number of vascular bundles in each of **two separate
+ fields** under the X10 objective, calculate the average and work this out as bundles per cm$^2$,
  given that the diameter of the X10 field is 2mm, and the area of a
- circle is pi  r2.
+ circle is $\pi*r^2$.
 
+3. Enter your results in the individual result sheet provided.
 
+4.  Observe in the mature central zone section –
+    - the matured fibre caps on all bundles;
+    - the aerenchymatous ground tissue between the bundles.
 
-
-
- Enter your results in the individual result sheet provided.
-
-b)  Observe in the mature central zone section –
-
- i\) the matured fibre caps on all bundles;
-
- ii\) the aerenchymatous ground tissue between the bundles.
-
- Score the number of vascular bundles in each of **two separate
- fields** under the X4
-
- objective, and work out the average number of bundles per cm2. You
+Score the number of vascular bundles in each of **two separate
+ fields** under the X4 objective, and work out the average number of bundles per cm2. You
  will need to calculate the diameter of the X4 field from the
- measurement given above. Will it be smaller or larger than the X10
+ measurement given above. 
+ 
+ - Will it be smaller or larger than the X10
  field?
 
-Enter results and determine by what factor the volume of tissue in the
-central zone has
+- Enter results and determine by what factor the volume of tissue in the
+central zone has increased?
 
-increased?
+\vspace*{3\baselineskip}
 
 The other student should examine young and old sections of the outer
 zone of the stem.
@@ -2168,15 +2112,19 @@ b)  Observe in the mature outer zone section –
 
  Enter results in the individual result sheet provided
 
- Determine by what factor the volume of tissue has increased in the
+ - Determine by what factor the volume of tissue has increased in the
  outer zone?
 
- Is there a significantly greater increase in volume in the central
- zone during sustained
+\vspace*{3\baselineskip}
 
- primary growth, or does the tissue increase uniformly across the
+- Is there a significantly greater increase in volume in the central
+ zone during sustained primary growth, or does the tissue increase uniformly across the
  diameter of the stem?
 
+
+\vspace*{3\baselineskip}
+
+ 
 ##PLANT IDENTIFICATION
 
  Complete the exercise(s) assigned from the plant identification
@@ -2204,7 +2152,9 @@ Outer zone - young
 
 Outer zone – old
 
-##PRAC 9: PLANT ALLOMETRY
+\newpage
+
+#PRAC 9: PLANT ALLOMETRY
 
 Most aspects of plant function are size-dependent. In other words, the
 function of plant traits varies in an exponential fashion with plant (or
@@ -2217,7 +2167,7 @@ In order to examine allometric relationships, data must be collected
 from plants across a range of sizes. Each group will be responsible for
 collecting data, but we will need data from the entire class.
 
-1.  Adaptive responses to the presence of competitors in *Impatiens
+##  Adaptive responses to the presence of competitors in *Impatiens
      wallerana*.
 
 The capacity to respond to competitors is a key adaptation for most
@@ -2251,20 +2201,36 @@ sheet. Check your answers with demonstrators / lecturers
 <!---
 ![](media/image17.emf)
 -->
-1\) What are the average Height / Diameter values for each treatment
+
+- What are the average Height / Diameter values for each treatment
 (high and low density)? What do these values tell us about how stem
 architecture adaptively responds to environmental variability?
 
-2\) On the graph above, plot leaf mass vs stem diameter for all plants.
+\vspace*{3\baselineskip}
+
+ On the graph above, plot leaf mass vs stem diameter for all plants.
 Use different symbols to plot plants from the high and low density
 treatments. Fit a line of best fit (linear or non-linear) through all
-data. A) Is the relationship between leaf mass and stem diameter
-allometric? B) What is the most likely mechanism behind the above
-relationship? C) Based on these results, are there potential costs
+data. 
+
+-Is the relationship between leaf mass and stem diameter
+allometric? 
+
+\vspace*{3\baselineskip}
+
+- What is the most likely mechanism behind the above
+relationship? 
+
+\vspace*{3\baselineskip}
+
+- Based on these results, are there potential costs
 associated with adaptive stem architecture (as seen in question 1)?
+
+\vspace*{3\baselineskip}
+
 Continue answer on back of page if you need more room.
 
-2\. Size-dependent reproduction in *Capsella bursa-pastoris*.
+## Size-dependent reproduction in *Capsella bursa-pastoris*.
 
 Reproductive effort (i.e. proportional allocation to reproduction) is a
 major life history trait in plants and animals. In many plant
@@ -2286,15 +2252,19 @@ RE = Total number of fruits / Total plant mass.
 Using the class data at the front of the lab, calculate the relationship
 between RE and plant size.
 
-Is there an allometric relationship between reproductive effort and
+- Is there an allometric relationship between reproductive effort and
 plant size?
 
-How should large plants differ from small plants in their relative
+\vspace*{3\baselineskip}
+
+- How should large plants differ from small plants in their relative
 contribution of seeds into the next generation? How should natural
 selection act on plant sizes in populations where reproductive effort is
 size-dependent?
 
-3.  Seed size and dispersal in *Sonchus* sp.
+\vspace*{3\baselineskip}
+
+##  Seed size and dispersal in *Sonchus* sp.
 
 The capacity to disperse offspring into new areas is an important trait
 related to fitness and success in plants. Many plant species (like many
@@ -2318,16 +2288,16 @@ ability using manipulated *Sonchus* seeds. These seeds are very small
 (too small to individually weigh on our balances), so I divided them
 into three treatment groups and recorded their average mass.
 
-i)  Control seeds are simply seeds collected from their natural habitat
+1.  Control seeds are simply seeds collected from their natural habitat
     (my neighbour’s garden) – average seed mass for these seeds is
     0.0003 g
 
-ii) Large seeds are seeds experimentally coated with a layer of glue –
+2. Large seeds are seeds experimentally coated with a layer of glue –
     average seed mass for these seeds is 0.00045 g. Please note, I don’t
     have many of these seeds (treating them was very difficult), so
     don’t loose them.
 
-iii) Small seeds are seeds with the bottom portion removed – average
+3. Small seeds are seeds with the bottom portion removed – average
     seed mass for these seeds is 0.00025 g.
 
 Tubes have been constructed in the back of the lab. The tubes can be
@@ -2337,14 +2307,18 @@ each mass into the tube and record how fast they fall. Convert this to a
 value for rate of descent (m/sec). Record your data in the table and
 graph at the front of the lab.
 
-Is there an allometric (non-linear) relationship between seed mass and
+- Is there an allometric (non-linear) relationship between seed mass and
 how fast seeds fall?
 
-What does this say about the seed size evolution in wind dispersed
+\vspace*{3\baselineskip}
+
+- What does this say about the seed size evolution in wind dispersed
 species? Should seed size limitations control the types of habitats in
 which wind dispersed species will be found?
 
-3.  Allometry and fruit size.
+\vspace*{3\baselineskip}
+
+##  Allometry and fruit size.
 
 Most of the fruits and vegetables we eat are the product of thousands of
 generations of artificial selection on traits that are beneficial to us.
@@ -2365,18 +2339,22 @@ fruit tissue. Put this material in paper bags and weigh the seed and non
 seed components. Record the mass of each component on the table and
 graph at the front of the lab.
 
-Is there any evidence of allometric relationships between seed mass and
+-Is there any evidence of allometric relationships between seed mass and
 non-seed fruit mass across individuals of capsicum?
 
-What would allometric relationships indicate about our capacity to
+\vspace*{3\baselineskip}
+
+-What would allometric relationships indicate about our capacity to
 develop fruits for agriculture?
 
- **PLANT IDENTIFICATION**
+\vspace*{3\baselineskip}
+
+## Plant Identification
 
  Complete the exercise(s) assigned from the plant identification
  section at the end of the manual.
 
-**PRAC 10 (WEEK 11): GERMINATION, SEEDS AND FRUITS **
+# Prac 10: Germination, Seeds And Fruits 
 
 Fruits and seeds play an essential role in the reproduction of most
 plants. As well as being reproductive structures they also have
@@ -2385,18 +2363,14 @@ through periods of adverse conditions. In this practical you will look
 at germination in seeds and you are provided with an introduction to
 some of the diversity of fruits found in the Angiosperms.
 
-**1**. There are two major modes of germination:
+ There are two major modes of germination:
 
- **Hypogeal**, where the cotyledons remain below the ground and the
- shoot is raised into
-
- the light by elongation of the *epicotyl* (the internode above the
+ 1. **Hypogeal**, where the cotyledons remain below the ground and the
+ shoot is raised into the light by elongation of the *epicotyl* (the internode above the
  cotyledons);
 
- **Epigeal**, where the cotyledons emerge above the ground and may
- become the first
-
- photosynthetic organs. (In this case the internode below the
+ 2. **Epigeal**, where the cotyledons emerge above the ground and may
+ become the first photosynthetic organs. (In this case the internode below the
  cotyledons, the *hypocotyl*, elongates.)
 
  Germinated seeds of a number of species are provided. Determine the
@@ -2404,11 +2378,11 @@ some of the diversity of fruits found in the Angiosperms.
  mode of germination, primary storage area and persistence of
  cotyledons for the species provided.
 
- **2**. Compare the nature and type of food reserves in the following:-
+Compare the nature and type of food reserves in the following:-
 
- \(1) barley (*Hordeum vulgare*)
+ 1. barley (*Hordeum vulgare*)
 
- \(2) tomato (*Lycopersicum esculentum*)
+ 2. tomato (*Lycopersicum esculentum*)
 
  You will need to section the seeds provided (take care, and if
  necessary, support the seed in the carrot provided for sectioning) and
@@ -2435,25 +2409,29 @@ some of the diversity of fruits found in the Angiosperms.
 
  *Iodine* stains starch.
 
-3.  Examine the prepared slides of germinated barley.
+  Examine the prepared slides of germinated barley.
 
- What indications are there that mobilisation of the endosperm reserves
+- What indications are there that mobilisation of the endosperm reserves
  has already begun?
 
- What features of the aleurone layer suggest the role of this tissue?
+\vspace*{3\baselineskip}
 
-3.  You are provided with a berry, a drupe and an indehiscent fruit. In
+- What features of the aleurone layer suggest the role of this tissue?
+
+\vspace*{3\baselineskip}
+
+- You are provided with a berry, a drupe and an indehiscent fruit. In
     each case identify the various layers present in the pericarp. What
     was the nature of the ovary from which each of the fruits was
     derived?
 
-**5.** A range of fruits is provided. Using the Key and descriptions try
+\vspace*{3\baselineskip}
+
+ A range of fruits is provided. Using the Key and descriptions try
 to identify the type to which each fruit may be assigned.
 
 Determine whether each fruit is a simple, aggregate or multiple fruit.
-If simple, try to find
-
-out whether it was the product of a superior or inferior ovary.
+If simple, try to find out whether it was the product of a superior or inferior ovary.
 
 Try to determine the number of carpels incorporated into each fruit, and
 the placentation of their ovules. For this it may be necessary to start
@@ -2464,15 +2442,15 @@ be resolved if a full developmental sequence from flower to fruit is
 available. For example, a coconut is developed from a tricarpellary
 ovary in which two of the locules have aborted.
 
-##DESCRIPTIONS OF FRUIT TYPES
+## Fruit Types
 
-"...it may be right to say that there are as many sorts of fruits as
-there are major groupings of genera. This means thousands of kinds, and
-indeed, several hundred specialised names have already been proposed;
-the result is another specialist language in the babel of science,
-through which the student must break."
+>"...it may be right to say that there are as many sorts of fruits as
+>there are major groupings of genera. This means thousands of kinds, and
+>indeed, several hundred specialised names have already been proposed;
+>the result is another specialist language in the babel of science,
+>through which the student must break."
 
-E.J. Corner 1964 'The Life of Plants'
+>- E.J. Corner 1964 'The Life of Plants'
 
 The strict definition of a *fruit* would be that it is the product of
 the post-fertilizaton development of a pistil. However, it is more
@@ -2506,9 +2484,7 @@ carpel disseminated singly.
 **Multiple fruit:** a fruit derived from the carpels of many individual
 flowers crowded together on the same axis.
 
- **DETAILS OF FRUIT TYPES**
-
-*SIMPLE FRUITS*
+### Simple Fruits
 
 (fruit derived from a single pistil or from a single carpel disseminated
 singly)
@@ -2521,7 +2497,7 @@ singly)
 
  Fleshy fruits are virtually all indehiscent.
 
-1.  *Dry dehiscent fruits*
+### Dry dehiscent fruits
 
  **FOLLICLE** - product of a single superior carpel containing one or
  many seeds and splitting
@@ -2587,15 +2563,16 @@ through abortion, e.g. *Cocos* (coconut).
 many-seeded fruit formed from a number of fused carpels (inferior or
 superior), e.g. *Musa* (banana), *Cucurbita* (pumpkin); sometimes
 one-seeded, e.g. *Phoenix* (date), (many so-called "berries" -
-strawberry, blackberry, raspberry, are not berries). A **POME** is a
-particular kind of berry characteristic of certain members of the
+strawberry, blackberry, raspberry, are not berries). 
+
+A **POME** is a particular kind of berry characteristic of certain members of the
 Rosaceae (apples, pears) - the five inferior carpels are free on their
 inner edges (the hole in the core) and their outer walls and the
-enlarged enclosing receptacle forms the flesh of the fruit.
+enlarged enclosing receptacle forms the flesh of the fruit.  Pomes, and berries in general, are often yummy.
 
-###AGGREGATE FRUITS
+###Aggregate Fruits
 
-(fruit derived from many free carpels of a *single* flower, the
+An aggregate fruit is  derived from many free carpels of a *single* flower, the
  carpels held together by a persistent floral receptacle which itself
  may be elaborated to form a substantial accessory part of the fruit)
 
@@ -2608,11 +2585,9 @@ individual fruits are achenes borne on a succulent receptacle and *Rosa*
 (the rose) where the rosehip consists of achenes enclosed in a fleshy
 cup-shaped receptale (a *hip*).
 
-*MULTIPLE FRUITS*
+###MULTIPLE FRUITS
 
- (Syncarps)
-
-**(**fruit derived from many pistils or carpels of *many individual
+Multiple fruits are derived from many pistils or carpels of *many individual
 flowers crowded together on the same inflorescence* axis. The
 inflorescence axis and frequently also the basal parts of all floral
 segments as well as the floral receptacle and pedicel are necessarily
@@ -2722,7 +2697,9 @@ into a single structure . . . . . . . . . . . . . . . . . . . . . . . .
 (the individual units making up aggregate or multiple fruits can be
 classified using the Key to simple fruits).
 
-**PRAC 11 (WEEK 12): FLOWERING PLANT DIVERSITY**
+\newpage
+
+#Prac 11: Flowering Plant Diversity**
 
 In this lab, we will be examining some of the keys to flowering plant
 diversity.
@@ -2801,22 +2778,27 @@ minor exceptions) is unique to angiosperms.
  From what you have seen from our pollination, dispersal, and life
  history data, what can you conclude about the diversification of
  flowering plants?
+ 
+ \vspace*{3\baselineskip}
 
  Are the species you examined in part 1 from species rich or species
  poor families? Is there anything about the flower structure within
  families that relates to diversification?
 
+\vspace*{3\baselineskip}
+
  Can a family have a high diversification rate but low species
  diversity? How?
+
+\vspace*{3\baselineskip}
 
 Table 4.1 – Family diversity, pollination mode, dispersal mode, and life
 histories for a subset of the flowering plant families. Data from
 Eriksson and Bremmer (1992) Evolution, 258-266.
 
-  Family              Number of Species   Pollination mode   Dispersal mode   Life history
-  ------------------- ------------------- ------------------ ---------------- --------------
-                                                                              
-  Amaranthaceae       2100                Abiotic            Abiotic          Herb
+|  Family             | Number of Species |  Pollination mode |  Dispersal mode  | Life history
+|-------------------|------------------- |------------------|----------------|--------------                                                                              
+| Amaranthaceae     |  2100               | Abiotic          |  Abiotic       |   Herb
   Apiaceae            3100                Biotic             Abiotic          Herb
   Araliacaeae         2950                Biotic             Abiotic          Woody
   Arecaceae           2650                Biotic             Biotic           Herb
@@ -2846,7 +2828,7 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
 Figure 11.1. A phylogeny of flowering plant families. From: Silvertown,
 Dodd, and Chase (1999) Evolution 53: 732-744.
 
- **PLANT IDENTIFICATION**
+## Plant Identification
 
  Complete the exercises for identifying plant families using the key /
  identification and family descriptions of the major Australian plant
@@ -2856,13 +2838,13 @@ Dodd, and Chase (1999) Evolution 53: 732-744.
 
 #Long-term assignments
 
-##THE PLANT COLLECTION
+##The Plant Collection
 
 See details at the end of the lab manual for plant collection
 guidelines. While the collection is not due until week 8, specimens take some time to both dry and identify.  We suggest
 that you begin work on this project as soon as possible.
 
-##RESEARCH IN BOTANY
+##Research In Botany
 
 There are three options for this assignment.
 
@@ -2877,7 +2859,6 @@ For the tree journal you should find the tree that your will take repeated obser
 
 The one-page proposal is assessed, and we will give you feedback on the ideas.
 
-##Start both of these assignments early!!!
+###Start both of these assignments early!!!
 
 \newpage
-<div style="page-break-after: always;"</div
