@@ -1,7 +1,5 @@
 \newpage
 
-
-
 # Prac 1: Vegetative Morphology & Intro to Keys
 
 ## The Nature Of Leaves
@@ -230,17 +228,13 @@ this pattern? How does this pattern differ from that in the leaflet of a fern?
 \vspace*{3\baselineskip}
 
 
-
-
-
-
 ### Examine the  the pea seedlings (*Pisum sativum*) on your bench. 
     
 Each leaf is compound, consisting of a petiole terminating in a rachis bearing several pairs of rounded leaflets.
 
 - Which term(s) best describes the form of these leaves (see Figs. 1.1 and 1.2).
 
-
+\vspace*{3\baselineskip}
 
 - Identify the pair of large rounded stipules associated with each
     node, and resembling a basal pair of leaflets that are attached
@@ -255,11 +249,11 @@ Each leaf is compound, consisting of a petiole terminating in a rachis bearing s
 
 -  Which term(s) best describe the phyllotaxis (leaf arrangement - see Figs. 1.1 and 1.2).
 
-
+\vspace*{3\baselineskip}
 
 -  Does this plant have axillary buds?
 
-
+\vspace*{3\baselineskip}
 
 ### Examine *Acacia elata* (Cedar Wattle).
 
@@ -269,27 +263,27 @@ How much constitutes a leaf? Look for axillary buds that may arise in the axils 
     secondary leaflets (pinnules). Are the primary and secondary
     leaflets strictly paired? 
 
-
+\vspace*{3\baselineskip}
 
     
 - Is there a terminal leaflet on the primary
     rachis? 
 
-
+\vspace*{3\baselineskip}
 
 - Is there a terminal secondary leaflet on the secondary
     rachises? 
 
-
+\vspace*{3\baselineskip}
     
 - Which term(s) best describe the form of these compound
     leaves? (see Fig. 1.2).
 
-
+\vspace*{3\baselineskip}
 
 -  Are there stipules present?
 
-
+\vspace*{3\baselineskip}
 
 - Look for the doughnut- or volcano-shaped glands (**nectaries**) that
     are a characteristic feature of the petiole and/or the rachis of
@@ -346,14 +340,14 @@ Examine the **tendrils** on the young pea plants supplied. Each
 
 - Does this node bear a pair of leaves, or a single leaf? 
 
-
+\vspace*{3\baselineskip}
 
 This shows
  that our initial interpretation is wrong. The tendril cannot be a modified leaf.
 
  - Is the tendril in the correct position to have arisen from an axillary bud?
 
-
+\vspace*{3\baselineskip}
 
  If it is neither a modified leaf nor a modified axillary branch, it
  must in fact be a modification of the tip of the main axis.
@@ -381,37 +375,60 @@ Determine in each case whether the climbing structure (tendril or claw)
 
 
 
-\vspace*{3\baselineskip}
 
 
 
-
+\newpage
 
  **TABLE 1** Leaf morphology in angiosperms.  Fill in the missing fields using the terms in the figures above.
- 
-|  Species |  Form of leaf | Phyllotaxis  | Stipules  |   
-|---|---|---|---|
-| *Abelia triflora*   |  simple | opposite   |  absent |  
-|  *Pisum sativum*  |   |  alternate helical |   present | 
-|  *Acacia elata* |   |   |   |   
-|  Specimen A |   |   |   |   
-|  Specimen B|   |   |   |   
-|  Specimen C |   |   |   |   
-
-\vspace*{3\baselineskip}
 
 
+  \vspace*{3\baselineskip}
 
+Species..............Form of leaf..............Phyllotaxis.................Stipules
+  \rule{\textwidth}{1pt}        
+ *Abelia triflora*  
+   \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt} 
+  *Pisum sativum* 
+  \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt}    
+  *Acacia elata*            
+  \vspace*{3\baselineskip}
 
+ \rule{\textwidth}{1pt}    
+ Specimen A          
+  \vspace*{3\baselineskip}
+  
+ \rule{\textwidth}{1pt}    
+  Specimen B           
+  \vspace*{3\baselineskip}
 
+ \rule{\textwidth}{1pt}    
+  Specimen C           
+  \vspace*{3\baselineskip}
 
- **TABLE 2** Write down the organ modified to form structures that aid
- climbing in plants for the different specimens.
- 
-|  Species |  Form of leaf | Modification to aid climbing | Organ modified  |   
-|---|---|---|---|
-| Specimen D   |   |    |   |  
-|  Specimen E  |   |   |    | 
+  \rule{\textwidth}{1pt}    
+
+\newpage
+
+**TABLE 2** Modifications to aid climbing.
+
+ \vspace*{3\baselineskip}
+
+Species.........Form of leaf.........Modification to aid climbing...........Organ modified
+
+  \rule{\textwidth}{1pt}        
+ *Specimen D *  
+   \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt} 
+  *Specimen E* 
+  \vspace*{3\baselineskip}
+
+  \rule{\textwidth}{1pt}    
 
 **Check your answers with demonstrators / lecturers / classmates**
 
@@ -586,7 +603,7 @@ Why should plants have aerenchyma?
  from microscope sections in the practical exam. Hand in your drawing
  of the *Juncus* cladode and we will provide feedback. A submission of
  this drawing will count towards your participation mark.**
---->
+-->
 
 The classic example of tissue that is both chlorenchyma and aerenchyma
 is the spongy mesophyll of many leaves.
@@ -766,7 +783,7 @@ intergrade. These cells, individually or in groups are widely
 distributed in the plant body, but are particularly common in leaves,
 fruits and seeds.
 
-###*XYLEM VESSELS and TRACHEIDS*
+### Xylam vessels and tracheids
 
 Xylem is a complex tissue, composed of conducting (or tracheary)
 elements, fibres and parenchyma.
@@ -798,7 +815,7 @@ have more extensive regions of secondary wall thickening and are not
 extensible. These are 'reticulate'  or
 'pitted' elements (see figures).
 
-- *PHLOEM*: sieve tubes and companion cells. Phloem is a complex tissue comprising sieve tubes, companion cells, parenchyma, fibres and sclereids. The transporting elements are called the sieve elements. These are of two kinds, **sieve cells** (which occur in pteridophytes and gymnosperms) and **sieve tubes** which occur in
+- *Phloem*: sieve tubes and companion cells. Phloem is a complex tissue comprising sieve tubes, companion cells, parenchyma, fibres and sclereids. The transporting elements are called the sieve elements. These are of two kinds, **sieve cells** (which occur in pteridophytes and gymnosperms) and **sieve tubes** which occur in
 angiosperms.
 
 - **Sieve cells** are elongated cells with special sieve areas in lateral
@@ -1001,12 +1018,18 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  more than one whorl, do they alternate in position as in Fig 3.1? Are
  they differentiated into calyx (sepals) and corolla (petals)?
 
+\vspace*{3\baselineskip}
+
  - How many parts are present in each whorl?
+
+\vspace*{3\baselineskip}
 
  - Are the petals free from the base or are they fused into a tube? Do
  they arise from the base of the ovary or from above the ovary? Is the ovary
  **superior** or **inferior** (see figures)? Would you describe the
  flower as hypogynous, epigynous or perigynous?
+
+\vspace*{3\baselineskip}
 
  **Androecium.** 
  
@@ -1015,6 +1038,8 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  flower to flower? Can you determine a constant number of stamens for the
  flower?
 
+\vspace*{3\baselineskip}
+
  - Do the stamens arise from a rim-like extension of the receptacle at
  the top of the ovary by individual stalks, from the top of a staminal
  tube formed by fusion of the stalks (see figures), or from some distance
@@ -1022,10 +1047,14 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  all on the one whorl, but often we can distinguish inner and outer
  whorls by their position in relation to the petals (see Fig. 3.8).
 
+\vspace*{3\baselineskip}
+
  **Symmetry.** Study the symmetry of the flower from above. 
  
  - Is there more than one axis of symmetry? Are the parts of each whorl all of the
  same size? What type of symmetry is shown: **radial** or **bilateral**?
+
+\vspace*{3\baselineskip}
 
  **Gynoecium.** Note the single style arising in the centre of the
  flower. The structure of the ovary is often seen more clearly in
@@ -1043,6 +1072,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  - Is the flower **apocarpous** or **syncarpous** (see figures)? Which
  term in that figure describes the placentation?
 
+\vspace*{3\baselineskip}
 
 
  Now determine the position of the locules in relation to the other
@@ -1063,19 +1093,21 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  part (inner or outer) by a straight line (see figures).
 
  Draw the gynoecium in the centre of your floral diagram. Use **two
- lines,** one for
-
- the outer wall of the ovary and another for the walls that divide the
+ lines,** one for the outer wall of the ovary and another for the walls that divide the
  locules. Show some ovules attached to the placenta in each locule of
  the ovary (see figures).
 
-(f) Cut a second flower of the specimen vertically along a diameter that
+- Cut a second flower of the specimen vertically along a diameter that
     divides the flower symmetrically. Note how the ovary is positioned
     in the flower with respect to the receptacle and point of attachment
     of the stamens, etc. Would you describe the flower as
     **hypogynous**, **perigynous** or **epigynous** (see figures)?
 
- \(g) Now summarize the floral structure in a floral formula.
+\vspace*{3\baselineskip}
+
+- Now summarize the floral structure in a floral formula.
+
+\vspace*{3\baselineskip}
 
 **PLANT IDENTIFICATION**
 
@@ -1109,7 +1141,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  It is a valuable botanical skill and **the use of such keys *will* be
  tested in this course**.
 
-**Plant Identification and Family Descriptions**
+### Plant Identification and Family Descriptions
 
 We will examine the key traits and features of some of the **major
 Australian plant families** throughout this course. Details for these
@@ -1119,7 +1151,7 @@ Families).
 
 \newpage
 
-#PRAC 4: LEAVES
+# Prac 4: Leaves
 
 Reference: The Biology of Plants  pp 592-604.
 
@@ -1143,7 +1175,7 @@ microscopes.
 Each digital file (save for one section of a primitive plant) in today’s
 prac is of transverse leaf sections.
 
-##The evolution of specialisation in leaf tissue
+## The evolution of specialisation in leaf tissue
 
 We have specimens of *Psilotum* (a seedless vascular plant), *Pinus* (a
 conifer), and many flowering plants (e.g. *Hibbertia scandens*). Open
@@ -1195,7 +1227,7 @@ below and list the adaptations to limit water loss.
   *Correa alba*         
   *Hakea teretifolia*   
   *Atriplex* sp         
---->
+-->
 
 ### Tradeoffs in leaf form and function
 
@@ -1252,7 +1284,7 @@ compare these to your observations on leaves of arid environments. Is it
 possible to recognise a general suite of features of leaves of
 rainforest plants?
 
-
+\vspace*{3\baselineskip}
 
  **Table 4.2. Features of rainforest leaves.  Fill in the table below.**
  
@@ -1738,21 +1770,25 @@ the early stages of vascular cambial activity.
  extending between the bundles and which were formed by
  de-differentiation of parenchyma (**interfascicular cambium**).
 
-2. Whether any periderm is forming in the cortex?
+2. Is any periderm is forming in the cortex?
 
- v\) The location of protoxylem with respect to the metaxylem. Is the
- development of
+  \vspace*{3\baselineskip}
 
- the primary xylem **endarch** or **exarch** in this stem?
+- The location of protoxylem with respect to the metaxylem. Is the
+ development of the primary xylem **endarch** or **exarch** in this stem?
 
- b\) Examine the fascicular cambium (within a bundle). In *Coleus* and
+  \vspace*{3\baselineskip}
+
+- Examine the fascicular cambium (within a bundle). In *Coleus* and
  most herbaceous dicots the fascicular cambium gives rise to some
  secondary xylem and secondary phloem, even when externally there is no
  obvious thickening of the stem. Distinguish the boundary between the
  primary and secondary xylem. Note the scattered large empty vessel
  elements in the secondary xylem. What other cell types are present?
 
- c\) Now examine the interfascicular cambium (between the bundles). In
+  \vspace*{3\baselineskip}
+
+- Now examine the interfascicular cambium (between the bundles). In
  many species this produces similar secondary xylem. In *Coleus*,
  however, the interfascicular cambium produces a regular tissue devoid of
  vessels. Are the walls of these cells lignified? Do the cells contain a
@@ -1761,10 +1797,14 @@ the early stages of vascular cambial activity.
  region of the secondary xylem contributes to the stem in a functional
  sense?
 
+  \vspace*{3\baselineskip}
+
 Draw a high power drawing of 2-3 cells from the interfascicular
     region of the vascular cambium, together with 2 cells on either side
     of each cambial initial (ie., a strip 2-3 cells wide and 5 cells
     deep)
+
+  \vspace*{6\baselineskip}
 
 ### *Secondary growth in woody plants***
 
@@ -1795,11 +1835,15 @@ By what factor has the diameter of the stem increased over the initial
 primary (first year) stem at its thickest point? By what factor must the
 epidermis have expanded?
 
+  \vspace*{3\baselineskip}
+
  What processes must have accommodated this increase?
 
- *Activity of the Vascular Cambium*
+  \vspace*{3\baselineskip}
 
-a.  *Young stem of a woody plant*
+## Activity of the Vascular Cambium
+
+*Young stem of a woody plant*
 
  You are provided with a transverse section (G35/1) of a first year
  stem of *Cinnamomum camphora*. There is already an active vascular
@@ -1816,8 +1860,8 @@ a.  *Young stem of a woody plant*
  Note particularly the following primary tissues or regions:
 
  pith - what types of cells are present?
- 
- \vspace*{3\baselineskip}
+
+  \vspace*{3\baselineskip}
 
  pericyclic fibres - groups of thick-walled fibres outside the phloem -
  about how many cells separate adjacent fibre bundles?
@@ -2154,14 +2198,12 @@ Outer zone – old
 
 \newpage
 
-#PRAC 9: PLANT ALLOMETRY
+# Prac 9: Plant Allometry
 
 Most aspects of plant function are size-dependent. In other words, the
 function of plant traits varies in an exponential fashion with plant (or
 organ) size. These size-dependent (or allometric) relationships are
-central to understanding the nature of plant adaptations and
-constraints. In today’s lab, we will examine some important allometric
-relationships across plant vegetative and reproductive traits.
+central to understanding the nature of plant adaptations and constraints. In today’s lab, we will examine some important allometric relationships across plant vegetative and reproductive traits.
 
 In order to examine allometric relationships, data must be collected
 from plants across a range of sizes. Each group will be responsible for
@@ -2198,15 +2240,15 @@ iv) Total leaf weight (remove all leaves, place in a paper bag, record
 
 Using class data – complete the graph and questions on the following
 sheet. Check your answers with demonstrators / lecturers
-<!---
-![](media/image17.emf)
--->
+
+![](graph.png)
+
 
 - What are the average Height / Diameter values for each treatment
 (high and low density)? What do these values tell us about how stem
 architecture adaptively responds to environmental variability?
 
-\vspace*{3\baselineskip}
+\vspace*{5\baselineskip}
 
  On the graph above, plot leaf mass vs stem diameter for all plants.
 Use different symbols to plot plants from the high and low density
@@ -2216,19 +2258,17 @@ data.
 -Is the relationship between leaf mass and stem diameter
 allometric? 
 
-\vspace*{3\baselineskip}
+\vspace*{5\baselineskip}
 
 - What is the most likely mechanism behind the above
 relationship? 
 
-\vspace*{3\baselineskip}
+\vspace*{5\baselineskip}
 
 - Based on these results, are there potential costs
 associated with adaptive stem architecture (as seen in question 1)?
 
-\vspace*{3\baselineskip}
-
-Continue answer on back of page if you need more room.
+\vspace*{5\baselineskip}
 
 ## Size-dependent reproduction in *Capsella bursa-pastoris*.
 
@@ -2273,9 +2313,7 @@ fruit or seed) as a parachute. Wind can keep these seeds aloft, allowing
 them to travel great distances.
 
 The capacity for a pappus to keep a seed aloft should be strongly
-related to seed mass. This sets up an interesting evolutionary tradeoff
-– plants that provision their offspring with a large endosperm (large
-seeds) are more likely to germinate and survive. Plants with small seeds
+related to seed mass. This sets up an interesting evolutionary tradeoff–-plants that provision their offspring with a large endosperm (large seeds) are more likely to germinate and survive. Plants with small seeds
 are more likely to successfully disperse into new habitats. Of course,
 tradeoffs can be quite complex – selection on seed size should be very
 strong if there is a allometric relationship between how fast a seed
@@ -2339,12 +2377,12 @@ fruit tissue. Put this material in paper bags and weigh the seed and non
 seed components. Record the mass of each component on the table and
 graph at the front of the lab.
 
--Is there any evidence of allometric relationships between seed mass and
+- Is there any evidence of allometric relationships between seed mass and
 non-seed fruit mass across individuals of capsicum?
 
 \vspace*{3\baselineskip}
 
--What would allometric relationships indicate about our capacity to
+- What would allometric relationships indicate about our capacity to
 develop fruits for agriculture?
 
 \vspace*{3\baselineskip}
@@ -2699,7 +2737,7 @@ classified using the Key to simple fruits).
 
 \newpage
 
-#Prac 11: Flowering Plant Diversity**
+#Prac 11: Flowering Plant Diversity
 
 In this lab, we will be examining some of the keys to flowering plant
 diversity.
@@ -2707,39 +2745,28 @@ diversity.
 The following paragraph is an excerpt from an influential paper (Davies
 et al. 2004):
 
-“Charles Darwin described the rapid rise and diversification within the
-angiosperms as an ‘abominable mystery.’ Angiosperms are regarded as one
-of the greatest terrestrial radiations of recent geological times. The
-major lineages originated 130-90 million years ago (mya), followed by a
-dramatic rise to ecological dominance 100-70 mya. Approximately 250 000
-extant species have been recognised, although estimates vary, and the
-final number might be double this. Within the group, sister clades can
-differ in species richness over several orders of magnitude. Darwin
-attempted to identify a single causal explanation for the rapid
-diversification of angiosperms but described his own efforts as
-wretchedly poor.”
+>“Charles Darwin described the rapid rise and diversification within the angiosperms as an ‘abominable mystery.’ Angiosperms are regarded as one of the greatest terrestrial radiations of recent geological times. The major lineages originated 130-90 million years ago (mya), followed by a dramatic rise to ecological dominance 100-70 mya. Approximately 250000 extant species have been recognised, although estimates vary, and the final number might be double this. Within the group, sister clades can differ in species richness over several orders of magnitude. Darwin attempted to identify a single causal explanation for the rapid diversification of angiosperms but described his own efforts as wretchedly poor.”
 
-Many attempts at understanding the diversification of flowering plants
-have focused on the evolution of key traits. Biotic or animal
-pollination has been proposed to be a key trait promoting the diversity
-of flowing plants, probably because this type of reproduction (with some
-minor exceptions) is unique to angiosperms.
+Many attempts at understanding the diversification of flowering plants have focused on the evolution of key traits. Biotic or animal pollination has been proposed to be a key trait promoting the diversity of flowing plants, probably because this type of reproduction (with some minor exceptions) is unique to angiosperms.
 
- Using animals as a vector for pollen could require the
- evolution of specialised floral structures. Examine the flowers of the
- specimens provided representing abiotic and biotic pollination systems
- and fill in the table on the hand out provided.
+ Using animals as a vector for pollen could require the evolution of specialised floral structures. Examine the flowers of the specimens provided representing abiotic and biotic pollination systems and fill in the table on the hand out provided.
 
 - How might the flowers you examined maximise reproductive success (i.e.
  maximise the likelihood that pollen will be delivered to a conspecific
  stamen)?
 
+\vspace*{3\baselineskip}
+
 - Are the flowers from animal pollinated species more variable than the
  flowers from species pollinated abiotically?
+
+ \vspace*{3\baselineskip}
 
 - Pollination success does not in itself increase the diversification
  rate of a taxa, how could specialised pollination systems increase
  diversity?
+
+ \vspace*{3\baselineskip}
 
  Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families
  of flowering plants. Fig 4.1 is a phylogeny of flowering plants (a
@@ -2765,24 +2792,27 @@ minor exceptions) is unique to angiosperms.
  Using the data from table 4.1, find the families on the phylogeny (fig
  4.1) and answer the following questions:
 
- Is the evolution of animal pollination related to increased species
- diversity across flowering plant families?
-
  In addition to pollination mode, we also have data on dispersal mode
  (biotic versus abiotic) and life history (i.e. woody plants versus
  herbaceous plants).
 
- Is the evolution of either dispersal mode or life history associated
+- Is the evolution of either dispersal mode or life history associated
  with species diversity within families?
 
- From what you have seen from our pollination, dispersal, and life
+\vspace*{3\baselineskip}
+
+ - From what you have seen from our pollination, dispersal, and life
  history data, what can you conclude about the diversification of
  flowering plants?
  
  \vspace*{3\baselineskip}
 
- Are the species you examined in part 1 from species rich or species
- poor families? Is there anything about the flower structure within
+ - Are the species you examined in part 1 from species rich or species
+ poor families? 
+
+\vspace*{3\baselineskip}
+
+ - Is there anything about the flower structure within
  families that relates to diversification?
 
 \vspace*{3\baselineskip}
@@ -2797,36 +2827,37 @@ histories for a subset of the flowering plant families. Data from
 Eriksson and Bremmer (1992) Evolution, 258-266.
 
 |  Family             | Number of Species |  Pollination mode |  Dispersal mode  | Life history
-|-------------------|------------------- |------------------|----------------|--------------                                                                              
+|-------------------|------------------- |------------------|----------------|--------------
 | Amaranthaceae     |  2100               | Abiotic          |  Abiotic       |   Herb
-  Apiaceae            3100                Biotic             Abiotic          Herb
-  Araliacaeae         2950                Biotic             Abiotic          Woody
-  Arecaceae           2650                Biotic             Biotic           Herb
-  Bataceae            2                   Abiotic            Abiotic          Woody
-  Betulaceae          150                 Abiotic            Biotic           Woody
-  Brassicaceae        3000                Biotic             Abiotic          Herb
-  Cannabinaceae       3                   Abiotic            Abiotic          Herb
-  Callitrichaceae     75                  Abiotic            Abiotic          Herb
-  Caryophyllaceae     2070                Biotic             Abiotic          Herb
-  Cercidiphyllaceae   1                   Abiotic            Abiotic          Woody
-  Fabaceae            3000                Biotic             Abiotic          Herb
-  Geraniaceae         730                 Biotic             Abiotic          Herb
-  Haloragaceae        120                 Abiotic            Abiotic          Woody
-  Hanguanaceae        1                   Abiotic            Abiotic          Herb
-  Joinvilleaceae      2                   Biotic             Abiotic          Herb
-  Lythraceae          580                 Biotic             Abiotic          Herb
-  Myrtaceae           3850                Biotic             Biotic           Woody
-  Poaceae             9000                Abiotic            Abiotic          Herb
-  Proteaceae          1350                Biotic             Abiotic          Woody
-  Rhamnaceae          875                 Biotic             Biotic           Woody
-  Sabiaceae           40                  Abiotic            Biotic           Woody
-  Schrophulariaceae   3000                Biotic             Biotic           Herb
-  Vitaceae            700                 Biotic             Biotic           Woody
-<!---
-![](media/image18.jpeg)
--->
-Figure 11.1. A phylogeny of flowering plant families. From: Silvertown,
-Dodd, and Chase (1999) Evolution 53: 732-744.
+| Apiaceae           | 3100     |           Biotic   |          Abiotic    |      Herb
+ | Araliacaeae     |    2950    |          Biotic       |      Abiotic     |     Woody
+ | Arecaceae       |    2650    |          Biotic      |       Biotic      |     Herb
+ | Bataceae        |    2       |          Abiotic     |       Abiotic     |     Woody
+ | Betulaceae       |   150      |         Abiotic     |       Biotic      |     Woody
+ | Brassicaceae     |   3000     |         Biotic      |       Abiotic     |     Herb
+ | Cannabinaceae     |  3        |         Abiotic     |       Abiotic     |     Herb
+ | Callitrichaceae  |   75       |         Abiotic     |       Abiotic     |     Herb
+ | Caryophyllaceae   |  2070     |         Biotic       |      Abiotic     |     Herb
+ | Cercidiphyllaceae  | 1        |         Abiotic     |       Abiotic     |     Woody
+ | Fabaceae         |   3000     |         Biotic      |       Abiotic     |     Herb
+ | Geraniaceae     |    730       |        Biotic       |      Abiotic     |     Herb
+ | Haloragaceae    |    120       |        Abiotic      |      Abiotic     |     Woody
+ | Hanguanaceae    |    1         |        Abiotic      |      Abiotic     |     Herb
+ | Joinvilleaceae  |    2         |        Biotic       |      Abiotic     |     Herb
+ | Lythraceae     |     580        |       Biotic       |      Abiotic     |     Herb
+ | Myrtaceae       |    3850         |     Biotic        |     Biotic      |     Woody
+ | Poaceae        |     9000          |    Abiotic         |   Abiotic    |      Herb
+ | Proteaceae     |     1350        |      Biotic       |      Abiotic    |      Woody
+ | Rhamnaceae    |      875         |      Biotic       |      Biotic      |     Woody
+ | Sabiaceae      |     40         |       Abiotic       |     Biotic      |     Woody
+ | Schrophulariaceae  | 3000         |     Biotic       |      Biotic      |     Herb
+ | Vitaceae    |        700        |       Biotic         |    Biotic       |    Woody
+
+
+![The evolutionary relationships among the orders of vascular plants. From http://www.mobot.org/MOBOT/research/APweb/](tree.png)
+
+
+
 
 ## Plant Identification
 
@@ -2862,3 +2893,529 @@ The one-page proposal is assessed, and we will give you feedback on the ideas.
 ###Start both of these assignments early!!!
 
 \newpage
+
+#Plant Collection Guidelines
+
+As part of this course, you will be required to produce a small
+herbarium style plant collection. Plant collections are used by
+scientists in much the same way as animal specimens in museums.
+Preserved plants in herbaria can be used as a reference and aid to plant
+identification, a record of extant and extinct populations, a record of
+the expansion of invasive species, a source of DNA for molecular biology
+studies, and a source of morphological and architectural data for
+regional and global comparative studies. The School of BEES has a
+herbarium consisting of about 50 000 preserved specimens and other
+botanical resources on the fourth floor
+(http://www.bees.unsw.edu.au/research/facilities/herbarium). After the
+course is completed, you may keep your collection or you may choose to
+donate your specimens to our herbarium. Your specimens will either be
+incorporated into our collection or donated to other local or
+international herbaria.
+
+## Rules:
+
+There are a number of rules which apply to making a plant collection.
+Without a license, it is illegal (with potentially large fines) to
+collect any plant which is included on the schedule of the Threatened
+Species Conservation Act (see
+[www.nationalparks.nsw.gov.au](http://www.nationalparks.nsw.gov.au)) or
+the Environmental and Biodiversity Conservation Act (see
+[www.ea.gov.au](http://www.ea.gov.au)) or which is a protected species
+on Schedule 13 of the National Parks and Wildlife Act (this includes,
+for example, all species of *Boronia* and all orchids). It is also
+illegal to collect plants from national parks, nature reserves, state
+recreation areas or any other protected area (this includes the Royal
+Botanical Gardens). Collections breaking any of these rules will not be
+accepted.
+
+*Here are the general guidelines for your collection:*
+
+1. Your collection will consist of FIFTEEN specimens from at least eight different plant families. A minimum of six of these must be woody species (trees or shrubs)
+
+2.  Only collect flowering plants (angiosperms), do not collect gymnosperms or ferns.
+
+3.  Your specimens should include at least one specimen displaying:
+    -   An inferior ovary
+
+    -   A superior ovary
+
+    -   Compound leaves
+
+    -   Bilaterally symmetrical flowers
+
+    -   Radially symmetrical flowers
+
+    -   Cladodes
+
+    -   Stipules
+
+4.  **Collect native or naturalised plants**. Horticultural plants are
+    often difficult to identify and collecting them would not contribute
+    to our knowledge base of the Australian flora. If you are looking
+    for plants near gardens – **Don’t** collect plants that have been
+    put there by people; **Do** collect plants (such as weeds) that
+    arrived there on their own.
+
+### Collecting instructions:*
+
+1.  Bring a note book, a pair of clippers, plant tags, and a large
+    plastic bag with you when collecting.
+
+2.  When you find a plant you wish to collect, make careful note of the
+    habitat (e.g. woodland, park, grassy field, rock outcrop, etc) the
+    location (where possible give the names of roads, pathways, parks,
+    and neighbourhoods. This information will allow another scientist to
+    find the population), growth habit of the plant (tree, shrub, vine,
+    herb, etc.), plant height (approximately), and the approximate size
+    of the population.
+
+3.  Collect a sample of the plant. Make sure your specimen shows leaves,
+    stem, and flowers and/or fruit. For smaller plants you may wish to
+    collect the entire individual. Collect healthy looking plants.
+    Specimens should be collected by making a clean cut off the stem
+    (ripping branches off produces large wounds, which may be invaded by
+    pathogens). Put your specimens in the plastic bag.
+
+4.  You may wish to try to identify the specimens while fresh. They
+    should stay relatively fresh for a day or two if the bag is stored
+    in a cool place (your refrigerator).
+
+5.  Arrange your plants on newspaper and stack in the plant press. We
+    will demonstrate this in the lab. Try to press your plants as soon
+    as possible after collection (although called a press, the aim is to
+    provide a means of drying plants, not to squash them as flat as
+    possible).
+
+6.  Dry your plants. This can be done by different methods. We have some
+    drying facilities in the herbarium you can use. If they are pressed
+    correctly, your plants should dry in any well ventilated area.
+    Remember to replace the news print and blotting paper on your
+    specimens regularly, this will minimize the drying time. Large
+    irregular structures (like Banksia inflorescences) may need to be
+    sliced before pressing.
+
+7.  Display each specimen on a completed herbarium sheet. We will show
+    you examples of mounted specimens.
+
+8.  Submit a spreadsheet documenting the distribution of character
+    states amongst the specimens
+
+###Here’s what we will be marking:
+
+1.  Complete and correct identification. This includes family name,
+    genus, specific epithet and authority. Common names are not
+    required.
+
+2.  Complete data. This includes habitat description, location,
+    additional information for this specimen (e.g. height, growth form
+    (e.g. tree or herb) population size estimate, flower or fruit
+    colour), your name, collection date, and specimen number. *We will
+    supply labels for each of your specimens with space for the required
+    information.*
+
+3.  Complete specimen. Each plant must show flowers or fruit (preferably
+    both), stem, and leaves. Press enough material to fill roughly half
+    a folded sheet of news paper (Sydney Morning Herald size). Large
+    herbs should be (where possible) folded, not cut. Woody plants
+    should be trimmed so that critical characteristics are present.
+
+4.  Diversity. Plants displaying the character states listed in part 3
+    (above) should be included. Eight separate families must be
+    represented within your collection. There will likely be bonus marks
+    where each specimen represents a different family. A minimum of six
+    specimens must be woody species.
+
+\newpage
+
+# PRACTICAL REQUIREMENTS
+
+Practical work is an important component of this course. Apart from
+illustrating lecture material, it should teach you:
+
+ \(a) how to handle and prepare plant material for study;
+
+ \(b) how to make observations, both qualitatively and quantitatively;
+
+ \(c) how to record those observations so that they are meaningful to
+ others; observations must be clearly recorded so that they can be communicated
+ to those who have not themselves examined the material.
+
+# Special Skill: Cutting and Staining
+
+*GENERAL*
+
+Plant structure is studied most often by cutting thin sections of the
+plant and examining them stained or unstained with the light microscope.
+The plant material to be sectioned may be living or 'fixed', which means
+that the material has been treated with a carefully chosen chemical that
+gels cell proteins and preserves intracellular structure with as little
+distortion as possible of the living state.
+
+Sectioning can be done by hand with a razor blade, or by using a
+mechanical cutting device (a microtome) that holds the material and
+advances it a section-thick distance after each slice of the knife.
+Usually for microtome sectioning material is first impregnated with wax
+or plastic which is then solidified around and within the tissue to
+strengthen it during cutting. On hardening, a 'block' is formed with the
+specimen 'embedded' within a matrix of supporting material. Both tissue
+and embedding matrix are sectioned together and the extra support allows
+thinner sections to be cut, resulting in better resolution of tissue
+structure.
+
+## SECTIONING BY HAND*
+
+You will require:
+
+1. a Petri dish or watch glass with a 0.5 cm depth of water;
+
+2. a small paint-brush;
+
+3. a *new* razor-blade (carefully protect its cutting edge all the time).
+
+Hold the material with your left (or non-dextrous) hand so that the
+plane of cutting will be horizontal. The aim is to cut smoothly and
+fairly quickly producing dozens of sections from which a few are chosen:
+it is worth noting that it is often the incomplete sections with thin
+'running-out' edges that provide the best study. The razor blade surface
+should be wet with one or two drops of water to prevent the newly-cut
+sections from drying out. When several sections mount up on the blade
+they are swept carefully off with the wet paint-brush into the water in
+the Petri dish.
+
+**Do not let the material dry out at any stage.**
+
+### STAINING SCHEDULES*
+
+Place the staining solution in a watch glass. Prepare a second watch
+glass about 2/3 full of distilled water ready for rinsing. After
+staining the specimen for the appropriate time transfer it to the rinse
+solution. Note that staining times are usually critical, but sections
+can often be held in rinse water for several hours without damage.
+
+**All stains should be treated as potential carcinogens and you should
+take care not to stain yourself. To protect skin and clothes from
+accidental staining please wipe up any spills immediately.**
+
+Schedules for the stains you will use are outlined below.
+
+### MOUNTING SECTIONS
+
+Always place a cover-slip over the section before examining it under the
+microscope. Sections can be mounted either in water or 50% glycerol. The
+advantage of glycerol is that it evaporates less quickly. However, if
+the preparation is drying out an additional drop of mounting solution
+can be added easily without removing the cover-slip, by carefully
+touching the drop (on a needle, pencil or pipette) against the edge of
+the cover-slip and allowing the liquid to flow under the cover-slip.
+
+(Plastic-embedded sections are often mounted in oil or other non-aqueous
+media, rather than water: this gives improved resolution.)
+
+### STAINING SCHEDULES
+
+- *Toluidine Blue*** (MULTIPLE STAIN).
+
+Toluidine Blue is a very important dye that distinguishes lignified
+ from unlignified walls. It is a positively charged dye which stains negative groups.
+ Lignified walls stain blue and unlignified walls stain pink or purple.
+ The pectin and hemicellulose fractions of the wall stain pink.
+ Cellulose does not stain.
+
+More detailed staining reactions are given below:
+
+### CELL CHEMICAL GROUP THAT STAINING STRUCTURE REACTS COLOUR
+
+1.  cytoplasm (phosphate groups in nucleic acids) purple
+
+2.  nucleus (phosphate groups in DNA) blue
+
+3.  cell walls (COOH groups in some unlignified carbohydrates e.g. pectin) pink
+
+1.  lignified walls (phenols) green to blue (turquoise blue)
+
+2.  some vacuoles (phenols) deep dark blue
+
+### STAINING SCHEDULE:
+
+1. Wash section in distilled water (5 min.).
+
+2. Transfer to a drop of toluidine blue in a watch glass.
+
+3. Leave until you can see differentiation of pink and blue tissue (seconds to minutes).
+
+4. Transfer to distilled water in a second watch glass for a few seconds to wash out excess stain. Check stain. If OK, then
+
+5. Transfer to a clean dry slide in a drop of glycerol. Cover with a clean cover-slip, lowered gently from one side to exclude air bubbles.
+
+### Safranin and Fast Green
+
+Many prepared slides are stained with these two dyes. Safranin (red) is
+preferentially retained in lignified, suberized, or cutinised walls, as
+well as in regions rich in DNA or RNA (ie. nuclei), whereas Fast green
+stains protein (and, particularly, primary walls). Both stains are also
+fast (ie. permanent) on clothing and to a lesser extent on fingers, so
+should be used with care, and any spills mopped up with paper towel.
+
+### Iodine in KI (STARCH).
+
+- Iodine stains starch grains bright purple to blue-black.
+
+- Wash briefly in distilled water.
+
+- Transfer section to a drop of iodine on a slide.
+
+- Leave for 2-5 minutes.
+
+- Blot off the stain and add a drop of glycerine.
+
+- Cover with a cover-slip, lowered gently from one side to exclude all air bubbles.
+
+**Note:** Although Iodine is widely used as a disinfectant, some people
+are highly allergic to it. Treat all stains with care and do not allow
+them to come in contact with your skin.
+
+# Light Microscopy
+
+### OLYMPUS MICROSCOPE
+
+### Operating procedure
+
+1. Place the microscope in a comfortable position on the bench.
+
+2. Check that on/off switch (right hand side of base) is in the off
+position and the brightness control is at zero.
+
+3. Plug in and switch on at the centre of the bench.
+
+4. Turn on microscope lamp and increase brightness control until you can
+see some light coming through the condenser.
+
+5. Make sure the 4x objective is in position.
+
+6. Place specimen slide on stage and hold in position with stage clip.
+THE SPECIMEN SHOULD NEVER BE VIEWED WITHOUT A COVERSLIP.
+
+7. Position specimen under 4x objective using mechanical stage controls.
+
+8. Focus. Adjust brightness control if necessary.
+
+9. Make interpupillary and diopter adjustments (see below).
+
+10. Swing in desired objective. Re-focus.
+
+11. Check that condenser height is optimum (should be raised above image
+of ground glass screen).
+
+12. Close iris diaphragm to 2/3 (70%) of the exit pupil of objective
+(see below).
+
+13. Fine focus and observe.
+
+**Correct setting up of the microscope *will be examined* in the
+practical examination.**
+
+*How to correct interpupillary distance and diopter settings*
+
+1. Hold the knurled dovetail slides of the right and left eyepiece tubes
+with both hands and put the tubes together, or pull them apart
+laterally, whichever is required, while looking through the eyepieces
+with both eyes, until perfect binocular vision is obtained.
+
+2. Rotate the tube length adjustment ring on the right eyepiece tube to
+match your interpupillary distance setting, which is given on the scale
+above and left of the right hand eyepiece.
+
+3. Look at the image through the right hand eyepiece with your right eye
+and focus on the specimen with the coarse and fine adjustment knobs.
+
+4. Next, looking at the image through the left eyepiece with your left
+eye rotate the tube length of this eyepiece to focus on the specimen
+without altering the coarse and fine adjustment knobs.
+
+### Automatic pre-focussing
+
+This lever (inside ring of left hand focusing knob) locks the microscope
+at a particular coarse focus position to prevent further upward travel
+of the stage by means of the coarse adjustment knob. It prevents damage
+to objectives as a result of focusing the specimen slide up through the
+objective lens. It does not restrict fine focusing.
+
+### Aperture iris diaphragm
+
+The lever on the condenser controls the aperture iris diaphragm
+adjustment. The iris diaphragm should be adjusted to match the numerical
+aperture of the objective in use in order to get the best result.
+However, since the image usually lacks contrast a compromise is made and
+the diaphragm is stopped down to about 70% of the objective numerical
+aperture.
+
+Remove the eyepieces: the circle of light represents the exit pupil of
+the objective. Adjust the diaphragm using the condenser lever until the
+iris impinges on the exit pupil by about 1/3. This should always be done
+when objectives are changed.
+
+
+### DO'S AND DON'TS
+
+1. If lenses are dirty you may clean them, but only with either a blower
+brush or a fresh piece of lens tissue - NOT KLEENEX. (Xylene, alcohol or
+ether may be used in small amounts as a cleaning fluid.)
+
+2. When carrying the microscope, keep it upright so that the eyepieces
+do not fall out. USE BOTH HANDS.
+
+3. The tension on the coarse focus can be altered by rotating the
+innermost ring on the right-hand focus adjustment knob.
+
+4. DO NOT TWIST THE TWO COARSE ADJUSTMENT KNOBS IN OPPOSITE DIRECTIONS
+SIMULTANEOUSLY AS THIS WILL CAUSE DAMAGE.
+
+5. Do not spill water, oil or acid on the mechanical stage or any other
+part of the microscope. Oil or water between the slide and stage causes
+friction so that the slide will not move easily.
+
+### Calibration of the microscope and making measurements
+
+*Simple calibration calculations are usually on the board at the front
+of the lab.*
+
+All microscopes are equipped with a micrometer eyepiece. This contains a
+glass graticule with a scale engraved at the centre. It has been
+inserted into the eyepiece and should be visible when you look through
+the microscope.
+
+The value of the micrometer eyepiece changes as the magnification
+changes and it should be calibrated for each objective with a stage
+micrometer. The stage micrometer scale is usually 1.0 mm long,
+subdivided into 100 $\times$ .01 mm (10 µm) divisions. To calibrate the
+eyepiece micrometer you need to determine the number of divisions on the
+stage micrometer that corresponds to a chosen number of divisions of the
+eyepiece micrometer.
+
+The relationship is: $M = \frac{S \times V} {E}$
+
+M is the value (in mm or µm) of *each* eyepiece micrometer unit to be
+determined.
+
+V is the value of each stage micrometer unit (usually 0.01 mm).
+
+S & E are the numbers of units on the stage and eyepiece micrometers,
+respectively, that
+
+correspond.
+
+Once the value of M has been determined for a particular magnification,
+the eyepiece micrometer may then be used in the same way as a ruler.
+
+The measurement is actually made by carefully lining up the two scales
+and counting the number of divisions in each that corresponds. The
+calibration should be done for each objective and the value recorded for
+future reference.
+
+![Diagram of a light microscope](microscope.png)
+
+## Botanical drawing
+
+In this course we are not asking you to produce works of art (or
+imagination), but accurate representations of what you can see down the
+microscope. You are all capable of this - the principal requirements are
+practice and a sharp pencil (preferably HB).
+
+There are two types of drawing, and *each should be accompanied by a
+scale:
+
+![In a low power plan individual cells should not appear. The aim is to
+ indicate boundaries between different tissues. Clearly you will need
+ to introduce some simplification into such a diagram. For example,
+ boundaries with many small scale convolutions may be portrayed as a
+ straight line and diffuse boundaries by dotted lines.](LowPowerPlan.png)
+
+### High Power Drawing
+
+ This should be an accurate drawing of a small number of cells. It
+ should show details of cell outline and as much internal structure as
+ is discernable. For example, if you are drawing a cell with
+ chloroplasts, you should draw them in the correct position to the
+ correct size, shape and number: they should not be drawn as a vague
+ collection of squiggles around the edge of the cell. Cell walls, if
+ accurately represented, will rarely have breaks in them.
+
+ Thick cell walls should be represented by a double line, and thin cell
+ walls by a single line. You can use the distance between the two
+ "double" lines to indicate wall thickness. Each cell should be
+ enclosed by a completed line. See these points in the example below.
+ Note how the thick walls of the epidermis, collenchyma and fibres are
+ separated from intercellular space.
+
+ ![An example of a good high power drawing](HighPowerDiagram.png)
+
+## Constructing a scale
+
+ A scale must be of a rounded-off length (eg. 10 m, 50 m, 100 m, or
+ 0.5mm or 1mm) that readily allows the viewer to calculate the real
+ size of the whole structure and its parts.
+
+### STEPS:
+
+1.  Measure (on the section) an *easily recognisable part* of the
+    drawing using the ocular micrometer eg. the radial diameter of a vascular bundle = 54 units on the X4
+ objective
+
+2. Calculate the actual size: (ie. multiply occular units by the length each represents on the objective used)
+eg. 54 x 25 =1350 µm (or 1.35mm)
+
+3. Measure the size of *the same part* on the drawing (ie. the diameter of the same bundle) eg. 76mm
+
+4. Since 76mm on the drawing represents 1350µm on the section, what
+ distance on the drawing equals 1mm (1000µm) on the section?
+
+ 1 m = *76* therefore 1000µm = *76* x1000 = 55.9mm
+
+ 1350 1350
+
+5. Draw a scale line 56mm long below the drawing and label it 1mm
+ (ie.1000µm).
+
+### General points
+
+1. Make drawings large.
+
+2. All drawings should have a heading stating organ, species and plane
+of section.
+
+3. All drawings should be in pencil. It is also highly desirable that
+labels should be in pencil so that corrections can be made easily and
+neatly.
+
+4. Labels should appear to the side of a drawing and not be written
+across it. A *straight* line, and not an arrow, should connect the label to the area it refers to -
+the labels should be arranged in such a way that the lines do not cross.
+Labels should give detailed information about composition of structures
+where possible, based on staining reactions, eg. lignified wall.
+
+5. It is usually not necessary to use cross-hatching or stippling to
+indicate particular tissue types in low power diagrams. If you must
+clarify your drawings by cross-hatching, make sure it is neat and does
+not cross the boundary line of the tissue. An example of the use of
+shading is given on page 12.
+
+6. The scale of all drawings should be indicated (see instructions for
+constructing a scale above).
+
+7. In labelling a drawing a certain amount of interpretation is
+necessary. Under some circumstances, interpretation of certain features of transverse sections
+may require confirmation from longitudinal sections.
+
+8. While drawing you should be constantly altering the plane of focus of
+the microscope in order to clarify details. You should also be prepared to change the
+objective: to a higher power to help the interpretation of fine detail;
+to a lower power to appreciate the relationship of what you are drawing
+to the structure of the whole organ.
+
+9. In this course we hope to improve your skills of observation and
+interpretation. In some exercises it will be left to you (with advice from your demonstrator) to
+decide what sections to cut, what stains to use and how to present the
+evidence. Drawings alone may be inadequate to record some observations;
+supplement by notes or tables when appropriate. It is not desirable to
+include too many notes in the labels.
+
