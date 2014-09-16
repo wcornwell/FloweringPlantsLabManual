@@ -372,13 +372,7 @@ Determine in each case whether the climbing structure (tendril or claw)
 	Enter your answers in Table 1.2.
 
 
-
 ![Terms for the different arrangements of leaves](alternateLeafArrangements.png)
-
-
-
-
-
 
 \newpage
 
@@ -387,7 +381,7 @@ Determine in each case whether the climbing structure (tendril or claw)
 
   \vspace*{3\baselineskip}
 
-Species..............Form of leaf..............Phyllotaxis.................Stipules
+Species..............Form of leaf...............Phyllotaxis..................Stipules
   \rule{\textwidth}{1pt}        
  *Abelia triflora*  
    \vspace*{3\baselineskip}
@@ -420,7 +414,7 @@ Species..............Form of leaf..............Phyllotaxis.................Stipu
 
  \vspace*{3\baselineskip}
 
-Species.........Form of leaf.........Modification to aid climbing...........Organ modified
+Species........Form of leaf......Modification to aid climbing........Organ modified
 
   \rule{\textwidth}{1pt}        
  *Specimen D *  
@@ -431,6 +425,8 @@ Species.........Form of leaf.........Modification to aid climbing...........Orga
   \vspace*{3\baselineskip}
 
   \rule{\textwidth}{1pt}    
+
+\vspace*{3\baselineskip}
 
 **Check your answers with demonstrators / lecturers / classmates**
 
@@ -612,7 +608,7 @@ is the spongy mesophyll of many leaves.
 
 ## Sclerenchyma
 
-### *Sclereids*
+### Sclereids
 
  Taste the apple and pear and compare the texture of the two fruits.
  Cut thin sections through the pulp of each fruit. Rinse for 10 minutes,
@@ -659,7 +655,7 @@ significance of such cells in a fruit?
 
 
 
-### *Fibres*
+### Fibres
 
  Examine the leaves of *Lomandra longifolia* Notice how hard and
  stiff they are. Hard leaves contain large numbers of fibres and are
@@ -691,7 +687,7 @@ looking at a range of different plant tissues and you will be expected
 to be able to identify the major cell types. The notes given below
 should help to clarify the important features of each type.
 
-###*PARENCHYMA*
+### Parenchyma
 
 In herbaceous plants 80% of the plant body is composed of parenchyma.
 The term parenchyma is used for tissues composed of *living* cells
@@ -723,7 +719,7 @@ can be recognised including:
  e.g., *Juncus*, and the roots of many plants from waterlogged
  habitats.
 
-###*COLLENCHYMA*
+### Collenchyma
 
 Collenchyma is a living tissue composed of more or less elongated cells
 with thick, non-lignified primary walls (see Figures). It is the main
@@ -741,7 +737,7 @@ TS.
 With age, the cells of collenchyma may, in some species become lignified
 and therefore the tissue changes into sclerenchyma.
 
-###*SCLERENCHYMA*
+### Sclerenchyma
 
 Sclerenchyma refers to a tissue composed of cells with thick, rigid,
 secondary walls (usually but not always lignified) whose function is
@@ -749,7 +745,7 @@ support and/or protection; frequently the cells lack protoplasts at
 maturity. Many different cell types are involved but two major groups
 are recognized: fibres and sclereids.
 
-###**Fibres**
+### Fibres
  
 Fibres are long tapered interlocking cells, normally unbranched.
 Typically without protoplasts at maturity and with obscure simple
@@ -837,10 +833,7 @@ precise function of companion cells is controversial.
 
 See Raven Ch 23 for more information on plant cells.
 
-
-
 ![Parenchyma and Collenchyma](parenchyma_and_collenchyma.png)\
-
 
 ![Sclerenchyma and Xylem](sclerchyma_and_xylem.png)
 
@@ -848,7 +841,7 @@ See Raven Ch 23 for more information on plant cells.
 
 \newpage
 
-#PRAC 3: Floral Morphology and Inflorescences
+#Prac 3: Floral Morphology and Inflorescences
 
 Reference: Raven, P.H., Evert, R.F. & Eichhorn, S.E. 2013. **The Biology
 of Plants 8$^{th}$ edition** pp 478-492.
@@ -1047,7 +1040,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  tube formed by fusion of the stalks (see figures), or from some distance
  up on the inner surface of the petals? The stamens may appear to be
  all on the one whorl, but often we can distinguish inner and outer
- whorls by their position in relation to the petals (see Fig. 3.8).
+ whorls by their position in relation to the petals (see Figures).
 
 \vspace*{3\baselineskip}
 
@@ -1089,7 +1082,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  later. Draw in the perianth on the outer whorls, following the most
  appropriate example in the flower figure.
 
- Draw in the stamens as lobed anthers (to distinguish them from sterile **staminodes**; Fig. 3.1), making certain to position each stamen
+ Draw in the stamens as lobed anthers (to distinguish them from sterile **staminodes**; see figures), making certain to position each stamen
  correctly with respect to the perianth members. If the stamens are
  fused with the perianth, join the anther to the appropriate perianth
  part (inner or outer) by a straight line (see figures).
@@ -1111,9 +1104,9 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
 
 \vspace*{3\baselineskip}
 
-**PLANT IDENTIFICATION**
+## Plant Identification
 
- **Introduction to the use of the ‘Key to Plant Families’**
+### Introduction to the use of the ‘Key to Plant Families’
 
  Use “The key to some Australian Plant families” found at the end of
  the lab manual to identify the specimen supplied to family level.
@@ -1192,23 +1185,26 @@ photosynthesis than *Psilotum* stems?
 
 \vspace*{3\baselineskip}
 
--Photosynthetic stems are required to support the plant as well as
+- Photosynthetic stems are required to support the plant as well as
 photosynthesise. Are support cells present in *Psilotum* stems that are
 not seen in *Pinus* stems? If so, why is the presence of these support
 cells problematic for photosynthesis?
 
 \vspace*{3\baselineskip}
 
-*Do* Pinus *leaves have more specialised cell types than* Psilotum
-*stems?*
+- Do *Pinus* leaves have more specialised cell types than *Psilotum*
+stems?
 
 \vspace*{3\baselineskip}
 
 Compare the *Pinus* leaf to the angiosperm *Hibbertia scandens* leaf.
 
-*Are the parenchyma cells arranged differently in the two leaf types?
-Are there more specialised cell types or arrangements in angiosperm
-leaves? *
+- Are the parenchyma cells arranged differently in the two leaf types?
+
+\vspace*{3\baselineskip}
+
+- Are there more specialised cell types or arrangements in angiosperm
+leaves? 
 
 \vspace*{3\baselineskip}
 
@@ -1237,10 +1233,10 @@ Open the file for *Helianthus* sp (*Helianthus* are the sunflowers) and
 compare the leaf form to the leaf form of plants adapted to water
 limitation.
 
-Helianthus *are some of the fastest growing plants in the world. Through
-your observations on the leaf sections, could you predict that*
-Helianthus *is probably a faster growing species than the species
-adapted to water limitation? *
+*Helianthus* are some of the fastest growing plants in the world. Through
+your observations on the leaf sections, could you predict that
+*Helianthus* is probably a faster growing species than the species
+adapted to water limitation? 
 
 - What do your comparisons of leaf form tell you about the tradeoffs in
 leaf function? 
@@ -1251,8 +1247,12 @@ leaf function?
 
 Open the file for *Eucalyptus* sp.
 
--How do *Eucalyptus* leaves differ from most of the other angiosperm
-leaves we looked at today? Why might this leaf form be an advantage for
+- How do *Eucalyptus* leaves differ from most of the other angiosperm
+leaves we looked at today? 
+
+\vspace*{3\baselineskip}
+
+-Why might this leaf form be an advantage for
 Eucalypts?
 
 \vspace*{3\baselineskip}
@@ -1288,10 +1288,8 @@ rainforest plants?
 
 \vspace*{3\baselineskip}
 
- **Table 4.2. Features of rainforest leaves.  Fill in the table below.**
- 
-  Anatomical type:           
-  
+ **Table 4.2. Features of rainforest leaves.  Fill in the table below with the expectation for the nature of the tissue type within rainforest species.**
+        
   \rule{\textwidth}{1pt}
   Epidermis
   \vspace*{3\baselineskip}
@@ -1396,12 +1394,14 @@ Is Spartina a C$_3$ or a C$_4$ species?
 
 \vspace*{3\baselineskip}
 
+![Structure of salt glands within 1. *Frankenia pauciflora*;  2. *Sporobolus virginicus*; 
+    3. *Samolus repens*](saltGlands.png)
 
 i.  *Sporobolus virginicus*
 
 *Sporobolus virginicus* is a major saltmarsh grass around the world.
 
-![*Sporobolus virginicus* ](sporobolus.png)
+![*Sporobolus virginicus*](sporobolus.png)
 
 One of its adaptations to tolerating saline conditions is through
 excretion of salts through special salt glands. In grasses, salt glands
@@ -1455,14 +1455,11 @@ saltmarshes.
 
 i.  Examine the demonstration material of hydathodes in *Impatiens* sp.
 
- **\
- Fig. 5.1** Structure of salt glands. 1. *Frankenia pauciflora*; 2.
- *Sporobolus virginicus*;
+
 
 3\. *Samolus repens*
-<!---
-![](media/image15.jpeg)
--->
+
+
 ## Stem Transport
 
 In this prac, we will compare aspects of xylem architecture between
@@ -1489,13 +1486,13 @@ Reference: Raven Biology of Plants. ch 24.
 Plants invest significant carbon captured in
 photosynthesis into their root systems. Roots have four functions:
 
-1) Resources uptake
+1. Resources uptake
 
-2) Anchorage
+2. Anchorage
 
-3) Transport
+3. Transport
 
-4) Storage
+4. Storage
 
 The last three of these functions are always done by the plant itself.  The first one, resource uptake is often done via symbiotic partners.
 
@@ -3653,12 +3650,13 @@ presence of compound leaves.
 
 Important genera in Australia:
 
-> *Boronia* Sm. (94 species - flowers tetramerous - many very
-> attractive; all NSW species are protected); *Eriostemon* Sm. (33
-> species - Wax Flowers - flowers pentamerous); *Zieria* Sm. (25
-> species - flowers tetramerous with only one whorl of stamens).
->
-> **ID Exercises**
+- *Boronia* Sm. (94 species - flowers tetramerous - many very attractive; all NSW species are protected); 
+
+- *Eriostemon* Sm. (33 species - Wax Flowers - flowers pentamerous); 
+
+- *Zieria* Sm. (25 species - flowers tetramerous with only one whorl of stamens).
+
+###ID Exercises
 >
 > Examine the leaves on the range of specimens provided. Do any have
 > compound leaves? Do they have serrate margins. Hold a leaf of each up
@@ -3931,7 +3929,7 @@ flowers? Construct a floral formula for the marginal floret.
 greatest diversity in the Cape Province of South Africa, south-western
 Australia and eastern Australia.
 
-![Range map for Proteaceae from http://www.mobot.org/MOBOT/research/APweb/](proteaceaemap.gif)
+![Range map for Proteaceae from Angiosperm Phylogeny Web (APWeb; www.mobot.org/MOBOT/research/APweb)](proteaceaemap.gif)
 
 Habit: *Woody plants*, from great trees to dwarf prostrate undershrubs
 and trailing undershrubs.
@@ -3996,28 +3994,26 @@ a\) Is the flower radially symmetrical or zygomorphic?
 b\) Are petals and sepals both present? How many parts are present in
 each whorl?
 
-> c\) How are the stamens positioned in relation to the perianth?
->
-> Is there anything unexpected about this position?
->
-> Does this explain how the flower has evolved from the more general
-> condition in angiosperms (two whorls of perianth and the stamens
-> alternating with the petals)?
->
-> d\) There is only one carpel in each flower. Examine developing fruits
-> and determine whether the ovary is inferior or superior?
+c\) How are the stamens positioned in relation to the perianth?
+
+ Is there anything unexpected about this position?
+
+ Does this explain how the flower has evolved from the more general
+ condition in angiosperms (two whorls of perianth and the stamens
+ alternating with the petals)?
+
+d\) There is only one carpel in each flower. Examine developing fruits
+ and determine whether the ovary is inferior or superior?
 
 ## Ericaceae, the heath family
 
-### Formerly the southern hemisphere heaths were in family "EPACRIDACEAE"
+**Formerly the southern hemisphere heaths were included in the family "Epacridaceae"; molecular evidence disproved the existence of Epacridaceae as a real evolutionary group and the southern heaths are now considered to be part of a globally distributed family, Ericaceae**
 
-A small family of only about 30 genera and 400 species, chiefly found in
-Australia and New Zealand, with some in Indo-Malaya, Hawaii and South
-America. The species are mainly in wet and dry heathlands and are common
+A large globally distributed family with 126 genera and 4000 species. Boreal to warm temperate, also montane tropics, very rare in lowland tropics.  The species are mainly in wet and dry heathlands and are common
 on the sandstone around Sydney and in the Blue Mountains. They are known
 as Native Heaths.
 
-Habit: *Woody* small under-shrubs or small trees.
+Habit: Typically *woody* small under-shrubs or small trees.
 
 Leaves: *usually small and crowded*, alternate, simple, entire,
 exstipulate with *palmate or longitudinal venation*.
@@ -4031,134 +4027,103 @@ Flowers: *radially symmetrical and pentamerous*, with few to many
 
 Fruit: a capsule or drupe.
 
-The family is divided as follows:
-
-> Tribe Epacrideae: ovary summit indented to form a pit around the base
-> of the style; *fruit a capsule* with numerous small seeds.
->
-> Tribe Styphelieae: ovary summit tapering into the style; *fruit a
-> drupe* with 1 to few seeds.
-
-Recent research in molecular systematics has shown that this family is,
-in fact, part of a larger family, the Ericaceae, which includes the
-northern hemisphere heathers.
-
 ### ID Excercises
 
 Examine the specimen(s) provided.
 
-> a\) Examine the small leaves and note the venation pattern.
->
-> Is there a midrib present?
->
-> How does the leaf attach to the stem?
->
-> Are these typical dicotyledonous leaves?
->
-> b\) Examine the base of the flower and determine how many sepals are
-> present.
->
-> Is there anything unusual about the calyx?
->
-> c\) Note the tubular corolla. How many lobes are present?
->
-> d\) The stamens are borne on filaments that arise from the inside of the
-> corolla tube. If you pull the petals off, the stamens come away with
-> them. Such stamens are said to be *epipetalous*.
->
-> e\) Is the ovary superior or inferior?
->
-> Examine a fruit and determine how many locules are present.
->
-> f\) Construct a floral formula.
+- Examine the small leaves and note the venation pattern.
+
+- Is there a midrib present?
+
+- How does the leaf attach to the stem?
+
+- Are these typical dicotyledonous leaves?
+
+- Examine the base of the flower and determine how many sepals are present.
+
+- Is there anything unusual about the calyx?
+
+- Note the tubular corolla. How many lobes are present?
+
+- The stamens are borne on filaments that arise from the inside of the
+ corolla tube. If you pull the petals off, the stamens come away with
+ them. Such stamens are said to be *epipetalous*.
+
+- Is the ovary superior or inferior?
+
+- Examine a fruit and determine how many locules are present.
+
+- Construct a floral formula.
 
 ## Identifying unknowns
 
 The following summarises the way you should proceed to identify any
-unknown specimen. First (using the first key couplet on page 97)
-determine if the plant is a monocotyledon or a dicotyledon. If the
+unknown specimen. First determine if the plant is a monocotyledon or a dicotyledon. If the
 specimen is a monocotyledon, have a closer look – if it has
-modified/reduced flowers and/or spikelets, go to the key on page 109 to
+modified/reduced flowers and/or spikelets, go to the family key to
 determine if it belongs to **CYPERACEAE** or not. If the specimen has
-well developed flowers, turn to page 106 and use the key for
+well developed flowers, use the full family key for
 monocotyledons to determine in which family the specimen belongs.
 
 If the specimen is a dicotyledon, first check whether it belongs to one
-of the major families you should recognise. Only if it does not belong
+of the major families or subfamilies you should recognise. Only if it does not belong
 to one of these families should you use the key to families. Otherwise,
 go direct to the key to genera in the family you have recognised.
 
-i.  Hold a leaf up to the light and examine with a X10 lens for the
+-  Hold a leaf up to the light and examine with a X10 lens for the
     presence of translucent oil glands.
 
-> If oil glands are present the specimen belongs to
-> ............**MYRTACEAE** or **RUTACEAE**.
->
-> If the ovary is superior, it belongs to
-> ............................................**RUTACEAE.**
->
-> If the ovary is inferior, it belongs to
-> ...........................................**MYRTACEAE**.
->
-> If the leaves are compound, it must be a member of Rutaceae. Simple
-> leaves occur in both families.
+    - If oil glands are present the specimen belongs to...**MYRTACEAE** or **RUTACEAE**
 
-If there are no oil glands in the leaves, then -
+    - If the ovary is superior, it belongs to.................................**RUTACEAE**
 
-> ii\. Examine the inflorescence. Is it a capitulum? That is, does it
-> consist of many small tubular flowers without sepals, but the whole
-> cluster surrounded by numerous bracts resembling sepals.
->
-> If so, it belongs to
-> ...............................................................**ASTERACEAE**.
->
-> Check that the ovary is inferior, the corolla is tubular, and the
-> anthers are connate and epipetalous to confirm the identification.
+    - If the ovary is inferior, it belongs to................................**MYRTACEAE**
+
+>*If the leaves are compound, it must be a member of Rutaceae. Simple leaves occur in both families.*
+
+If there are no oil glands in the leaves, then continue through this key.
+
+- Examine the inflorescence. Is it a capitulum? That is, does it
+ consist of many small tubular flowers without sepals, but the whole
+ cluster surrounded by numerous bracts resembling sepals.
+
+    - If so, it belongs to................................................**ASTERACEAE**.
+
+> *Check that the ovary is inferior, the corolla is tubular, and the
+anthers are connate and epipetalous to confirm the identification.*
 
 If the inflorescence is not a capitulum, then -
 
-> iii\. Are the flowers in dense heads without an involucre of surrounding
-> bracts?
->
-> Are the stamens the main display of the flowers? Does the plant have
-> bipinnate leaves or phyllodes? Look for the marginal gland. Is the
-> fruit a legume or pod?
->
-> If so, the specimen belongs in
-> ................................................**MIMOSACEAE.**
+- Are the flowers in dense heads without an involucre of surrounding bracts? Are the stamens the main display of the flowers? Does the plant have bipinnate leaves or phyllodes? Look for the marginal gland. Is the
+ fruit a legume or pod?
+
+    - If "yes" is the answer to all these questions, the specimen belongs in........**MIMOSOIDEAE.**
 
 If these features are not present, then -
 
-> iv\. Examine a flower externally. Are both sepals and petals present or
-> is there only one perianth whorl?
->
-> If there is a single perianth whorl of 4 parts, it is a member of
-> .............**PROTEACEAE**.
->
-> Check that there are 4 stamens opposite the perianth parts to confirm
-> the identification.
+- Examine a flower externally. Are both sepals and petals present or is there only one perianth whorl?
+
+    - If there is a single perianth whorl of 4 parts, it is........**PROTEACEAE**.
+
+> *Check that there are 4 stamens opposite the perianth parts to confirm
+> the identification.*
 
 If this does not apply, then -
 
-> v\. Is the flower radially symmetric and does it have a tubular corolla?
->
-> If so, are there small bracts resembling sepals below the calyx?
->
-> If so, it belongs to
-> ...........................................................**EPACRIDACEAE**.
->
-> Check leaf venation and for epipetalous stamens to confirm the
-> identification.
->
-> vi\. If the flowers are zygomorphic, do they have a 'standard', a 'keel'
-> and 2 'wings'?
->
-> Is the fruit is a legume or pod developed from a superior ovary?
->
-> If so, the specimen belongs
-> to....................................................**FABACEAE**.
+- Is the flower radially symmetric and does it have a tubular corolla?
 
- Compound leaves and stipules are common in this family.
+- If so, are there small bracts resembling sepals below the calyx?
+
+    - If so, it belongs to.......................................**ERICACEAE**.
+
+> *Check leaf venation and for epipetalous stamens to confirm the
+> identification.*
+
+- If the flowers are zygomorphic, do they have a 'standard', a 'keel' and 2 'wings'? Is the fruit is a legume or pod developed from a superior ovary?
+
+     - If so, the specimen belongs in the ..................................**FABOIDEAE**.
+
+> *Compound leaves and stipules are common in this subfamily.*
 
 If none of these features apply, then go to the family key.
 
@@ -4471,7 +4436,7 @@ it is the female gametophyte and is haploid
 *Ephemeral:* short-lived; annual
 
 *Epicalyx:* extra bracts below the sepals of a flower, often forming an
-involucre or resembling a second calyx. (eg. Epacridaceae)
+involucre or resembling a second calyx. (eg. Ericaceae)
 
 *Epicarp:* the outermost layer of the pericarp; skin
 
@@ -5018,7 +4983,7 @@ taxon, and hence may have been inherited by members of related taxa. A
 common trait that is not unique to the taxon [cf. *synapomorph*]. Note
 that, since ‘ancestral’ and ‘derived’ are relative terms, the taxon must
 always be defined when this term is used. Eg. cuticle and lignin are
-symplesiomorphs in seed plants; double fertilisation in Epacridaceae.
+symplesiomorphs in seed plants; double fertilisation in Ericaceae.
 
 *Sympodial* : type of growth where the main axis actually consists of
 several successive side branches. Growth of the apical bud is repeatedly
