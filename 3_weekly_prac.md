@@ -1,3 +1,5 @@
+\widowpenalties 1 10000
+\raggedbottom
 \newpage
 
 # Prac 1: Vegetative Morphology & Intro to Keys
@@ -608,7 +610,7 @@ Why should plants have aerenchyma?
 The classic example of tissue that is both chlorenchyma and aerenchyma
 is the spongy mesophyll of many leaves.
 
-##**Sclerenchyma**
+## Sclerenchyma
 
 ### *Sclereids*
 
@@ -3027,6 +3029,101 @@ accepted.
 
 \newpage
 
+**Research in Botany project**
+
+*\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
+
+When not teaching courses, academics and research scientists spend a
+great deal of time writing grant applications to agencies that support
+scientific research (e.g. the Australian Research Council – the ARC).
+Preparing these applications typically involves synthesising some of the
+important literature in the field and proposing the next big important
+step. Any of you who continue with careers in the sciences (academic,
+government, or private sector) will spend a great deal of time writing
+grants similar to what you will do in this project. The format of your
+submission is extremely similar to the format of ARC grant applications
+– most of your lecturers will be writing very similar applications after
+the end of session.
+
+***Project goals*:**
+
+1)  ***To link some of the fundamental topics in botany you are
+    > currently examining in the lectures and practicals with current
+    > and cutting edge research in botany.***
+
+2)  ***To expose you to some of the requirements of being a research
+    > scientist.***
+
+3)  ***To build your skills in conducting research and communicating new
+    > ideas***
+
+***The project***
+
+You are all at the very early stages of what should be long careers in
+biological research. I do not expect that you will become experts in
+your field or even understand all of the literature you read. To help
+you with developing your projects, I have listed some potential research
+projects (on blackboard). Each of these projects links some of the
+fundamental information you have seen in the course with current
+research activity in botany. Most of these projects are also linked to
+issues of pressing global concern, such as climate change and food
+production. For each project, I give a short background, provide some
+key questions that can be the focus of new research, and some references
+to get you started. You are not limited to these projects, I will be
+happy to work with you to develop a project that interests you. It does
+have to focus, in some way, to research in botany.
+
+Most research projects are developed as a team of researchers. *I
+encourage you to work in a group* – I don’t have an upper limit to the
+number in each research team. In my experience, groups larger than 4
+people start to get unwieldy and ineffective, so try to keep your team
+to 4 or fewer students. You may also work on this project by yourself.
+
+The projects are not limited to a single group. Every group can pick the
+same project if they wish (so long as each group works independently).
+
+Everybody in your research team will receive the same mark.
+
+I will arrange to have group areas included on the flowering plants
+Moodle page.
+
+***Exploring Scientific Literature***
+
+As part of this project, you will spend some time reading published
+scientific literature. I know that would be asking too much for you to
+have an immediate grasp of articles in advanced scientific fields. Thus,
+for each project, I have selected a small number of articles that will
+introduce you to a topic with (hopefully) a minimum of jargon or
+statistics.
+
+You can find more/related literature from a database on our library
+resource page called web of science (to get to this resource, you can
+follow the ‘sirius’ link to log into your resources area on the library
+page. From there, you can search for ‘web of science’. Web of science
+will allow you to conduct general searches for scientific articles using
+search terms (just like google). Once you find an article of interest,
+you can link to all of the articles citing your article, and all the
+articles your article has cited. You can do a quick and comprehensive
+search for all the literature in a given topic using this tool! *Having
+problems using this database? I will help you.*
+
+You can also use web searches to explore a given topic. Try to stick to
+trusted areas on the web (e.g. government and university web pages) –
+there are a lot of crackpot ideas out there.
+
+***Marking the projects***
+
+Research in Botany is worth 15% of your final mark.
+
+1)  Short project summary (at the end of week 5) 3 %
+
+2)  Final project submission (at the end of week 11) 12 %
+
+I will be marking these projects based on the project goals listed
+above.
+
+***Potential projects will be posted on Moodle in week 1 or 2.***
+
 # PRACTICAL REQUIREMENTS
 
 Practical work is an important component of this course. Apart from
@@ -3418,4 +3515,1591 @@ decide what sections to cut, what stains to use and how to present the
 evidence. Drawings alone may be inadequate to record some observations;
 supplement by notes or tables when appropriate. It is not desirable to
 include too many notes in the labels.
+
+# Special Notes on Important Australian Families and Subfamilies
+
+**NB.** The key characters for recognising the family are underlined in
+these notes.
+
+##Family MYRTACEAE*** - The Eucalypt family.
+
+A family of about 120 genera and 3,200 species (ranks 11th amongst the
+Angiosperms in number of species). It is worldwide in distribution, but
+is particularly well represented in Australia and Central America.
+
+Habit: Woody plants, mostly trees and shrubs (no herbs).
+
+Leaves: *Simple, entire and exstipulate*; mostly opposite, but many
+Australian members have alternate leaves. The mesophyll usually contains
+*translucent oil-glands*, so that the leaves are mostly fragrant when
+crushed.
+
+Flowers: Actinomorphic with the sepals, petals and stamens arising from
+a receptacular cup that is fused to the sides of the ovary and mostly
+arises above it; hence the *ovary is half-inferior*. The perianth is
+4-5-merous, while the *stamens are numerous* and often indefinite in
+number, providing much of the floral display.
+
+Fruits: There are two basic kinds -
+
+1. *A fleshy berry or drupe* - ovary 2 or more locular. This type
+ characterises the sub-family Myrtoideae, which is widespread in the
+ tropics; their leaves are always opposite. This is considered the more
+ primitive (or less specialised) group in the family. In Australia its
+ members are restricted to the closed forests of moister regions of the
+ east and north.
+
+2. A dry and often woody dehiscent structure with 1 or more locules *(a
+ capsule*), or a dry unilocular indehiscent fruit (*an achene*). These
+ types occur in the sub-family Leptospermoideae, which is mainly
+ Australasian, and in which the leaves may be opposite or alternate. This
+  sub-family is considered a specialisation that developed in Australia
+ during the Tertiary in response to the increasing aridity of the
+ continent. Some genera have spread to neighbouring regions in relatively
+ recent time (eg., *Leptospermum* to New Zealand, *Melaleuca* to New
+ Guinea and Malaysia, *Eucalyptus* to Timor, New Guinea and The
+ Philippines).
+
+*Notes: An unusual feature of the family is that the stems and leaves
+have phloem on both sides of the xylem.*
+
+###Important genera in Australia:
+
+- *Syzygium* Gaertn. and *Acmena* DC, with fleshy fruits.
+
+- *Eucalyptus* L'Herit., *Corymbia* Hill & Johnson (previously included in *Eucalyptus*), *Angophora* Cav. (similar to eucalypts, but having sepals and petals in the flower, and always with opposite leaves)
+
+- *Leptospermum* Forst. f. (Tea Trees)
+
+- *Melaleuca* L. (Paperbarks - stamens fused into bundles in the flower) and 
+
+- *Callistemon* R. Br. (Bottlebrushes - stamens free), with woody capsules.
+
+### **ID Excercises**
+
+1. Examine the leaves from one of the specimens provided. Are they simple
+ or compound? Is the leaf margin toothed or entire? Take a leaf, hold
+ it up and look through the leaf against the light (window). Can you
+ see translucent dots or patches in the mesophyll? Look from both
+ surfaces. These are **multicellular oil glands**. Crush the leaf
+ thoroughly in a clean hand and sniff. Does it have a distinctive
+ smell? What does the smell remind you of? *Simple entire leaves*
+ containing such glands are characteristic of this family.
+
+2. Examine a flower. Note the **radial** symmetry. How many stamens are
+ present? Is the number constant from flower to flower, and does it
+ relate simply to the number of petals and sepals (eg., equal or double
+ the number)? Which parts provide the main ‘display’ of the flower:
+ petals, or stamens?
+
+3. Note the single undivided style in the centre. Is the ovary clearly
+ visible inside the floral cup. Cut a flower along a sagittal section
+ (vertically along an axis of symmetry), and examine the cut face with
+ your hand lens. Note the locules of the ovary embedded within the
+ receptacle either side of the base of the style. The ovary is termed
+ **half-inferior**. This condition occurs throughout the family.
+
+ 4. Examine the attachment of the petals and stamens to the receptacle
+ around the edge of the top of the ovary. Does each stamen and petal
+ attach separately to the side of the ovary, or is there a raised rim of
+ receptacle forming a cup above the ovary? This rim of receptacle is
+ often referred to as the “**hypanthium**”.
+
+5. Take another flower or a young developing fruit and cut transversely
+ through the ovary (below the perianth). Examine the cut face with a hand
+ lens. Note the radiating walls between the ovule containing chambers
+ (**locules**). The ovules are attached to the central **placenta**. You
+ may have to dig some out with a needle to show that they are attached.
+ What term describes this arrangement?
+
+6.  Examine the mature fruits (if available). Are they:
+
+7. dry and woody, or papery? Do they split open to release the seeds?
+ Such fruits are termed **capsules**. Most Australian members of the
+ family have this type of fruit. Each locule opens by a separate slit or
+ valve in the top of the fruit. The seeds are mostly very small and wind
+dispersed **or**  fleshy and coloured (eg., pink or white). Remove the flesh. Is there
+ a single central stony ‘kernel’, or are there several separate seeds?
+ These are indehiscent fruits, termed a ‘drupe’ (single kernel) or
+‘berry’ (several seeded). They are mostly animal dispersed, though
+ sometimes water-borne, and characterise most of the extra-Australian
+ members of the family (mostly in the tropics). Some Australian
+ rainforest species have this type of fruit. Opposite leaves are common
+ in these species, also.
+
+## Family RUTACEAE - The Citrus family.
+
+The family includes 150 genera and 1,600 species, of which 40 genera and
+335 species occur in Australia.
+
+Habit: *woody* trees and shrubs.
+
+Leaves: exstipulate, *often compound*, and contain *translucent oil
+glands* imparting an aroma when crushed.
+
+Flowers: usually actinomorphic, and either *pentamerous* or
+*tetramerous*, with a *superior ovary* and *stamens up to twice as
+numerous* as the other parts -
+
+\* Kn Cn A2n-n G*(n)* where n = 4 or 5
+
+There is a *nectariferous disc* surrounding the base of the ovary.
+
+Fruits: berries or capsules.
+
+Notes: similar to the Myrtaceae in having gland-dotted leaves, but can
+be distinguished by the superior ovary, and in many cases by the
+presence of compound leaves.
+
+Important genera in Australia:
+
+> *Boronia* Sm. (94 species - flowers tetramerous - many very
+> attractive; all NSW species are protected); *Eriostemon* Sm. (33
+> species - Wax Flowers - flowers pentamerous); *Zieria* Sm. (25
+> species - flowers tetramerous with only one whorl of stamens).
+>
+> **ID Exercises**
+>
+> Examine the leaves on the range of specimens provided. Do any have
+> compound leaves? Do they have serrate margins. Hold a leaf of each up
+> and look through it with a hand lens against the light (window). Are
+> translucent oil glands visible? Look from both surfaces. The family
+> may have simple or compound leaves (cf. Myrtaceae), and are
+> characterised by **oil glands** in the mesophyll (and flowers). Can
+> you detect a distinctive aroma from a crushed leaf? Recall the strong
+> smell of orange and lemon peel.
+
+a)  Examine a flower, and note the radial symmetry.
+
+b\) How many stamens are present? Check more than one flower. Is there a
+constant
+
+number or does it vary? Does the number relate simply to the number of
+petals? Is it equal to or twice the number of petals?
+
+c\) Is the ovary superior or inferior? Examine how the style attaches to
+the ovary. Does it
+
+arise out of the summit, or from a central depression, or from between
+lobes on the top of the ovary? The last two attachments are often
+referred to as ‘**gynobasic**’ (the style arising from the base of the
+ovary).
+
+d\) Look for a swollen ring of glandular tissue between the stamens and
+the base of the
+
+ovary, or lobes of such tissue. This is the **nectary**, which serves to
+attract the pollinating animals. A ‘**nectariferous disc**’ is a feature
+of most members of the family.
+
+e\) Cut a TS of the ovary, or preferably a young fruit. Note the number
+of locules and
+
+the axile placentation. The fruits may be capsules (dry fruits that
+split to release the seeds), or fleshy berries (small oranges?). To
+which part of the fruit does the fleshy segment of an orange correspond?
+
+f\) Check the distinguishing features of the family illustrated above
+with the notes on
+
+the Rutaceae under Family Descriptions. The key characters for
+identifying the family are underlined. Which features distinguish the
+Rutaceae from the Myrtaceae?
+
+## Faboideae: a subfamily of Fabaceae, the pea family
+
+### (alternate name Papilionoideae) 
+
+500 genera, 12,000 species, worldwide in distribution.  59 m.y.o. (Lavin et al. 2005)
+
+Habit: very variable, from trees to herbs and climbers.
+
+Leaves: usually alternate, *often stipulate and/or compound*.
+
+Flowers: *highly zygomorphic and pea-like*, though sometimes showing
+reduction in the size or number of the parts; sepals 5, connate at the
+base; petals 5, the adaxial one much enlarged and prominent (the
+"standard"), the two abaxial ones connate to form a "keel" enclosing the
+stamens and style and itself enclosed by the two lateral petals (the
+"wings"); stamens 10 or sometimes 9, often connate; carpel 1; ovary
+superior with marginal placentation.
+
+Fruit: a *legume or pod splitting down both sides*; seeds
+non-endospermic, often large; embryo bilaterally symmetrical.
+
+Notes: Many of the species are of economic importance as food or crop
+plants (*Vicia faba* L., Broad Bean; *Pisum sativum* L. Green Pea;
+*Medicago* L. spp., Clovers and Lucerne), timber (*Castanospermum
+australe* A. Cunn., Black Bean), and as a source of dyes (*Indigofera
+anil* L. and *I. tinctoria* L., Indigo) , medicines and oils. Most
+species have the capacity to form symbiotic relationships with
+nitrogen-fixing bacteria (root nodules).
+
+Their seed protein contains the amino acid lysine, essential for human
+nutrition but absent from all other plant proteins; they are therefore
+important components of vegetarian diets.
+
+### **ID Excercises**
+
+Examine the floral morphology of the specimen(s) provided.
+
+a\) Note that the flower is strongly zygomorphic (bilaterally
+symmetrical).
+
+b\) Is there a distinct calyx and corolla?
+
+> How many parts are in each of these whorls? Are any or all the parts
+> in either whorl fused (connate)? When parts are connate, look for the
+> mid-veins as a clue to how many parts are present. Note that the
+> members of one whorl may be very different from each other.
+
+c\) Are the stamens free (separate from each other) or connate or a
+combination of the two?
+
+> d\) Note the single long curved style. Look for developing fruits in
+> which to work out the structure of the ovary, since the unfertilised
+> ovary is too small.
+>
+> Is the ovary superior or inferior (look for position of sepal remains
+> on the fruit)? How are the ovules arranged within the locule?
+>
+> Does the mature fruit split along one seam only so that the ovary
+> opens like a book, or along two seams so that the ovary separates into
+> halves? This type of fruit is a pod or *legume*.
+>
+> e\) Construct a floral formula for the specimen, and then draw a floral
+> diagram.
+>
+> f\) Is the inflorescence anthotelic or blastotelic?
+>
+> Which subtype in Fig 2.9, Lab 2 best fits the branching pattern?
+
+## Mimosoideae, subfamily of Fabaceae, the pea family
+
+### The wattle subfamily
+
+82 genera, 3335 species.
+
+Habit: woody shrubs or trees.
+
+Leaves: alternate, *bipinnate*, but often reduced to a *simple phyllode*
+in the adult, and often bearing *one or more nectaries on the petiole
+and rachis* (midrib of a compound leaf).
+
+Inflorescence:
+
+crowded spikes or heads, often arranged in compound inflorescences.
+
+Flowers: small, actinomorphic; calyx and corolla 4 or 5, inconspicuous;
+stamens long, numerous and showy; carpel 1; ovary superior with marginal
+placentation.
+
+Fruit: a *legume splitting down both sides*; seeds non-endospermic,
+often bearing a brightly coloured aril (fleshy collar); embryo with 2
+planes of symmetry.
+
+Important genus:
+
+- *Acacia* Willd., about 800 species endemic to Australia, also well
+represented in Africa, some in America.  Contraversial genus.  
+
+### ID Excercises
+
+Examine the phyllodinous wattle. The phyllodes are attached in the plane
+of the stem rather than transversely, so they do not have an adaxial
+(upper) surface, but an adaxial edge. Look for the gland on the upper
+edge that is a characteristic feature of *Acacia* petioles. This genus
+belongs to the family **Mimosaceae** (see note (e) below).
+
+Examine the flowers.
+
+a\) Can you distinguish a calyx and corolla?
+
+b\) Is the flower zygomorphic or actinomorphic?
+
+> c\) Note the large and indeterminate number of stamens, and look for the
+> single style. The fruit is a legume or pod, as in the Fabaceae.
+
+d\) What terms would you use to describe the inflorescence ?
+
+e.  Some botanists prefer to combine the Fabaceae and the Mimosaceae in
+    a single family. How would you determine which of the available
+    names to apply to the combined family? The alternative name
+    Leguminosae is sometimes also applied to it. What is unusual about
+    this name?
+
+## Family Asteraceae, the Daisy family
+### (Alternative name Compositae)
+
+1535 genera, 23,000 species; the largest family of dicotyledons; the
+family and many of the genera and even some species distributed
+worldwide, mainly in open communities.
+
+Habit: mostly herbs, often annuals (many desert ephemerals), a few
+shrubs and trees.
+
+Inflorescence:
+
+a *capitulum* - a cluster of small sessile flowers seated on an expanded
+convex stem apex and surrounded by bracts (the *involucre*).
+
+Flowers: calyx either reduced to a ring of scales or hairs, or absent;
+corolla connate, 5 (sometimes 4); stamens epipetalous, 5 (4), anthers
+connate in a tube surrounding the style; style splitting into 2
+stigmatic lobes after emerging from the flower; the *ovary inferior,
+unilocular with a single ovule* attached basally.
+
+Within the capitulum the flowers (florets) are often differentiated in
+the following ways:
+
+- corolla asymmetrical, giving strap-shaped ray (or ligulate) florets;
+
+- suppression of either or both sexes, giving separate male, female or
+sterile florets;
+
+- reduction or differentiation of the pappus (calyx).
+
+The most common condition is a ring of female or sterile *ray florets*
+(with a strap-shaped corolla) radiating outwards from the edge of the
+capitulum, and a central mass of bisexual tubular *disc florets*.
+However, the capitula of some species consist entirely of disc florets,
+while others are composed entirely of ray florets.
+
+Fruit: a one-seeded, indehiscent achene (technically termed a
+*cypsela*), though rarely a drupe developing a fleshy outer layer as in
+*Chrysanthemoides* (Boneseed or Bitou Bush) a weed of coastal dunes. The
+ovary wall (pericarp) and seed coat (testa) fuse into a single layer
+during maturation of the fruit, and the pappus often develops into an
+aid to dispersal.
+
+Notes: The family furnishes a few food plants (*Helianthus annuus* L.,
+Sunflower; *H. tuberosus* L., Jerusalem artichoke; *Cynara scolymus* L.,
+Globe artichoke; *Lactuca sativa* L., Lettuce; *Cichorium intybus* L.,
+Chicory), many horticultural plants (*Chrysanthemum* L., *Dahlia* Cav.,
+*Gerbera* Boehm., *Aster* L.) and weeds (*Soliva anthemoides* (Juss.)
+R.Br., Bindii; *Taraxacum officinale* Weber ex Wiggers, Dandelion;
+*Sonchus* L., Thistles).
+
+### ID Excercises
+
+Examine the specimen(s) provided. There are clusters of tiny flowers
+(florets) surrounded by a series of bracts; which may be mistaken for a
+single flower. Such a cluster is called a *capitulum* .
+
+> a\) Dissect apart some flowers from the centre of a capitulum. Is each
+> flower subtended by a membranous scale or leaf, or does it arise on the
+> receptacle without an associated leaf?
+
+b\) Look for the calyx and corolla; the former may be present as branched
+or unbranched hairs, or may be totally absent.
+
+The petals are fused to form a tube.
+
+How many lobes are there around the mouth of the tube? This indicates
+the number of petals in the flower.
+
+c\) The stamens are borne on the inside of the corolla tube
+(*epipetalous)*, and the anthers are themselves fused into a tube around
+the style.
+
+How many stamens are there?
+
+Does this equal the number of petals?
+
+d\) Look for a flower in which the stigma is projecting, and note how
+many stigmatic branches there are - this may not reflect the number of
+locules present in the ovary, of course.
+
+e\) Is the ovary inferior or superior?
+
+f\) The fruits are small and indehiscent, and mostly dispersed by wind or
+animal vectors.
+
+Examine the fruits, noting any mechanism or structure that might aid
+dispersal.
+
+g\) Construct a floral diagram and a floral formula for the flower.
+
+h\) Now examine the flowers (florets) at the outer edge of the capitulum.
+
+What (if any) differences exist between the central and marginal
+flowers? Construct a floral formula for the marginal floret.
+
+## Family Proteaceae, the Waratah family
+
+1600 species in 80 genera; mostly, but not entirely, a southern hemisphere family with
+greatest diversity in the Cape Province of South Africa, south-western
+Australia and eastern Australia.
+
+![Range map for Proteaceae from http://www.mobot.org/MOBOT/research/APweb/](proteaceaemap.gif)
+
+Habit: *Woody plants*, from great trees to dwarf prostrate undershrubs
+and trailing undershrubs.
+
+Leaves: usually *hard or leathery with much sclerenchyma*, exstipulate,
+opposite or alternate, ranging from entire isobilateral leaves with
+sub-longitudinal venation to highly divided or strongly dorsiventral.
+
+Flowers: *perianth monocyclic and tetramerous*, actinomorphic or
+zygomorphic, the segments showing varying degrees of fusion; *ovary
+monocarpellary with marginal placentation*; ovules numerous to 2; around
+the base of the ovary there may be up to 4 nectiferous glands, single or
+variously fused, alternating with the tepals.
+
+[P(4) A4 ] G*1*
+
+Fruit: a drupe, nut, achene or follicle.
+
+Notes: Some of the large rain forest species are economically important
+in the timber industry; the wood has wide and deep rays and therefore
+yields "oak" figures on cutting - the silky oaks of commerce are
+*Cardwellia sublimis* F. Muell. and *Grevillea robusta* Cunn. Many
+species have massed flowers in showy inflorescences: e.g., the South
+African *Protea* and the Australian *Banksia*, *Telopea* and
+*Grevillea*.
+
+The important genera around Sydney are:
+
+- *Banksia* L.f., ca 50 species in Australia. Flowers compacted around
+ the thick rachis of a spike, the inflorescence superficially
+resembling Bottlebrushes and Paperbarks (Myrtaceae). Perianth tube
+very narrow with slender stiff segments that have expanded concave
+tips containing the almost sessile anthers.
+
+- *Grevillea* R.Br., ca 200 species throughout Malaysia, New Hebrides, New Caledonia and Australia.
+
+- *Hakea* Schrad., ca 100 species in Australia. The fruits are woody follicles. Leaves isobilateral with sub-longitudinal venation, or terete, pungent-pointed needles.
+
+- *Isopogon* R.Br. ex Knight (ca 35 species) and *Petrophila* R.Br. ex Knight (ca 40 species) are two closely related genera in which the flowers are in contracted cone-like spikes or heads. Drum sticks.
+
+- *Persoonia* Sm., ca 70 species endemic to Australia; many species have isobilateral leaves with sub-longitudinal venation. The flower is actinomorphic and is borne singly in the axils of leaves or bracts. The fruit is a drupe. Geebungs.
+
+Othere interesting species are:
+
+- *Lambertia formosa* Sm., the Honey Flower or Mountain Devil.
+
+- *Macadamia ternifolia* F. Muell., the Queensland Nut or Macadamia nut, is probably the only Australian plant species that has been taken into crop production.
+
+- *Stenocarpus sinuatus* Endl., the Fire-Wheel Tree from northern N.S.W., is commonly planted around Sydney. A drawing of this species is on the cover of this manual.
+
+- *Telopea speciosissima* R.Br., the Waratah, the state emblem of N.S.W.
+
+- *Xylomelum pyriforme* Sm., the Woody Pear.
+
+### ID Excercises
+
+Examine the specimen(s) provided. Note the hard texture of the leaves.
+Are they simple or compound, lobed or entire?
+
+a\) Is the flower radially symmetrical or zygomorphic?
+
+b\) Are petals and sepals both present? How many parts are present in
+each whorl?
+
+> c\) How are the stamens positioned in relation to the perianth?
+>
+> Is there anything unexpected about this position?
+>
+> Does this explain how the flower has evolved from the more general
+> condition in angiosperms (two whorls of perianth and the stamens
+> alternating with the petals)?
+>
+> d\) There is only one carpel in each flower. Examine developing fruits
+> and determine whether the ovary is inferior or superior?
+
+## Ericaceae, the heath family
+
+### Formerly the southern hemisphere heaths were in family "EPACRIDACEAE"
+
+A small family of only about 30 genera and 400 species, chiefly found in
+Australia and New Zealand, with some in Indo-Malaya, Hawaii and South
+America. The species are mainly in wet and dry heathlands and are common
+on the sandstone around Sydney and in the Blue Mountains. They are known
+as Native Heaths.
+
+Habit: *Woody* small under-shrubs or small trees.
+
+Leaves: *usually small and crowded*, alternate, simple, entire,
+exstipulate with *palmate or longitudinal venation*.
+
+Flowers: *radially symmetrical and pentamerous*, with few to many
+*imbricate bracts below the flower and often grading into the sepals*;
+*petals fused into a tube*; *stamens epipetalous*; ovary superior with
+1-10 locules.
+
+\* K5 {C(5) A5} G*(1-10)*
+
+Fruit: a capsule or drupe.
+
+The family is divided as follows:
+
+> Tribe Epacrideae: ovary summit indented to form a pit around the base
+> of the style; *fruit a capsule* with numerous small seeds.
+>
+> Tribe Styphelieae: ovary summit tapering into the style; *fruit a
+> drupe* with 1 to few seeds.
+
+Recent research in molecular systematics has shown that this family is,
+in fact, part of a larger family, the Ericaceae, which includes the
+northern hemisphere heathers.
+
+### ID Excercises
+
+Examine the specimen(s) provided.
+
+> a\) Examine the small leaves and note the venation pattern.
+>
+> Is there a midrib present?
+>
+> How does the leaf attach to the stem?
+>
+> Are these typical dicotyledonous leaves?
+>
+> b\) Examine the base of the flower and determine how many sepals are
+> present.
+>
+> Is there anything unusual about the calyx?
+>
+> c\) Note the tubular corolla. How many lobes are present?
+>
+> d\) The stamens are borne on filaments that arise from the inside of the
+> corolla tube. If you pull the petals off, the stamens come away with
+> them. Such stamens are said to be *epipetalous*.
+>
+> e\) Is the ovary superior or inferior?
+>
+> Examine a fruit and determine how many locules are present.
+>
+> f\) Construct a floral formula.
+
+## Identifying unknowns
+
+The following summarises the way you should proceed to identify any
+unknown specimen. First (using the first key couplet on page 97)
+determine if the plant is a monocotyledon or a dicotyledon. If the
+specimen is a monocotyledon, have a closer look – if it has
+modified/reduced flowers and/or spikelets, go to the key on page 109 to
+determine if it belongs to **CYPERACEAE** or not. If the specimen has
+well developed flowers, turn to page 106 and use the key for
+monocotyledons to determine in which family the specimen belongs.
+
+If the specimen is a dicotyledon, first check whether it belongs to one
+of the major families you should recognise. Only if it does not belong
+to one of these families should you use the key to families. Otherwise,
+go direct to the key to genera in the family you have recognised.
+
+i.  Hold a leaf up to the light and examine with a X10 lens for the
+    presence of translucent oil glands.
+
+> If oil glands are present the specimen belongs to
+> ............**MYRTACEAE** or **RUTACEAE**.
+>
+> If the ovary is superior, it belongs to
+> ............................................**RUTACEAE.**
+>
+> If the ovary is inferior, it belongs to
+> ...........................................**MYRTACEAE**.
+>
+> If the leaves are compound, it must be a member of Rutaceae. Simple
+> leaves occur in both families.
+
+If there are no oil glands in the leaves, then -
+
+> ii\. Examine the inflorescence. Is it a capitulum? That is, does it
+> consist of many small tubular flowers without sepals, but the whole
+> cluster surrounded by numerous bracts resembling sepals.
+>
+> If so, it belongs to
+> ...............................................................**ASTERACEAE**.
+>
+> Check that the ovary is inferior, the corolla is tubular, and the
+> anthers are connate and epipetalous to confirm the identification.
+
+If the inflorescence is not a capitulum, then -
+
+> iii\. Are the flowers in dense heads without an involucre of surrounding
+> bracts?
+>
+> Are the stamens the main display of the flowers? Does the plant have
+> bipinnate leaves or phyllodes? Look for the marginal gland. Is the
+> fruit a legume or pod?
+>
+> If so, the specimen belongs in
+> ................................................**MIMOSACEAE.**
+
+If these features are not present, then -
+
+> iv\. Examine a flower externally. Are both sepals and petals present or
+> is there only one perianth whorl?
+>
+> If there is a single perianth whorl of 4 parts, it is a member of
+> .............**PROTEACEAE**.
+>
+> Check that there are 4 stamens opposite the perianth parts to confirm
+> the identification.
+
+If this does not apply, then -
+
+> v\. Is the flower radially symmetric and does it have a tubular corolla?
+>
+> If so, are there small bracts resembling sepals below the calyx?
+>
+> If so, it belongs to
+> ...........................................................**EPACRIDACEAE**.
+>
+> Check leaf venation and for epipetalous stamens to confirm the
+> identification.
+>
+> vi\. If the flowers are zygomorphic, do they have a 'standard', a 'keel'
+> and 2 'wings'?
+>
+> Is the fruit is a legume or pod developed from a superior ovary?
+>
+> If so, the specimen belongs
+> to....................................................**FABACEAE**.
+
+ Compound leaves and stipules are common in this family.
+
+If none of these features apply, then go to the family key.
+
+Get used to using these key characters to recognise the large Australian
+dicotyledon families. This skill will be tested in the practical exam. It will frequently enable you to
+avoid having to wade through the family key because you can go directly to the generic key in that
+family.
+
+
+
+# GLOSSARY
+
+*Abaxial:* the side or face of a lateral organ (leaf or bract) turned
+away from the axis; the lower surface of a leaf
+
+*Achene:* a dry, indehiscent fruit, formed from a superior ovary
+consisting of one carpel and containing one seed which is free from the
+pericarp
+
+*Actinomorphic*: a radially symmetric flower
+
+*Acuminate:* tapering to a point.
+
+*Acute:* pointed; sharp
+
+*Adaxial:* the side or face of a leaf or bract facing the axis on which
+it is borne; the upper surface of the leaf
+
+*Adnate:* (1) organically fused to another but different kind of part,
+eg. stamens to petals; (2) anthers fused to the filament by their whole
+length
+
+*Adventitious:* arising in irregular positions, as in roots arising on a
+stem. (cf. axillary - in defined positions)
+
+*Aestivation:* the arrangement of petals and sepals in the unexpanded
+bud
+
+*Aggregate fruit:* a fruit derived from many free carpels of a single
+flower (e.g. Blackberry). See multiple fruit
+
+*Alternate:* arranged singly at different heights on the axis and in 2
+rows longitudinally. Commonly also used to describe a spiral arrangement
+
+*Analogous:* of structures showing an analogy
+
+*Analogy:* structures showing a similarity that results from their
+adaptation to the same function or environment [cf. *homology*]; hence,
+similarity not resulting from inheritance from a common ancestor
+
+*Androecium:* the stamens
+
+*Anthotelic*: an inflorescence ending in a flower
+
+*Apocarpous:* applied to a gynoecium which consists of several to many
+free or slightly coherent or basally connate carpels
+
+*Apomorphy*: a derived state of a character. See *synapomorphy,
+pleisomorphy, autapomorphy.*
+
+*Appressed:* pressed up against but not fused
+
+*Arborescent:* growing to the size of a tree; resembling a tree in habit
+growth
+
+*Aromatic:* possessing a strong smell, often spicy; eg. leaves when
+crushed
+
+*Autapomorph:* a unique derived trait; a character that arose in the
+common ancestor of a taxon (species, genus etc.) and that is unique to
+the taxon; a unique *synapomorph* [*cf. synapomorph, symplesiomorph*].
+Note that, since ancestral and derived are relative terms, the taxon
+must always be defined when this term is used; eg. companion cells in
+the phloem of angiosperms; calyptra formed by fusion of perianth whorls
+in the flowers of *Eucalyptus*.
+
+*Authority:* name(s) cited after a binomial indicating the author(s) who
+first described and named it; usually only included at the first mention
+of the binomial in any article, or to distinguish between *homonyms*
+
+*Awn:* bristle-like appendage, eg. one the end of a bract or fruit.
+
+*Axil (*hence *axillary):* the upper angle between the axis and any
+organ which arises from it, especially a leaf or bract or bud (and the
+branch arising from it)
+
+*Axile:* on the axis, .g. in axile placentation where the placentas and
+ovules are on the central axis of the ovary
+
+*Barbellate:* bearing short stiff hairs, sometimes hooked, eg. on small
+dry fruits of Asteraceae
+
+*Basal: (1) (Radical)* attached or grouped at the base, e.g. of leaves
+in a rosette; (2) of placentation, with the placenta at the base of the
+ovary
+
+*Berry:* an indehiscent, succulent fruit having the pericarp
+differentiated into epicarp (skin) and pulp usually containing many
+(sometimes one) seeds
+
+*Bi*: prefix signifying two or twice
+
+*Bilateral*: having two sides
+
+*Bilateral symmetry*: having 2 sides symmetrical about only one median
+diameter or axis
+
+*Bipinnate:* twice pinnately divided
+
+*Bisexual:* having both fertile male and female organs in the same
+flower; hermaphrodite
+
+*Blastotelic*: an inflorescence ending in a branch or vegetative bud
+
+*Blade (Lamina):* an expanded portion of a leaf
+
+*Bract:* leaf-like structure, reduced leaf or scale which subtends an
+inflorescence or flower
+
+*Bracteate:* having bracts
+
+*Bracteole:* a small bract situated on the stalk or pedicel below a
+flower but not subtending it; usually paired in dicotyledons, one in
+monocotyledons
+
+*Bulb:* a storage organ consisting of a short, usually underground stem
+surrounded by swollen fleshy leaf-bases and outer, dry protective
+leaf-bases. (eg. onion)
+
+*Bud:* the structure from which shoot, leaf or flower develops; a
+meristem surrounded and protected by developing leaves and/or protective
+bud scales
+
+*Burr:* a rough or prickly compound structure developed from a seed or
+fruit and associated appendages (bracts, perianth etc.)
+
+*Caducous:* falling off early
+
+*Calyptra:* the cap-like covering surmounting some flowers and
+consisting of connate perianth-segments
+
+*Calyx:* the sepals of one flower, collectively
+
+*Campanulate:* bell-shaped
+
+*Capitate:* enlarged and globose at the tip; formed like a head
+
+*Capitulum:* a head of sessile florets crowded together on a receptacle
+and often surrounded by an involucre
+
+*Capsule:* a dry dehiscent fruit of two or more fused carpels which
+opens by splitting apart or by special valves as in *Eucalyptus*
+
+*Carpel:* a unit of the gynoecium in which one or more ovules are
+enclosed. It is usually divisible into stigma, style and ovary
+
+*Cauline*: borne on the more or less elongated portion of a stem, e.g.
+describing leaves (compare with *Basal*)
+
+*Ciliate:* fringed with hairs
+
+*Circinnate:* coiled from apex downward, as in developing fern fronds
+
+*Cladode:* a stem which is specialised to carry out photosynthesis and
+on which the leaves are reduced to scales or absent (eg. *Casuarina)*
+[cf. *phyllode*]
+
+*Clathrate:* resembling lattice-work; having raised and thickened
+lateral cell walls
+
+*Clavate:* club-shaped
+
+*Cochlear:* a type of perianth arrangement in which one petal is
+entirely outside and another is entirely inside the others
+
+*Coherent*: attached to, but not fused with, another floral part of the
+same kind, easily separable; eg. coherent styles
+
+*Complementary tissue/cells*: the loose packed tissue of a lenticel
+arising from the phellogen in woody plants
+
+*Compound leaf:* a leaf divided to the base or mid-vein into leaflets
+
+*Compound head:* an inflorescence made up of a number of heads arranged
+in a larger head
+
+*Compound umbel:* an inflorescence in which several umbels are borne on
+stalks or peduncles radiating from the top of a stem
+
+*Compressed:* flattened laterally
+
+*Cone:* (1) a compact group of sporophylls (male or female) borne on a
+central axis. (2) the woody multiple fruit of *Casuarina*, made up of
+true fruits surrounded by woody bracts
+
+*Connate:* organically fused to one or more members of the same whorl,
+as in fusion of petals to each other [cf. *adnate*]
+
+*Connivent:* lying or standing side by side, but not touching or fused
+
+*Contorted:* perianth parts twisted about each other and with
+overlapping edges in the bud
+
+*Contracted:* narrowed or shortened
+
+*Convolute*: rolled so that the margins overlap
+
+*Cordate:* heart-shaped (often applied to bases only)
+
+*Corm:* a short, swollen, upright, underground stem formed annually in
+the stem-base and in which food reserves are stored. It is surrounded by
+dry, protective leaf-bases
+
+*Corolla:* the petals collectively
+
+*Corymb* (hence *corymbose*): an inflorescence of stalked flowers in
+which all the flowers, although they originate at different levels on
+the stem, are ultimately borne at about the same level
+
+*Cotyledon:* a seed-leaf of the embryo of a seed plant
+
+*Crenate:* having the margin cut regularly into rounded teeth or lobes
+
+*Crisped:* curled, very wavy or crumpled
+
+*Cyme* (hence *cymose*): an inflorescence in which a flower terminates
+growth of the main axis, which is replaced by one or two axillary buds
+that later form flowers, the process being repeated throughout the
+inflorescence
+
+*Cypsella:* characteristic fruit of the Asteraceae; like an achene but
+formed from an inferior ovary and therefore covered with other floral
+tissues outside the ovary wall
+
+*Deciduous:* 1) of perianth parts - falling at maturity; 2) of trees -
+those trees with leaves which all fall at a certain season.
+
+*Decumbent:* reclining growth from apex but with the summit ascending
+(applied to branches whose lower portions lie on or near the ground
+while the tips grow upwards)
+
+*Decurrent:* extending downward beyond the point of insertion (applied
+to pinnae, leaves or petioles when they extend beyond their insertion
+point and run down the stem)
+
+*Decussate:* in pairs, alternately, at right angles
+
+*Definite:* (1) of a precise and constant number such as stamens in a
+flower. (2) inflorescences that terminate in a flower, growth being
+resumed by lateral buds, eg. cymes
+
+*Dehiscence:* the manner in which the wall of a mature organ ruptures to
+allow the contents to escape
+
+*Dehiscent:* opening or bursting at maturity
+
+*Dentate:* toothed
+
+*Determinate growth*: growth that ceases when an organ has reached a
+certain size and shape; eg. of a leaf.
+
+*Dichotomous:* divided into two approximately equal branches; a form of
+branching common in algae and primitive land plants where there is no
+main axis.
+
+*Diffuse:* spreading and much branched form of growth
+
+*Dioecism (*hence *dioecious):* a species having unisexual flowers where
+the male and female flowers are borne on different plants
+
+*Disc:* glandular tissue found in some flowers between the ovary and
+stamens or immediately outside stamens (.g. Rutaceae)
+
+*Disc floret* or *flower:* small flower (usually with tubular corolla)
+borne on the central portion of the heads of some Asteraceae
+
+*Dissected:* divided into segments
+
+*Distal:* remote from; at the end
+
+*Distichous:* leaves or bracts arranged in two vertical ranks: eg.
+leaves in Irises and Travellers' Palms; the florets in many grasses
+
+*Divaricate:* a growth form with extremely divergent branching;
+straggling
+
+*Domatia:* small glandular pits or swellings, often bearing a patch of
+hairs, found in some species on the abaxial leaf surface in the angles
+between the major lateral veins and the midrib.
+
+*Dorsiventral:* having structurally different upper and lower surfaces
+
+*Drupaceous:* applied to fruit with a structure of a drupe
+
+*Drupe:* a succulent, indehiscent fruit having the pericarp
+differentiated into 3 distinct layers: outer epicarp (skin), soft
+mesocarp (pulp) and inner stony endocarp
+
+*Endarch:* describes vascular bundles in a stem or root where primary
+xylem develops from the centre outwards: ie. protoxylem inside metaxylem
+
+*Endocarp:* the hard stony innermost layer of a pericarp
+
+*Endosperm:* nutritive tissue developed in seeds; in Angiosperms it
+develops from the triple fusion nucleus and is triploid, in gymnosperms
+it is the female gametophyte and is haploid
+
+*Entire:* without division, incision, or separation
+
+*Ephemeral:* short-lived; annual
+
+*Epicalyx:* extra bracts below the sepals of a flower, often forming an
+involucre or resembling a second calyx. (eg. Epacridaceae)
+
+*Epicarp:* the outermost layer of the pericarp; skin
+
+*Epigynous:* referring to perianth parts (petals and sepals) that are
+attached to the floral receptacle (stem tissue) above the level of the
+ovary, sometimes borne on an extended receptacular cup that is free from
+the ovary (see fig. 2.5 right).
+
+*Epipetalous:* stamens borne on the petals
+
+*Epiphyte:* a plant perched, but not parasitic on, another plant or
+other object. (eg. ferns, orchids)
+
+*Exarch:* describes vascular bundles in a stem or root where primary
+xylem develops from the outside towards the centre ie. protoxylem
+outside metaxylem
+
+*Exstipulate:* without stipules.
+
+*Extrorse:* stamens opening towards the circumference of the flower
+
+*Falcate:* sickle-shaped
+
+*Fimbriate:* fringed with fine hairs
+
+*Flaccid:* limp, flabby
+
+*Floral tube*: a tubular structure present in some flowers and
+interpreted either as the fused basal portions of the androecium and
+perianth, or as an up-growth of the receptacle. It may be free or fused
+to the ovary
+
+*Floret*: the greatly reduced flower in a compound inflorescence; eg.
+grasses or Asteraceae
+
+*Follicle*: a dry dehiscent fruit formed from one carpel and having one
+longitudinal line of dehiscence e.g. Proteaceae (cf. *Legume*)
+
+*Free:* not united with any other part; of petals, stamens, etc.
+
+*Glabrous:* without hairs
+
+*Glaucous:* dull green with a whitish-blue lustre
+
+*Glumaceous:* small boat-shaped bract found in the inflorescences of
+some monocots; may enclose a flower or flower cluster.
+
+*Gynandrous:* stamens adnate to the pistil (ovary and/or style)
+
+*Gynobasic*: applied to a style which arises from the base rather than
+the apex of the ovary; either arising in a central pit or from the side
+of the ovary
+
+*Gynoecium:* the carpels (female parts - stigma, style and ovary) of one
+flower
+
+*Gynophore:* a stalk on which a superior ovary is sometimes borne above
+the floral receptacle
+
+*Hair*: an unflattened (radially symmetrical) epidermal appendage
+consisting of one or several cells
+
+*Halophyte:* a plant which grows in and tolerates salty places
+
+*Hastate:* shaped like a spear-head
+
+*Head:* an inflorescence of sessile flowers crowded together on a
+receptacle and usually surrounded by an involucre
+
+*Heath*: a plant community dominated by small shrubs (usually less than
+2 metres high) which usually have small hard leaves
+
+*Herb:* a plant which does not produce a woody stem
+
+*Herbaceous:* referring to non-woody plants or herbs. When applied to
+the texture of a leaf or frond, green and soft, midway between
+membranous and leathery (not succulent)
+
+*Hermaphrodite:* bearing both male and female sex organs in the same
+flower; bisexual.
+
+*Heterophylly:* species having two different forms of leaves.
+
+*Heterophyllous:* having leaves of different forms eg. distinctive
+juvenile and adult leaves of many eucalypts; submerged and aerial leaves
+of some water plants.
+
+*Hilum:* a scar left on the seed coat at the spot where it was attached
+to the placenta
+
+*Hirsute:* covered with long spreading hairs
+
+*Hispid:* densely covered with short stiff hairs or bristles
+
+*Homologous:* Of structures showing homology; *v.i.*
+
+*Homology:* A similarity in plan and detailed structure of organs in
+different species resulting from their descent from a common ancestor;
+often a similarity despite different functions [cf. *analogy*]
+
+*Homonyms:* the same name (binomial) applied to two different taxa
+(species) by different authors; that which was first validly published
+is accepted, the later one being rejected as invalid. Homonyms can only
+be distinguished by their different *authorities*
+
+*Homoplasy*: similar features in different species having independent
+evolutionary origins, similarity not resulting from common ancestry
+
+*Hyaline:* translucent and usually colourless
+
+*Hypogynous:* referring to perianth parts (petals and sepals) that are
+attached to the receptacle (floral axis or stem) below the level of the
+gynoecium of a flower; ie. with a superior ovary (see fig. 2.5)
+
+*Imbricate:* with the edges overlapping
+
+*Imparipinnate:* a pinnate leaf with a terminal leaflet
+
+*Incurved*: bending or curved inwards or upwards
+
+*Indefinite:* (1) floral parts too many to be counted easily (2)
+inflorescences capable of constant extension via apical growth of the
+main axis.
+
+*Indehiscent:* not opening at maturity
+
+*Indeterminate growth*: growth from an axis bearing an apical meristem
+which forms an unrestricted number of lateral organs
+
+*Indumentum:* a general term for the hairy covering of plants
+
+*Induplicate:* of perianth segments arranged with the edges bent inward
+and the external face of these edges touching without twisting
+
+*Indusium:* (1) any covering of a sorus whether a modified organ or
+merely the incurved margin of the pinna; (2) a cup or ring of hairs
+below the stigma forming a pollen collecting structure (e.g.,
+Goodeniaceae)
+
+*Inferior ovary*: one which lies below the point of attachment of the
+calyx; ovary submerged within the floral receptacle
+
+*Inflexed:* bent inwards; incurved
+
+*Inflorescence:* a group or cluster of flowers
+
+*Interjugary glands:* additional glands occurring along the leaf-rachis
+between the insertions of successive pairs of pinna. Occurs below the
+single and often slightly larger gland which is found at or just below
+the insertions of these pinnae. (eg. *Acacia*)
+
+*Internode:* the portion of the stem between two successive nodes or
+leaf attachments
+
+*Interpetiolar:* stipules positioned between the petioles of opposite
+leaves
+
+*Involucre:* a whorl or several whorls of bracts surrounding an
+inflorescence (e.g. Asteraceae)
+
+*Involucral bracts*: bracts around the base of the capitulum, often
+resembling sepals or petals
+
+*Involute:* rolled inwards or upwards
+
+*Irregular flower:* a flower which has one or more of its segments
+dissimilar in shape from the others of the whorl; not radially
+symmetrical (eg. Fabaceae)
+
+*Isobilateral:* having the same structure on both sides; a leaf having
+identical surfaces
+
+*Isomerous:* a flower having segments of successive whorls equal in
+number (i.e. sepals, petals, stamens, etc.)
+
+*Keel* (hence *keeled*): (1) a ridge like the keel of a boat; (2) the
+two anterior petals of the corolla joined (eg Papilionaceae)
+
+*Lamina:* the expanded portion of a leaf or fern frond; leaf-blade
+
+*Lanceolate:* narrow and tapering at each end and about 4 times as long
+as broad
+
+*Lateral:* fixed on or near the sides of an organ; arising from a
+leaf-axil
+
+*Latex*: thick milky or clear juice found in some plants ( eg. rubber
+tree, lettuce )
+
+*Lax:* loose, not compact
+
+*Leaflet:* a separate portion of a compound leaf
+
+*Legume:* (1) a dry dehiscent fruit formed from one carpel and having
+two longitudinal lines of dehiscence (eg. pea pod) (2) a member of one
+of the Families Papilionaceae, Mimosaceae, Caesalpiniaceae (colloquial)
+
+*Liana (liane):* a climbing or twining plant
+
+*Lignotuber*: a woody swelling partly or completely underground and
+bearing at the base of a stem many cortical buds that may produce
+separate stems (often after fire)
+
+*Ligulate:* (1) with a ligule; (2) strap-shaped, as in zygomorphic ray
+florets of Asteraceae
+
+*Ligulate:* (1) a variously shaped appendage facing toward the base of a
+leaf (especially in grasses, but also some sedges, see Fig. B, p 110),
+petiole, or perianth segment; (2) the strap-shaped corolla lobe or limb
+in ray florets of ASTERACEAE
+
+*Limb:* the upper free and usually spreading portion of a petal within a
+fused corolla
+
+*Linear:* long and narrow, with parallel sides
+
+*Locule:* ovule or seed-containing chamber within a fruit or ovary; also
+*Loculus*
+
+*Macerated*: a process by which tissue is softened or digested
+chemically so that the cells are separated, and can be examined
+individually
+
+*Mallee:* a woody plant with many stems arising from an underground
+woody tuber (lignotuber); usually applied to eucalypts only
+
+*Megaphyll:* leaf evolved from a lateral branch of a stem; found in
+ferns and seed plants
+
+*Membranous*: thin and translucent
+
+*-merous* : a suffix referring to number of parts in a flower, e.g.
+5-merous, each floral whorl contains 5 parts.
+
+*Mesocarp*: the middle layer, usually fleshy, of a 3-layered pericarp or
+mature fruit wall
+
+*Microphyll*: leaf evolved from an outgrowth from the surface of a stem;
+found in Lycopods
+
+*Monoecious:* having unisexual flowers with both male and female flowers
+being borne on the same plant
+
+*Monopodial:* referring to a stem with a single main axis which produces
+lateral organs of which the youngest is always at the tip
+
+*Mucro:* a sharp terminal point
+
+*Mucronate:* having a short terminal point
+
+*Multiple fruit:* a fruit derived from the carpels of many individual
+flowers crowded together on the same axis
+
+*Nectary:* a specialised gland which secretes nectar
+
+*Node*: that part of the stem from which a leaf or leaves and/or bracts
+arise; the “knot” in a grass stem
+
+*Nut:* a dry, indehiscent, one-seeded fruit formed from 2 or more
+carpels
+
+*Ob:* a prefix signifying that the meaning of the simple word is
+reversed e.g. obcordate - the reverse of cordate
+
+*Obsolete:* parts that are absent or very reduced
+
+*Obtuse:* blunt or rounded at the apex
+
+*Ochrea:* a sheath, formed from 2 stipules, encircling the stem in most
+Polygonaceae
+
+*Operculum:* the cap-like structure covering the stamens and style of a
+flower bud (eg. *Eucalyptus*) formed from fused perianth-segments
+
+*Opposite:* leaves arising at the same level, but on opposite sides, of
+a stem
+
+*Ovary:* the basal portion of a carpel or group of fused carpels in
+which one or more ovules are enclosed, and which develops into the fruit
+after fertilisation
+
+*Ovule:* the egg-containing structure (within the ovary of an
+angiosperm) consisting of a megasporangium (nucellus) surrounded by
+integuments,. Develops into the seed after fertilisation
+
+*Ovum*: female gamete
+
+*Palmate:* divided into leaflets that diverge
+
+from the same point (the end of the petiole)
+
+*Panicle (*hence *paniculate)*: a much branched, racemose inflorescence,
+of stalked flowers
+
+*Pappus*: a circle or tuft of bristles, hairs or feathery processes in
+place of the calyx on florets in the Asteraceae, which persists on the
+seed (cypsella) and aids in dispersal by wind
+
+*Parietal placentation*: the ovules attached to placentas arranged
+around the outer wall of an ovary which has a single cavity on the
+outside
+
+*Paripinnate:* a pinnate leaf without a terminal leaflet (cf.
+*imparipinnate*)
+
+*Pedicel:* the stalk of each single flower within an inflorescence or
+flower cluster
+
+*Pedicellate:* on a pedicel; being stalked
+
+*Peduncle:* the stalk of an inflorescence or of a solitary flower or of
+a sporocarp
+
+*Pedunculate:* on a peduncle
+
+*Pellucid:* transparent
+
+*Peltate:* having the stalk (petiole) attached at the back and more or
+less in the centre (of the leaf lamina)
+
+*Perennial*: living for more than two years
+
+*Perfect flower:* a bisexual flower, possessing all parts i.e. fertile
+stamens, ovary, petals and sepals)
+
+*Perianth:* the calyx and corolla, especially when they are
+morphologically similar
+
+*Pericarp:* the wall of a fruit derived from the ovary wall after
+fertilisation
+
+*Pericycle:* the region of a stem or root immediately outside the phloem
+(and inside the endodermis when present); often includes bundles of
+fibres.
+
+*Perigynous:* referring to perianth (sepals and petals) which are
+attached to the floral receptacle (ie. stem tissue) at the same level as
+the ovary (ie. neither above nor below the ovary). See Fig. 2.5 centre
+
+*Persistent:* remaining until the part that bears it is fully matured
+
+*Petal*: one of the (usually) conspicuous segments forming the inner
+whorl of the perianth (corolla)
+
+*Petaloid:* assuming the characters of petals
+
+*Petiole (*hence *petiolate):* the stalk of a leaf
+
+*Petiolule:* the small stalk of a pinna, pinnule etc.
+
+*Phyllode:* a flat petiole of leaf-like appearance, that takes on the
+function of a leaf
+
+*Phyllotaxis:* pattern of attachment of leaves on the stem: eg.
+alternate (one leaf at each node), opposite (two leaves at each node),
+whorled three or more leaves at each node). See Fig. 1.2
+
+*Pinna:* the primary segment of a divided leaf-lamina
+
+*Pinnate leaf:* a compound leaf whose leaflets are arranged in 2 rows on
+opposite sides of a common axis or rachis
+
+*Pinnatifid:* a leaf blade that is divided into lobes on both sides,
+about half-way to the midrib
+
+*Pinnatisect:* a leaf blade that is cut into lobes on both sides down to
+or almost to the midrib; the lobes or segments not stalked
+
+*Pinnule:* the ultimate segment of a divided leaflet
+
+*Pistil*: a free carpel or group of fused carpels
+
+*Placenta:* the part of the ovary to which the ovules are attached
+
+*Placentation:* the arrangement of the placentas and the attachment of
+the ovules to them.
+
+*Plesiomorphy:* the original or ancestral state of a character from
+which the other state(s) has/have been derived more recently. cf
+*apomorphy*
+
+*Plumose:* feathery, as in the branched pappus hairs of some Asteraceae
+
+*Plumule:* the shoot (stem and leaf) of an embryo.
+
+*Pollinium:* a mass of pollen grains cohering by means of their wavy
+texture or fine threads
+
+*Polygamous:* having hermaphrodite and unisexual flowers mixed together
+
+*Prickle*: sharp pointed structure without a vascular supply developed
+as an outgrowth of the surface of a plant stem or petiole eg. rose
+prickle
+
+*Procumbent:* trailing or spreading along the ground, without putting
+forth roots
+
+*Protandrous* : having the male parts maturing before the female (eg.
+the anthers shedding pollen before the stigmas in the same flower are
+receptive).
+
+*Protogynous* : having the female organs maturing before the male (eg.
+stigmas receptive before the anthers of the same flower liberate
+pollen).
+
+*Pubescent (*hence *pubescence):* covered with short soft hairs
+
+*Pulvinus*: a swollen base of a leaf or leaflet which brings about
+movements of the leaf
+
+*Pungent* ending in a sharp and rigid point, as in holly leaves
+
+*Punctate:* marked with dots, depressions or translucent glands
+
+*Pyriform:* pear-shaped
+
+*Quincuncial:* a type of aestivation ( see Fig. A)
+
+*Raceme* (hence *racemose*): an inflorescence of stalked flowers in
+which the growing point continues to add to the inflorescence so that
+the youngest flowers are nearest the apex
+
+*Rachis:* the axis of a compound leaf bearing pinnae or pinnules. See
+Fig. 1.1
+
+*Radial symmetry*: having a plane of symmetry about more than one
+diameter or axis
+
+*Radicle:* root of an embryo
+
+*Ray:* (1) the strap-like part of the corolla of a ray flower of the
+Asteraceae; (2) the branch of an umbel
+
+*Receptacle:* the part of the axis which bears the floral parts
+
+*Recurved:* curved backwards or downwards
+
+*Reflexed:* bent backwards or downwards at a sharp angle
+
+*Regular:* flowers having a radially symmetrical perianth
+
+*Reticulate:* forming a network
+
+*Revolute:* rolled backwards from the extremity or edge onto the under
+surface
+
+*Rhizome:* an underground stem
+
+*Rosette*: of herbs, a cluster of leaves radiating from a stem at ground
+level
+
+*Rupestral*: living or growing on or among rocks
+
+*Sagittal:* a plane of symmetry; a plane of sectioning that divides an
+organ into two mirror-image halves
+
+*Sagittal Section of a flower*: a section drawn from a flower that has
+been cut vertically into two mirror-image halves.
+
+*Scabrous:* rough to the touch
+
+*Scale:* any thin membranous body, usually a degenerate or rudimentary
+leaf
+
+*Scarious:* dry and membranous
+
+*Scrambler:* Plants with weak stems that trail across the ground and
+over rocks and other plants, often with some erect branches
+
+*Scrambling*: a weak stemmed plant without special means of securing a
+hold to support it as a climber; often semi-climbing
+
+*Scurfy:* scaly, the scales being bran-like
+
+*Sepal:* one of the segments (usually green) forming the outer of the
+two whorls of a flower, and collectively known as the calyx
+
+*Sepaloid:* sepal-like
+
+*Septum:* a partition
+
+*Serrate:* notched on the edge with asymmetrical teeth which point
+forward
+
+*Sessile:* without a stalk or petiole
+
+*Simple*: undivided leaves
+
+*Spicate:* resembling a spike; in the form of a spike
+
+*Spike:* an inflorescence of sessile flowers (or spikelets in the case
+of grasses) borne on a simple elongated axis, the youngest flower being
+at the apex of the axis
+
+*Spikelet:* a secondary spike; one or more small flowers subtended by
+one or two bracts within an inflorescence; eg. grasses, sedges
+
+*Spinescent:* terminating in a spine or a needle-like point, eg. leaves
+of thistles
+
+*Sporophyll:* a leaf-like structure which bears one or more sporangia
+
+*Spur:* a conical or cylindrical projection from the base or side of one
+of the perianth whorls
+
+*Staminode:* a sterile stamen, usually modified morphologically
+
+*Standard:* the large upper petal of a papilionaceous flower (family
+Fabaceae)
+
+*Stellate:* star-shaped
+
+*Sterile:* without reproductive organs
+
+*Stigma:* that part of the style adapted for reception and germination
+of pollen
+
+*Stipulate:* having stipules
+
+*Stipule:* an appendage, pairs of which occur at the base of the leaf
+stalk, sometimes fused into a cap protecting the apical bud
+
+*Stoloniferous:* producing stolons (lateral stems or runners); in the
+form of a stolon
+
+*Style:* that part of the pistil situated above the ovary and bearing
+the stigma
+
+*Subtend:* to stand below or close to
+
+*Succulent:* (1) juicy; fleshy - applied either to fruits, leaves or
+stem; (2) a plant with a fleshy habit
+
+*Superior ovary:* one which is not embedded in the floral receptacle
+(stem tissue); ie. the ovary is sitting on the floral axis, although
+sometimes within a cup-shaped extension of the receptacle; see Fig. 4.5
+
+*Sympetalous (synpetalous):* with the petals fused together
+
+*Symplesiomorph:* a shared ancestral trait; a trait that has been
+inherited by members of a taxon but which was present in a distant
+ancestor; ie. arose in the lineage leading to the common ancestor of the
+taxon, and hence may have been inherited by members of related taxa. A
+common trait that is not unique to the taxon [cf. *synapomorph*]. Note
+that, since ‘ancestral’ and ‘derived’ are relative terms, the taxon must
+always be defined when this term is used. Eg. cuticle and lignin are
+symplesiomorphs in seed plants; double fertilisation in Epacridaceae.
+
+*Sympodial* : type of growth where the main axis actually consists of
+several successive side branches. Growth of the apical bud is repeatedly
+terminated (often by flowering or formation of a tendril) and initiated
+from an axillary bud below the apex
+
+*Synapomorph:* a shared derived trait; a trait that arose within the
+common ancestor of a taxon but did not predate the taxon, and hence
+could have been inherited by all members of the taxon, but not by
+members of other taxa. [cf. *symplesiomorph, autapomorph*]. Note that,
+since ‘ancestral’ and ‘derived’ are relative terms, the taxon must
+always be defined when this term is used. eg. double fertilisation in
+angiosperms.
+
+*Syncarpous:* having the carpels fused into a unit
+
+*Taxon:* a term used to describe any taxonomic category, eg. subspecies,
+species, family etc.
+
+*Taxonomy*: classification; the study of relationships between plants
+and animals
+
+*Tendril:* part of a plant modified into a slender elongate organ used
+in climbing
+
+*Tepals*: a division of the perianth, either sepal or petal, when these
+look alike.
+
+*Terete:* cylindrical, or almost so
+
+*Testa:* the seed coat
+
+*Thorn* : a reduced branch with a hard sharp point; it has a vascular
+supply and is subtended by a leaf or bract eg. *Bouganvillea*
+
+*Tomentose:* covered with closely matted short hairs
+
+*Tomentum:* the hairy covering as described in tomentose
+
+*Trifoliate* (or *Trifoliolate*): describes leaves having three
+leaflets; trifoliate is sometimes used to mean having three separate
+leaves
+
+*Truncate:* terminating abruptly as if cut off transversely
+
+*Tubercule:* a small wart-like outgrowth, e.g. forming the base of a
+hair.
+
+*Umbel:* an inflorescence of stalked flowers in which all the flower
+stalks or pedicels arise at the tip of the axis (peduncle) and the
+flowers lie at the same level
+
+*Umbellate:* in the form of an umbel
+
+*Valvate:* (1) parts (eg. petals) arranged with the edges touching; (2)
+fruit etc. opening by valves
+
+*Valve:* a distinct portion into which some organs break
+
+*Versatile:* anthers joined to the filament by the midpoint and swinging
+freely
+
+*v.i.:* vide infra, see below
+
+*Villous:* covered with long weak hairs
+
+*v.s.:* vide supra, see above
+
+*Whorl:* a group of three or more leaves or appendages arising from the
+axis at one level
+
+*Xeromorphic*: possessing structural features that appear likely to
+confer resistance to aridity e.g. leaves much reduced in size, rolled,
+covered by a thick cuticle and/or hairs.
+
+*Xeromorphosis*: changes induced by the action of increased temperature
+eg. the thickening of the epidermis.
+
+*Xerophyte*: a plant which can subsist with a small amount of moisture
+eg. a desert plant.
+
+*Zygomorphic:* a bilaterally symmetric flower
+
 
