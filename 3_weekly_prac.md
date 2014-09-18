@@ -1609,9 +1609,9 @@ families at the end of the manual.**
 \newpage
 
 
-#Prac 7: Vascular Tissue, Stem Structure and Secondary Thickening **
+#Prac 7: Vascular Tissue, Stem Structure and Secondary Thickening
 
-## VASCULAR TISSUE
+## Vascular Tissue
 
 References : Raven et al. (2013) ch 25-26
 
@@ -1630,7 +1630,7 @@ The purpose of today's lab is to demonstrate the features of the types
 of cells that are found in xylem and phloem, so that these may be
 considered in relation to their role in transport.
 
-### VASCULAR CELLS AND TISSUE
+### Vascular Cells And Tissue
 
 *Xylem tissue comprise the following:* 
 
@@ -1706,7 +1706,7 @@ imperforate cell while the end walls of vessel elements are perforated.
 
  Fresh material is also available for hand cut sections.
 
-###  **Tracheids**
+###  Tracheids
 
  Tracheids are the only xylem element found in conifer woods. These are
  elongated, tapered, thick-walled cells.
@@ -1749,7 +1749,7 @@ these secondary tissues include **rays** that facilitate radial
 transport and which are also formed by divisions of the vascular
 cambium.
 
-###  ***Secondary growth in herbaceous plants***
+###  Secondary growth in herbaceous plants
 
 Many herbaceous plants have a limited amount of secondary growth in the
 older and slightly woody parts of the plant. A study of *Coleus* will
@@ -1921,14 +1921,14 @@ the vascular cambium and the cork cambia.
  
  \vspace*{3\baselineskip}
 
- secondary phloem - a band of living phloem cells (*sieve tubes* and
- *companion* *cells*, phloem parenchyma and scattered phloem fibres
+ **Secondary phloem** - a band of living phloem cells (*sieve tubes* and
+ *companion cells*, phloem parenchyma and scattered phloem fibres
  with thick, red-stained walls).
 
- primary phloem - the outermost area of phloem not noticeably
+ **primary phloem** - the outermost area of phloem not noticeably
  demarcated from secondary phloem.
 
- pericyclic fibre bundles - these are now much more widely separated than when first
+ **pericyclic fibre bundles** - these are now much more widely separated than when first
  formed in the young stem, since they are being pushed out onto a wider
  circumference by the secondary tissues formed inside them. Note how
  the rays tend to widen as they pass out through the phloem. primary cortex. 
@@ -1999,6 +1999,8 @@ the vascular cambium and the cork cambia.
 
  - Are the walls of the ray parenchyma lignified?
 
+\vspace*{3\baselineskip}
+
  All the ray cells contain protoplasts (see also the RLS below). Look for the vessels; these will be seen in side view - look for the
  multiseriate bordered pits. Note how few vessels are visible in one section.
 
@@ -2008,21 +2010,31 @@ the vascular cambium and the cork cambia.
 
  Make drawings or diagrams that will remind you of these features.
 
-\vspace*{6\baselineskip}
+\vspace*{8\baselineskip}
 
   Now re-examine the *Casuarina* wood blocks. 
   
-  - Are the rays visible to
- the naked eye?
+  - Are the rays visible to the naked eye?
+
+ \vspace*{3\baselineskip}
 
   Compare these with blocks of other species in the demonstration. Variation in the size and frequency of rays is responsible for much of
  the difference in the texture and structural features of wood. Variations in the frequencies of the different vertical elements (ie.
  vessels, tracheids, fibres, parenchyma) also contribute.
 
+<!---
+
  Complete the following table after examining the demonstration. The
  features that should be included in the table are lateral strength
  (against bending strains), weight, conductance, porosity, figure,
  straightness of grain.
+
+
+
+
+ \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt}    
 
  **variation in feature influenced**
 
@@ -2034,12 +2046,12 @@ the vascular cambium and the cork cambia.
 
  development of growth rings
 
- **Fig 8.1** The three dimensional structure of wood illustrating the
- planes of transverse (TS), tangential (TLS) and radial (RLS) sections.
- These are most easily distinguished by the appearance of the rays.
-<!---
-![](media/image16.jpeg)
 -->
+
+![The three dimensional structure of wood illustrating the
+ planes of transverse (TS), tangential (TLS) and radial (RLS) sections.
+ These are most easily distinguished by the appearance of the rays.](3d_wood.png)
+
 ##ARBORESCENCE IN MONOCOTYLEDONOUS PLANTS
 
 Arborescent plants are those with a tree-like form or ‘habit’.
@@ -2062,7 +2074,7 @@ robust stem varies widely between groups.
 In this lab we are examining the mechanisms by which the arborescent
 stem is produced in the Bangalow Palm (*Archontophoenix cunninghamiana)*
 
-1.  Examine the specimen of *Archontophoenix cunninghamiana* on display.
+**Examine the specimen of *Archontophoenix cunninghamiana* on display.**
 
 The young palm has a narrow primary apex which lays down a succession of
 leaves separated by internodes that forms a slender stem. As the palm
@@ -2077,12 +2089,12 @@ lays down very many vascular bundles but only the central ones mature
 immediately. The outer bundles remain immature for years and are
 differentiated over time as required.
 
-  You are provided with sections of parts of young and mature stems of
-    the Bangalow Palm, *Archontophoenix cunninghamiana*. All sections
-    are taken from the same level in the palm, and so will illustrate
-    the developmental changes which occur within an internode from the
-    time it is first exposed beneath the crown of the palm until it has
-    been thickened in the process of *sustained primary growth*.
+You are provided with sections of parts of young and mature stems of
+the Bangalow Palm, *Archontophoenix cunninghamiana*. All sections
+are taken from the same level in the palm, and so will illustrate
+the developmental changes which occur within an internode from the
+time it is first exposed beneath the crown of the palm until it has
+been thickened in the process of *sustained primary growth*.
 
 Working in pairs, examine the 4 sections provided.
 
@@ -2113,6 +2125,8 @@ Score the number of vascular bundles in each of **two separate
  - Will it be smaller or larger than the X10
  field?
 
+ \vspace*{3\baselineskip}
+
 - Enter results and determine by what factor the volume of tissue in the
 central zone has increased?
 
@@ -2121,54 +2135,49 @@ central zone has increased?
 The other student should examine young and old sections of the outer
 zone of the stem.
 
-b)  Observe in the young outer zone section –
+Observe in the young outer zone section –
 
- i\) the mature fibre bundles already developed at the periphery of the
- stem;
+- the mature fibre bundles already developed at the periphery of the stem;
 
- ii\) the large number of immature vascular bundles in which all cells are
- thin-walled;
+- the large number of immature vascular bundles in which all cells are thin-walled;
 
- iii\) a few large bundles with mature xylem and phloem that connected the
- central vascular bundles with the leaves;
+- a few large bundles with mature xylem and phloem that connected the central vascular bundles with the leaves;
 
- iv\) the parenchymatous ground tissue between the bundles.
+- the parenchymatous ground tissue between the bundles.
 
  Score the number of vascular bundles (mature and immature) in each of
  **two separate fields** under X10 and calculate the average and
  transform this to bundles per cm2 (see ‘a’ above).
 
-b)  Observe in the mature outer zone section –
+Observe in the mature outer zone section –
 
- i\) the absence of any cambial layer;
+- the absence of any cambial layer;
 
- ii\) the development of large fibre caps on the vascular bundles;
+- the development of large fibre caps on the vascular bundles;
 
- iii\) the mature metaxylem in all bundles;
+- the mature metaxylem in all bundles;
 
- iv\) the nature of the ground tissue between the bundles.
+- the nature of the ground tissue between the bundles.
 
  Score the number of vascular bundles per X4 field for **two such
- fields** and transform
-
- the average to bundles per cm2 (see ‘b’ above).
+ fields** and transform the average to bundles per cm2 (see ‘b’ above).
 
  Enter results in the individual result sheet provided
 
- - Determine by what factor the volume of tissue has increased in the
+ Determine by what factor the volume of tissue has increased in the
  outer zone?
 
-\vspace*{3\baselineskip}
+\vspace*{6\baselineskip}
 
-- Is there a significantly greater increase in volume in the central
+ Is there a significantly greater increase in volume in the central
  zone during sustained primary growth, or does the tissue increase uniformly across the
  diameter of the stem?
 
 
-\vspace*{3\baselineskip}
+\vspace*{6\baselineskip}
 
  
-##PLANT IDENTIFICATION
+## PLANT IDENTIFICATION
 
  Complete the exercise(s) assigned from the plant identification
  section at the end of the manual.
@@ -2208,8 +2217,7 @@ In order to examine allometric relationships, data must be collected
 from plants across a range of sizes. Each group will be responsible for
 collecting data, but we will need data from the entire class.
 
-##  Adaptive responses to the presence of competitors in *Impatiens
-     wallerana*.
+##  Adaptive responses to the presence of competitors in *Impatiens wallerana*.
 
 The capacity to respond to competitors is a key adaptation for most
 plants (plants rarely grow alone). One common adaptation is the
@@ -2485,9 +2493,7 @@ ovary in which two of the locules have aborted.
 >there are major groupings of genera. This means thousands of kinds, and
 >indeed, several hundred specialised names have already been proposed;
 >the result is another specialist language in the babel of science,
->through which the student must break."
-
->- E.J. Corner 1964 'The Life of Plants'
+>through which the student must break." - E.J. Corner 1964 'The Life of Plants'
 
 The strict definition of a *fruit* would be that it is the product of
 the post-fertilizaton development of a pistil. However, it is more
@@ -2562,12 +2568,12 @@ singly)
  **cypsela** is an achene derived from an inferior ovary; the term
  appears to be restricted to the Compositae (Asteraceae).
 
- **SAMARA** - a winged achene; the wing is an extension of the pericarp
+**SAMARA** - a winged achene; the wing is an extension of the pericarp
  and presumably assists in dispersal, e.g. *Fraxinus* (ash). The fruit
  of the sycamore often given as an example of a samara is really a
  schizocarp (q.v.).
 
- **CARYOPSIS** - product of a unilocular, superior ovary with one seed,
+**CARYOPSIS** - product of a unilocular, superior ovary with one seed,
  but the wall of the ovary (pericarp) and the seed coat (testa) are
  fused together; characteristic of the family Gramineae.
 
@@ -2935,17 +2941,11 @@ accepted.
 
 3.  Your specimens should include at least one specimen displaying:
     -   An inferior ovary
-
     -   A superior ovary
-
     -   Compound leaves
-
     -   Bilaterally symmetrical flowers
-
     -   Radially symmetrical flowers
-
     -   Cladodes
-
     -   Stipules
 
 4.  **Collect native or naturalised plants**. Horticultural plants are
@@ -2955,16 +2955,17 @@ accepted.
     put there by people; **Do** collect plants (such as weeds) that
     arrived there on their own.
 
-### Collecting instructions:*
+### Collecting instructions:
 
 1.  Bring a note book, a pair of clippers, plant tags, and a large
-    plastic bag with you when collecting.
+    plastic bag with you when collecting.  Optional: a GPS or smart phone that includes a GPS.  
 
 2.  When you find a plant you wish to collect, make careful note of the
-    habitat (e.g. woodland, park, grassy field, rock outcrop, etc) the
-    location (where possible give the names of roads, pathways, parks,
-    and neighbourhoods. This information will allow another scientist to
-    find the population), growth habit of the plant (tree, shrub, vine,
+    habitat (e.g. woodland, park, grassy field, rock outcrop, etc), and the
+    location.  The location may be either the latitude and longitude from a GPS or 
+     the names of nearby oads, pathways, parks,
+    and neighbourhoods. This information should allow another scientist to
+    find the population as easily as possible.  Also include the growth habit of the plant (tree, shrub, vine,
     herb, etc.), plant height (approximately), and the approximate size
     of the population.
 
@@ -2999,7 +3000,7 @@ accepted.
 8.  Submit a spreadsheet documenting the distribution of character
     states amongst the specimens
 
-###Here’s what we will be marking:
+Here’s what we will be marking:
 
 1.  Complete and correct identification. This includes family name,
     genus, specific epithet and authority. Common names are not
@@ -3026,7 +3027,7 @@ accepted.
 
 \newpage
 
-**Research in Botany project**
+# Research in Botany project
 
 *\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
 
@@ -3121,7 +3122,7 @@ above.
 
 ***Potential projects will be posted on Moodle in week 1 or 2.***
 
-# PRACTICAL REQUIREMENTS
+# Practical skills
 
 Practical work is an important component of this course. Apart from
 illustrating lecture material, it should teach you:
@@ -3134,7 +3135,7 @@ illustrating lecture material, it should teach you:
  others; observations must be clearly recorded so that they can be communicated
  to those who have not themselves examined the material.
 
-# Special Skill: Cutting and Staining
+## Special Skill: Cutting and Staining
 
 *GENERAL*
 
@@ -3156,7 +3157,7 @@ and embedding matrix are sectioned together and the extra support allows
 thinner sections to be cut, resulting in better resolution of tissue
 structure.
 
-## SECTIONING BY HAND*
+### Sectioning By Hand
 
 You will require:
 
@@ -3178,7 +3179,7 @@ the Petri dish.
 
 **Do not let the material dry out at any stage.**
 
-### STAINING SCHEDULES*
+### Staining Schedules
 
 Place the staining solution in a watch glass. Prepare a second watch
 glass about 2/3 full of distilled water ready for rinsing. After
@@ -3192,7 +3193,7 @@ accidental staining please wipe up any spills immediately.**
 
 Schedules for the stains you will use are outlined below.
 
-### MOUNTING SECTIONS
+### Mounting Sections
 
 Always place a cover-slip over the section before examining it under the
 microscope. Sections can be mounted either in water or 50% glycerol. The
@@ -3205,7 +3206,7 @@ the cover-slip and allowing the liquid to flow under the cover-slip.
 (Plastic-embedded sections are often mounted in oil or other non-aqueous
 media, rather than water: this gives improved resolution.)
 
-### STAINING SCHEDULES
+### Staining Schedules
 
 - *Toluidine Blue*** (MULTIPLE STAIN).
 
@@ -3217,7 +3218,7 @@ Toluidine Blue is a very important dye that distinguishes lignified
 
 More detailed staining reactions are given below:
 
-### CELL CHEMICAL GROUP THAT STAINING STRUCTURE REACTS COLOUR
+### Cell Chemical Group That Staining Structure Reacts With Colour
 
 1.  cytoplasm (phosphate groups in nucleic acids) purple
 
@@ -3229,7 +3230,7 @@ More detailed staining reactions are given below:
 
 2.  some vacuoles (phenols) deep dark blue
 
-### STAINING SCHEDULE:
+### Staining Schedule
 
 1. Wash section in distilled water (5 min.).
 
@@ -3270,9 +3271,9 @@ them to come in contact with your skin.
 
 # Light Microscopy
 
-### OLYMPUS MICROSCOPE
+### Olympus Microscope
 
-### Operating procedure
+**Operating procedure**
 
 1. Place the microscope in a comfortable position on the bench.
 
@@ -3349,7 +3350,7 @@ iris impinges on the exit pupil by about 1/3. This should always be done
 when objectives are changed.
 
 
-### DO'S AND DON'TS
+### Dos and don'ts
 
 1. If lenses are dirty you may clean them, but only with either a blower
 brush or a fresh piece of lens tissue - NOT KLEENEX. (Xylene, alcohol or
@@ -3394,9 +3395,7 @@ determined.
 V is the value of each stage micrometer unit (usually 0.01 mm).
 
 S & E are the numbers of units on the stage and eyepiece micrometers,
-respectively, that
-
-correspond.
+respectively, that correspond.
 
 Once the value of M has been determined for a particular magnification,
 the eyepiece micrometer may then be used in the same way as a ruler.
