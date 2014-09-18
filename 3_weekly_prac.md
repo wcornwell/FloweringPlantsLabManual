@@ -628,7 +628,7 @@ is the spongy mesophyll of many leaves.
 
 Draw a small (no more than 5) group of sclereids accurately.
 
-\vspace*{6\baselineskip}
+\vspace*{10\baselineskip}
 
 
 
@@ -1252,8 +1252,7 @@ leaves we looked at today?
 
 \vspace*{3\baselineskip}
 
--Why might this leaf form be an advantage for
-Eucalypts?
+- Why might this leaf form be an advantage for eucalypts?
 
 \vspace*{3\baselineskip}
 
@@ -2052,7 +2051,7 @@ the vascular cambium and the cork cambia.
  planes of transverse (TS), tangential (TLS) and radial (RLS) sections.
  These are most easily distinguished by the appearance of the rays.](3d_wood.png)
 
-##ARBORESCENCE IN MONOCOTYLEDONOUS PLANTS
+##Arborescence in Monocotyledonous Plants
 
 Arborescent plants are those with a tree-like form or ‘habit’.
 Requirements for arborescence are a method of strengthening the stem in
@@ -2177,7 +2176,7 @@ Observe in the mature outer zone section –
 \vspace*{6\baselineskip}
 
  
-## PLANT IDENTIFICATION
+## Plant Identification
 
  Complete the exercise(s) assigned from the plant identification
  section at the end of the manual.
@@ -2870,7 +2869,7 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
 
 \newpage
 
-# Long-term assignments
+# Long-term Assignments
 
 ## The Plant Collection
 
@@ -2878,7 +2877,7 @@ See details at the end of the lab manual for plant collection
 guidelines. While the collection is not due until week 8, specimens take some time to both dry and identify.  We suggest
 that you begin work on this project as soon as possible.
 
-## Research In Botany
+## Research in Botany
 
 There are three options for this assignment.
 
@@ -2915,7 +2914,7 @@ donate your specimens to our herbarium. Your specimens will either be
 incorporated into our collection or donated to other local or
 international herbaria.
 
-## Rules:
+### Rules
 
 There are a number of rules which apply to making a plant collection.
 Without a license, it is illegal (with potentially large fines) to
@@ -2953,7 +2952,7 @@ accepted.
     put there by people; **Do** collect plants (such as weeds) that
     arrived there on their own.
 
-### Collecting instructions:
+### Collecting Instructions
 
 1.  Bring a note book, a pair of clippers, plant tags, and a large
     plastic bag with you when collecting.  Optional: a GPS or smart phone that includes a GPS.  
@@ -3118,7 +3117,7 @@ above.
 
 ***Potential projects will be posted on Moodle in week 1 or 2.***
 
-# Practical skills
+# Practical Skills
 
 Practical work is an important component of this course. Apart from
 illustrating lecture material, it should teach you:
@@ -3805,16 +3804,15 @@ belongs to the family **Mimosaceae** (see note (e) below).
 
 Examine the flowers.
 
-a\) Can you distinguish a calyx and corolla?
+- Can you distinguish a calyx and corolla?
 
-b\) Is the flower zygomorphic or actinomorphic?
+- Is the flower zygomorphic or actinomorphic?
 
-> c\) Note the large and indeterminate number of stamens, and look for the
-> single style. The fruit is a legume or pod, as in the Fabaceae.
+- Note the large and indeterminate number of stamens, and look for the single style. The fruit is a legume or pod, as in the Fabaceae.
 
-d\) What terms would you use to describe the inflorescence ?
+- What terms would you use to describe the inflorescence ?
 
-e.  Some botanists prefer to combine the Fabaceae and the Mimosaceae in
+-  Some botanists prefer to combine the Fabaceae and the Mimosaceae in
     a single family. How would you determine which of the available
     names to apply to the combined family? The alternative name
     Leguminosae is sometimes also applied to it. What is unusual about
@@ -3876,43 +3874,38 @@ Examine the specimen(s) provided. There are clusters of tiny flowers
 (florets) surrounded by a series of bracts; which may be mistaken for a
 single flower. Such a cluster is called a *capitulum* .
 
-> a\) Dissect apart some flowers from the centre of a capitulum. Is each
-> flower subtended by a membranous scale or leaf, or does it arise on the
-> receptacle without an associated leaf?
+1. Dissect apart some flowers from the centre of a capitulum. Is each
+ flower subtended by a membranous scale or leaf, or does it arise on the
+ receptacle without an associated leaf?
 
-b\) Look for the calyx and corolla; the former may be present as branched
-or unbranched hairs, or may be totally absent.
-
-The petals are fused to form a tube.
-
+2. Look for the calyx and corolla; the former may be present as branched
+or unbranched hairs, or may be totally absent. The petals are fused to form a tube.
 How many lobes are there around the mouth of the tube? This indicates
 the number of petals in the flower.
 
-c\) The stamens are borne on the inside of the corolla tube
-(*epipetalous)*, and the anthers are themselves fused into a tube around
-the style.
+3. The stamens are borne on the inside of the corolla tube (*epipetalous)*, and the anthers are themselves fused into a tube around the style.
 
-How many stamens are there?
+4. How many stamens are there?
 
-Does this equal the number of petals?
+5. Does this equal the number of petals?
 
-d\) Look for a flower in which the stigma is projecting, and note how
+6. Look for a flower in which the stigma is projecting, and note how
 many stigmatic branches there are - this may not reflect the number of
 locules present in the ovary, of course.
 
-e\) Is the ovary inferior or superior?
+7. Is the ovary inferior or superior?
 
-f\) The fruits are small and indehiscent, and mostly dispersed by wind or
+8. The fruits are small and indehiscent, and mostly dispersed by wind or
 animal vectors.
 
-Examine the fruits, noting any mechanism or structure that might aid
+9. Examine the fruits, noting any mechanism or structure that might aid
 dispersal.
 
-g\) Construct a floral diagram and a floral formula for the flower.
+10. Construct a floral diagram and a floral formula for the flower.
 
-h\) Now examine the flowers (florets) at the outer edge of the capitulum.
+11. Now examine the flowers (florets) at the outer edge of the capitulum.
 
-What (if any) differences exist between the central and marginal
+12. What (if any) differences exist between the central and marginal
 flowers? Construct a floral formula for the marginal floret.
 
 ## Family Proteaceae, the Waratah family
@@ -3997,7 +3990,7 @@ c\) How are the stamens positioned in relation to the perianth?
 d\) There is only one carpel in each flower. Examine developing fruits
  and determine whether the ovary is inferior or superior?
 
-## Ericaceae, the heath family
+## Family Ericaceae, the heaths 
 
 **Formerly the southern hemisphere heaths were included in the family "Epacridaceae"; molecular evidence disproved the existence of Epacridaceae as a real evolutionary group and the southern heaths are now considered to be part of a globally distributed family, Ericaceae**
 
