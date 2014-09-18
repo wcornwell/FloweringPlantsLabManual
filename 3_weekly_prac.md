@@ -2754,7 +2754,7 @@ et al. 2004):
 
 Many attempts at understanding the diversification of flowering plants have focused on the evolution of key traits. Biotic or animal pollination has been proposed to be a key trait promoting the diversity of flowing plants, probably because this type of reproduction (with some minor exceptions) is unique to angiosperms.
 
- Using animals as a vector for pollen could require the evolution of specialised floral structures. Examine the flowers of the specimens provided representing abiotic and biotic pollination systems and fill in the table on the hand out provided.
+Using animals as a vector for pollen could require the evolution of specialised floral structures. Examine the flowers of the specimens provided representing abiotic and biotic pollination systems and fill in the table on the hand out provided.
 
 - How might the flowers you examined maximise reproductive success (i.e.
  maximise the likelihood that pollen will be delivered to a conspecific
@@ -2765,22 +2765,22 @@ Many attempts at understanding the diversification of flowering plants have focu
 - Are the flowers from animal pollinated species more variable than the
  flowers from species pollinated abiotically?
 
- \vspace*{3\baselineskip}
+\vspace*{3\baselineskip}
 
 - Pollination success does not in itself increase the diversification
  rate of a taxa, how could specialised pollination systems increase
  diversity?
 
- \vspace*{3\baselineskip}
+\vspace*{3\baselineskip}
 
- Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families
+Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families
  of flowering plants. Fig 4.1 is a phylogeny of flowering plants (a
  tree showing how flowering plant families are related to one another).
  In addition, we have data on the diversity of flowering plant families
  and their main mode of pollination, dispersal mode, and life histories
  (Table 4.1).
 
- Using these data, we can ask some interesting and advanced questions
+Using these data, we can ask some interesting and advanced questions
  about the evolution of biological diversity. Closely related or sister
  families on a phylogeny can be compared to test if evolutionary events
  are correlated. For example, if one family evolves animal pollination,
@@ -2827,7 +2827,7 @@ Many attempts at understanding the diversification of flowering plants have focu
 
 \vspace*{3\baselineskip}
 
-Table 4.1 – Family diversity, pollination mode, dispersal mode, and life
+**Table 4.1** – Family diversity, pollination mode, dispersal mode, and life
 histories for a subset of the flowering plant families. Data from
 Eriksson and Bremmer (1992) Evolution, 258-266.
 
@@ -2862,8 +2862,6 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
 ![The evolutionary relationships among the orders of vascular plants. From http://www.mobot.org/MOBOT/research/APweb/](tree.png)
 
 
-
-
 ## Plant Identification
 
  Complete the exercises for identifying plant families using the key /
@@ -2872,15 +2870,15 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
 
 \newpage
 
-#Long-term assignments
+# Long-term assignments
 
-##The Plant Collection
+## The Plant Collection
 
 See details at the end of the lab manual for plant collection
 guidelines. While the collection is not due until week 8, specimens take some time to both dry and identify.  We suggest
 that you begin work on this project as soon as possible.
 
-##Research In Botany
+## Research In Botany
 
 There are three options for this assignment.
 
@@ -2895,11 +2893,11 @@ For the tree journal you should find the tree that your will take repeated obser
 
 The one-page proposal is assessed, and we will give you feedback on the ideas.
 
-###Start both of these assignments early!!!
+### Start both of these assignments early!!!
 
 \newpage
 
-#Plant Collection Guidelines
+# Plant Collection Guidelines
 
 As part of this course, you will be required to produce a small
 herbarium style plant collection. Plant collections are used by
@@ -3028,8 +3026,6 @@ Here’s what we will be marking:
 \newpage
 
 # Research in Botany project
-
-*\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
 
 When not teaching courses, academics and research scientists spend a
 great deal of time writing grant applications to agencies that support
@@ -3517,7 +3513,7 @@ include too many notes in the labels.
 **NB.** The key characters for recognising the family are underlined in
 these notes.
 
-##Family MYRTACEAE*** - The Eucalypt family.
+## Family Myrtaceae - The Eucalypt family.
 
 A family of about 120 genera and 3,200 species (ranks 11th amongst the
 Angiosperms in number of species). It is worldwide in distribution, but
@@ -3571,7 +3567,7 @@ have phloem on both sides of the xylem.*
 
 - *Callistemon* R. Br. (Bottlebrushes - stamens free), with woody capsules.
 
-### **ID Excercises**
+### ID Excercises
 
 1. Examine the leaves from one of the specimens provided. Are they simple
  or compound? Is the leaf margin toothed or entire? Take a leaf, hold
@@ -3623,7 +3619,7 @@ dispersed **or**  fleshy and coloured (eg., pink or white). Remove the flesh. Is
  rainforest species have this type of fruit. Opposite leaves are common
  in these species, also.
 
-## Family RUTACEAE - The Citrus family.
+## Family Rutaceae - the Citrus family.
 
 The family includes 150 genera and 1,600 species, of which 40 genera and
 335 species occur in Australia.
@@ -3656,6 +3652,7 @@ Important genera in Australia:
 - *Zieria* Sm. (25 species - flowers tetramerous with only one whorl of stamens).
 
 ###ID Exercises
+
 >
 > Examine the leaves on the range of specimens provided. Do any have
 > compound leaves? Do they have serrate margins. Hold a leaf of each up
@@ -3703,7 +3700,7 @@ the Rutaceae under Family Descriptions. The key characters for
 identifying the family are underlined. Which features distinguish the
 Rutaceae from the Myrtaceae?
 
-## Faboideae: a subfamily of Fabaceae, the pea family
+## Subfamily Faboideae: a subfamily within Fabaceae
 
 ### (alternate name Papilionoideae) 
 
@@ -3736,7 +3733,7 @@ Their seed protein contains the amino acid lysine, essential for human
 nutrition but absent from all other plant proteins; they are therefore
 important components of vegetarian diets.
 
-### **ID Excercises**
+### ID Excercises
 
 Examine the floral morphology of the specimen(s) provided.
 
@@ -3771,7 +3768,7 @@ combination of the two?
 >
 > Which subtype in Fig 2.9, Lab 2 best fits the branching pattern?
 
-## Mimosoideae, subfamily of Fabaceae, the pea family
+## Subfamily Mimosoideae, within Fabaceae
 
 ### The wattle subfamily
 
@@ -3783,9 +3780,7 @@ Leaves: alternate, *bipinnate*, but often reduced to a *simple phyllode*
 in the adult, and often bearing *one or more nectaries on the petiole
 and rachis* (midrib of a compound leaf).
 
-Inflorescence:
-
-crowded spikes or heads, often arranged in compound inflorescences.
+Inflorescence: crowded spikes or heads, often arranged in compound inflorescences.
 
 Flowers: small, actinomorphic; calyx and corolla 4 or 5, inconspicuous;
 stamens long, numerous and showy; carpel 1; ovary superior with marginal
@@ -3835,9 +3830,7 @@ worldwide, mainly in open communities.
 Habit: mostly herbs, often annuals (many desert ephemerals), a few
 shrubs and trees.
 
-Inflorescence:
-
-a *capitulum* - a cluster of small sessile flowers seated on an expanded
+Inflorescence: a *capitulum* - a cluster of small sessile flowers seated on an expanded
 convex stem apex and surrounded by bracts (the *involucre*).
 
 Flowers: calyx either reduced to a ring of scales or hairs, or absent;
@@ -4131,9 +4124,7 @@ dicotyledon families. This skill will be tested in the practical exam. It will f
 avoid having to wade through the family key because you can go directly to the generic key in that
 family.
 
-
-
-# GLOSSARY
+# Glossary
 
 *Abaxial:* the side or face of a lateral organ (leaf or bract) turned
 away from the axis; the lower surface of a leaf
