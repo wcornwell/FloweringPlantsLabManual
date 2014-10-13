@@ -2405,6 +2405,8 @@ through periods of adverse conditions. In this practical you will look
 at germination in seeds and you are provided with an introduction to
 some of the diversity of fruits found in the Angiosperms.
 
+## Germination
+
  There are two major modes of germination:
 
  1. **Hypogeal**, where the cotyledons remain below the ground and the
@@ -2439,13 +2441,15 @@ Compare the nature and type of food reserves in the following:-
 
  *Amido Black*
 
- Stain freshly cut sections for about 5 minutes. Rinse in distilled
+ - Stain freshly cut sections for about 5 minutes. 
+
+ - Rinse in distilled
  water.
 
- Mount in glycerol
+ - Mount in glycerol
 
- Protein bodies and other protein-containing areas should stain a deep
- blue-black.
+ *Protein bodies and other protein-containing areas should stain a deep
+ blue-black.*
 
  *Toluidine Blue* should be used to stain phosphorus reserves.
 
@@ -2608,7 +2612,7 @@ Rosaceae (apples, pears) - the five inferior carpels are free on their
 inner edges (the hole in the core) and their outer walls and the
 enlarged enclosing receptacle forms the flesh of the fruit.  Pomes, and berries in general, are often yummy.
 
-###Aggregate Fruits
+###Aggregate fruits
 
 An aggregate fruit is  derived from many free carpels of a *single* flower, the
  carpels held together by a persistent floral receptacle which itself
@@ -2623,7 +2627,7 @@ individual fruits are achenes borne on a succulent receptacle and *Rosa*
 (the rose) where the rosehip consists of achenes enclosed in a fleshy
 cup-shaped receptale (a *hip*).
 
-###MULTIPLE FRUITS
+###Multiple fruits
 
 Multiple fruits are derived from many pistils or carpels of *many individual
 flowers crowded together on the same inflorescence* axis. The
@@ -2636,7 +2640,9 @@ seven capsules. *Ananas* (pineapple) fruit is a number of fused berries
 and the axis of the inflorescence (a spike), the bases of the subtending
 bract and the flower stalks have all become succulent.
 
-**KEY TO FRUITS**
+\newpage
+
+##Key to types of fruit 
 
 1\. Fruit formed from single ovary (which may be syncarpous) of one
 flower . . . . . . 2
