@@ -2523,8 +2523,7 @@ flowers crowded together on the same axis.
 
 ### Simple Fruits
 
-(fruit derived from a single pistil or from a single carpel disseminated
-singly)
+A simple fruit is derived from the ripening of a simple or compound ovary in a flower with only one pistil.  Note that there may be more than one carpel and more than one seed within a simple fruit.
 
  A fruit is **dry** when the pericarp is papery, leathery or woody at
  maturity and **fleshy** if the pericarp becomes succulent or fibrous.
@@ -2537,9 +2536,7 @@ singly)
 ### Dry dehiscent fruits
 
  **FOLLICLE** - product of a single superior carpel containing one or
- many seeds and splitting
-
- down one side of the fruit only - e.g. *Telopea* (waratah),
+ many seeds and splitting down one side of the fruit only - e.g. *Telopea* (waratah),
  *Xylomelum* (woody pear).
 
  **LEGUME** - product of a single superior carpel containing many seeds
@@ -2609,9 +2606,9 @@ enlarged enclosing receptacle forms the flesh of the fruit.  Pomes, and berries 
 
 ###Aggregate Fruits
 
-An aggregate fruit is  derived from many free carpels of a *single* flower, the
- carpels held together by a persistent floral receptacle which itself
- may be elaborated to form a substantial accessory part of the fruit)
+An aggregate fruit is  derived from many free carpels of a *single* flower; the carpels are not joined together, i.e. each pistil contains one carpel.  Often the
+ carpels are held together by a persistent floral receptacle which itself
+ may be elaborated to form a substantial accessory part of the fruit.
 
 1. *Receptacle tissue not fleshy*, e.g. *Rubus* (raspberry, blackberry)
 where the individual fruits are small drupes borne on a non-succulent
