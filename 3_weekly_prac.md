@@ -628,7 +628,7 @@ is the spongy mesophyll of many leaves.
 
 Draw a small (no more than 5) group of sclereids accurately.
 
-\vspace*{6\baselineskip}
+\vspace*{10\baselineskip}
 
 
 
@@ -1252,8 +1252,7 @@ leaves we looked at today?
 
 \vspace*{3\baselineskip}
 
--Why might this leaf form be an advantage for
-Eucalypts?
+- Why might this leaf form be an advantage for eucalypts?
 
 \vspace*{3\baselineskip}
 
@@ -1609,9 +1608,9 @@ families at the end of the manual.**
 \newpage
 
 
-#Prac 7: Vascular Tissue, Stem Structure and Secondary Thickening **
+#Prac 7: Vascular Tissue, Stem Structure and Secondary Thickening
 
-## VASCULAR TISSUE
+## Vascular Tissue
 
 References : Raven et al. (2013) ch 25-26
 
@@ -1630,7 +1629,7 @@ The purpose of today's lab is to demonstrate the features of the types
 of cells that are found in xylem and phloem, so that these may be
 considered in relation to their role in transport.
 
-### VASCULAR CELLS AND TISSUE
+### Vascular Cells And Tissue
 
 *Xylem tissue comprise the following:* 
 
@@ -1675,7 +1674,7 @@ imperforate cell while the end walls of vessel elements are perforated.
 
 ### Vessel elements
 
- *Petiole of *Apium graveolens**
+ **Petiole of *Apium graveolens***
 
  Cut both longitudinal and transverse sections (T.S.) of celery
  petiole, stain with toluidine blue and mount in 50% glycerol. Make
@@ -1696,7 +1695,7 @@ imperforate cell while the end walls of vessel elements are perforated.
 
 3. tracheids? when seen in T.S.
 
- ### *L.S. and T.S. of stem of *Cucurbita* sp.*
+ ### L.S. and T.S. of stem of *Cucurbita* sp.
 
  Examine xylem tissue in prepared slides of R.L.S. (G11/2) and T.S.
  (G11/1) sections of *Cucurbita* stem.
@@ -1706,7 +1705,7 @@ imperforate cell while the end walls of vessel elements are perforated.
 
  Fresh material is also available for hand cut sections.
 
-###  **Tracheids**
+###  Tracheids
 
  Tracheids are the only xylem element found in conifer woods. These are
  elongated, tapered, thick-walled cells.
@@ -1749,7 +1748,7 @@ these secondary tissues include **rays** that facilitate radial
 transport and which are also formed by divisions of the vascular
 cambium.
 
-###  ***Secondary growth in herbaceous plants***
+###  Secondary growth in herbaceous plants
 
 Many herbaceous plants have a limited amount of secondary growth in the
 older and slightly woody parts of the plant. A study of *Coleus* will
@@ -1805,7 +1804,7 @@ Draw a high power drawing of 2-3 cells from the interfascicular
 
   \vspace*{6\baselineskip}
 
-### *Secondary growth in woody plants***
+### Secondary growth in woody plants
 
 Activity of the cambium enables long life, by renewal of vascular
 tissue, as well as increase in size of the plant, by strengthening the
@@ -1921,14 +1920,14 @@ the vascular cambium and the cork cambia.
  
  \vspace*{3\baselineskip}
 
- secondary phloem - a band of living phloem cells (*sieve tubes* and
- *companion* *cells*, phloem parenchyma and scattered phloem fibres
+ **Secondary phloem** - a band of living phloem cells (*sieve tubes* and
+ *companion cells*, phloem parenchyma and scattered phloem fibres
  with thick, red-stained walls).
 
- primary phloem - the outermost area of phloem not noticeably
+ **primary phloem** - the outermost area of phloem not noticeably
  demarcated from secondary phloem.
 
- pericyclic fibre bundles - these are now much more widely separated than when first
+ **pericyclic fibre bundles** - these are now much more widely separated than when first
  formed in the young stem, since they are being pushed out onto a wider
  circumference by the secondary tissues formed inside them. Note how
  the rays tend to widen as they pass out through the phloem. primary cortex. 
@@ -1999,6 +1998,8 @@ the vascular cambium and the cork cambia.
 
  - Are the walls of the ray parenchyma lignified?
 
+\vspace*{3\baselineskip}
+
  All the ray cells contain protoplasts (see also the RLS below). Look for the vessels; these will be seen in side view - look for the
  multiseriate bordered pits. Note how few vessels are visible in one section.
 
@@ -2008,21 +2009,31 @@ the vascular cambium and the cork cambia.
 
  Make drawings or diagrams that will remind you of these features.
 
-\vspace*{6\baselineskip}
+\vspace*{8\baselineskip}
 
-  Now re-examine the *Casuarina* wood blocks. 
   
-  - Are the rays visible to
- the naked eye?
+  
+  - Now re-examine the *Casuarina* wood blocks. Are the rays visible to the naked eye?
+
+ \vspace*{3\baselineskip}
 
   Compare these with blocks of other species in the demonstration. Variation in the size and frequency of rays is responsible for much of
  the difference in the texture and structural features of wood. Variations in the frequencies of the different vertical elements (ie.
  vessels, tracheids, fibres, parenchyma) also contribute.
 
+<!---
+
  Complete the following table after examining the demonstration. The
  features that should be included in the table are lateral strength
  (against bending strains), weight, conductance, porosity, figure,
  straightness of grain.
+
+
+
+
+ \vspace*{3\baselineskip}
+  
+  \rule{\textwidth}{1pt}    
 
  **variation in feature influenced**
 
@@ -2034,13 +2045,13 @@ the vascular cambium and the cork cambia.
 
  development of growth rings
 
- **Fig 8.1** The three dimensional structure of wood illustrating the
- planes of transverse (TS), tangential (TLS) and radial (RLS) sections.
- These are most easily distinguished by the appearance of the rays.
-<!---
-![](media/image16.jpeg)
 -->
-##ARBORESCENCE IN MONOCOTYLEDONOUS PLANTS
+
+![The three dimensional structure of wood illustrating the
+ planes of transverse (TS), tangential (TLS) and radial (RLS) sections.
+ These are most easily distinguished by the appearance of the rays.](3d_wood.png)
+
+##Arborescence in Monocotyledonous Plants
 
 Arborescent plants are those with a tree-like form or ‘habit’.
 Requirements for arborescence are a method of strengthening the stem in
@@ -2062,7 +2073,7 @@ robust stem varies widely between groups.
 In this lab we are examining the mechanisms by which the arborescent
 stem is produced in the Bangalow Palm (*Archontophoenix cunninghamiana)*
 
-1.  Examine the specimen of *Archontophoenix cunninghamiana* on display.
+**Examine the specimen of *Archontophoenix cunninghamiana* on display.**
 
 The young palm has a narrow primary apex which lays down a succession of
 leaves separated by internodes that forms a slender stem. As the palm
@@ -2077,12 +2088,12 @@ lays down very many vascular bundles but only the central ones mature
 immediately. The outer bundles remain immature for years and are
 differentiated over time as required.
 
-  You are provided with sections of parts of young and mature stems of
-    the Bangalow Palm, *Archontophoenix cunninghamiana*. All sections
-    are taken from the same level in the palm, and so will illustrate
-    the developmental changes which occur within an internode from the
-    time it is first exposed beneath the crown of the palm until it has
-    been thickened in the process of *sustained primary growth*.
+You are provided with sections of parts of young and mature stems of
+the Bangalow Palm, *Archontophoenix cunninghamiana*. All sections
+are taken from the same level in the palm, and so will illustrate
+the developmental changes which occur within an internode from the
+time it is first exposed beneath the crown of the palm until it has
+been thickened in the process of *sustained primary growth*.
 
 Working in pairs, examine the 4 sections provided.
 
@@ -2094,8 +2105,7 @@ the stem.
  mature phloem and metaxylem vessels;
     - the compact parenchymatous ground tissue between the bundles.
 
-2. Score the number of vascular bundles in each of **two separate
- fields** under the X10 objective, calculate the average and work this out as bundles per cm$^2$,
+2. Score the number of vascular bundles in each of two separate fields under the X10 objective, calculate the average and work this out as bundles per cm$^2$,
  given that the diameter of the X10 field is 2mm, and the area of a
  circle is $\pi*r^2$.
 
@@ -2105,13 +2115,14 @@ the stem.
     - the matured fibre caps on all bundles;
     - the aerenchymatous ground tissue between the bundles.
 
-Score the number of vascular bundles in each of **two separate
- fields** under the X4 objective, and work out the average number of bundles per cm2. You
+Score the number of vascular bundles in each of two separate fields under the X4 objective, and work out the average number of bundles per cm$^2$. You
  will need to calculate the diameter of the X4 field from the
  measurement given above. 
  
  - Will it be smaller or larger than the X10
  field?
+
+ \vspace*{3\baselineskip}
 
 - Enter results and determine by what factor the volume of tissue in the
 central zone has increased?
@@ -2121,54 +2132,49 @@ central zone has increased?
 The other student should examine young and old sections of the outer
 zone of the stem.
 
-b)  Observe in the young outer zone section –
+Observe in the young outer zone section –
 
- i\) the mature fibre bundles already developed at the periphery of the
- stem;
+- the mature fibre bundles already developed at the periphery of the stem;
 
- ii\) the large number of immature vascular bundles in which all cells are
- thin-walled;
+- the large number of immature vascular bundles in which all cells are thin-walled;
 
- iii\) a few large bundles with mature xylem and phloem that connected the
- central vascular bundles with the leaves;
+- a few large bundles with mature xylem and phloem that connected the central vascular bundles with the leaves;
 
- iv\) the parenchymatous ground tissue between the bundles.
+- the parenchymatous ground tissue between the bundles.
 
- Score the number of vascular bundles (mature and immature) in each of
+Score the number of vascular bundles (mature and immature) in each of
  **two separate fields** under X10 and calculate the average and
- transform this to bundles per cm2 (see ‘a’ above).
+ transform this to bundles per cm$^2$ (see ‘a’ above).
 
-b)  Observe in the mature outer zone section –
+Observe in the mature outer zone section –
 
- i\) the absence of any cambial layer;
+- the absence of any cambial layer;
 
- ii\) the development of large fibre caps on the vascular bundles;
+- the development of large fibre caps on the vascular bundles;
 
- iii\) the mature metaxylem in all bundles;
+- the mature metaxylem in all bundles;
 
- iv\) the nature of the ground tissue between the bundles.
+- the nature of the ground tissue between the bundles.
 
- Score the number of vascular bundles per X4 field for **two such
- fields** and transform
-
- the average to bundles per cm2 (see ‘b’ above).
+Score the number of vascular bundles per X4 field for **two such
+ fields** and transform the average to bundles per cm$^2$ (see ‘b’ above).
 
  Enter results in the individual result sheet provided
 
- - Determine by what factor the volume of tissue has increased in the
+ Determine by what factor the volume of tissue has increased in the
  outer zone?
 
-\vspace*{3\baselineskip}
+\vspace*{6\baselineskip}
 
-- Is there a significantly greater increase in volume in the central
+ Is there a significantly greater increase in volume in the central
  zone during sustained primary growth, or does the tissue increase uniformly across the
  diameter of the stem?
 
 
-\vspace*{3\baselineskip}
+\vspace*{6\baselineskip}
 
  
-##PLANT IDENTIFICATION
+## Plant Identification
 
  Complete the exercise(s) assigned from the plant identification
  section at the end of the manual.
@@ -2208,8 +2214,7 @@ In order to examine allometric relationships, data must be collected
 from plants across a range of sizes. Each group will be responsible for
 collecting data, but we will need data from the entire class.
 
-##  Adaptive responses to the presence of competitors in *Impatiens
-     wallerana*.
+##  Adaptive responses to the presence of competitors in *Impatiens wallerana*.
 
 The capacity to respond to competitors is a key adaptation for most
 plants (plants rarely grow alone). One common adaptation is the
@@ -2254,7 +2259,7 @@ Use different symbols to plot plants from the high and low density
 treatments. Fit a line of best fit (linear or non-linear) through all
 data. 
 
--Is the relationship between leaf mass and stem diameter
+- Is the relationship between leaf mass and stem diameter
 allometric? 
 
 \vspace*{5\baselineskip}
@@ -2400,6 +2405,8 @@ through periods of adverse conditions. In this practical you will look
 at germination in seeds and you are provided with an introduction to
 some of the diversity of fruits found in the Angiosperms.
 
+## Germination
+
  There are two major modes of germination:
 
  1. **Hypogeal**, where the cotyledons remain below the ground and the
@@ -2434,13 +2441,15 @@ Compare the nature and type of food reserves in the following:-
 
  *Amido Black*
 
- Stain freshly cut sections for about 5 minutes. Rinse in distilled
+ - Stain freshly cut sections for about 5 minutes. 
+
+ - Rinse in distilled
  water.
 
- Mount in glycerol
+ - Mount in glycerol
 
- Protein bodies and other protein-containing areas should stain a deep
- blue-black.
+ *Protein bodies and other protein-containing areas should stain a deep
+ blue-black.*
 
  *Toluidine Blue* should be used to stain phosphorus reserves.
 
@@ -2485,9 +2494,7 @@ ovary in which two of the locules have aborted.
 >there are major groupings of genera. This means thousands of kinds, and
 >indeed, several hundred specialised names have already been proposed;
 >the result is another specialist language in the babel of science,
->through which the student must break."
-
->- E.J. Corner 1964 'The Life of Plants'
+>through which the student must break." - E.J. Corner 1964 'The Life of Plants'
 
 The strict definition of a *fruit* would be that it is the product of
 the post-fertilizaton development of a pistil. However, it is more
@@ -2539,12 +2546,12 @@ A simple fruit is derived from the ripening of a simple or compound ovary in a f
  many seeds and splitting down one side of the fruit only - e.g. *Telopea* (waratah),
  *Xylomelum* (woody pear).
 
- **LEGUME** - product of a single superior carpel containing many seeds
+**LEGUME** - product of a single superior carpel containing many seeds
  and splitting at maturity along both sides (along the carpel margins
  and the median-vein). Dehiscence is often explosive, ejecting the
  seeds. This is the characteristic fruit of the Leguminosae (Fabaceae).
 
- **CAPSULE** - fruit developed from a number of fused carpels which
+**CAPSULE** - fruit developed from a number of fused carpels which
  open along a number of
 
  sutures or by pores, e.g. *Eucalyptus.* A **siliqua** is the capsule
@@ -2559,12 +2566,12 @@ A simple fruit is derived from the ripening of a simple or compound ovary in a f
  **cypsela** is an achene derived from an inferior ovary; the term
  appears to be restricted to the Compositae (Asteraceae).
 
- **SAMARA** - a winged achene; the wing is an extension of the pericarp
+**SAMARA** - a winged achene; the wing is an extension of the pericarp
  and presumably assists in dispersal, e.g. *Fraxinus* (ash). The fruit
  of the sycamore often given as an example of a samara is really a
  schizocarp (q.v.).
 
- **CARYOPSIS** - product of a unilocular, superior ovary with one seed,
+**CARYOPSIS** - product of a unilocular, superior ovary with one seed,
  but the wall of the ovary (pericarp) and the seed coat (testa) are
  fused together; characteristic of the family Gramineae.
 
@@ -2604,7 +2611,7 @@ Rosaceae (apples, pears) - the five inferior carpels are free on their
 inner edges (the hole in the core) and their outer walls and the
 enlarged enclosing receptacle forms the flesh of the fruit.  Pomes, and berries in general, are often yummy.
 
-###Aggregate Fruits
+###Aggregate fruits
 
 An aggregate fruit is  derived from many free carpels of a *single* flower; the carpels are not joined together, i.e. each pistil contains one carpel.  Often the
  carpels are held together by a persistent floral receptacle which itself
@@ -2619,7 +2626,7 @@ individual fruits are achenes borne on a succulent receptacle and *Rosa*
 (the rose) where the rosehip consists of achenes enclosed in a fleshy
 cup-shaped receptale (a *hip*).
 
-###MULTIPLE FRUITS
+###Multiple fruits
 
 Multiple fruits are derived from many pistils or carpels of *many individual
 flowers crowded together on the same inflorescence* axis. The
@@ -2632,7 +2639,9 @@ seven capsules. *Ananas* (pineapple) fruit is a number of fused berries
 and the axis of the inflorescence (a spike), the bases of the subtending
 bract and the flower stalks have all become succulent.
 
-**KEY TO FRUITS**
+\newpage
+
+##Key to types of fruit 
 
 1\. Fruit formed from single ovary (which may be syncarpous) of one
 flower . . . . . . 2
@@ -2745,7 +2754,14 @@ et al. 2004):
 
 Many attempts at understanding the diversification of flowering plants have focused on the evolution of key traits. Biotic or animal pollination has been proposed to be a key trait promoting the diversity of flowing plants, probably because this type of reproduction (with some minor exceptions) is unique to angiosperms.
 
- Using animals as a vector for pollen could require the evolution of specialised floral structures. Examine the flowers of the specimens provided representing abiotic and biotic pollination systems and fill in the table on the hand out provided.
+**Net diversification rate is defined as the speciation rate - the extinction rate per unit time.**  This is easiest to think about for **sister taxa**.  Sister taxa are just what they sound like--two
+groups the diverged from each other, with each being the other's closest relative.  Gymnosperms are angiosperms closest relative and vice versa.  The ferns are sister to the seed plants.  Fagales (the oaks) and Cucurbitales (the cucumbers) are sister groups.  However, this gets more complicated as some taxa do not have accepted names.  Rosales is sister to Cucurbitales + Fagales, which is a group that does not have its own name.  
+
+- What is the sister group of Fabales?
+
+\vspace*{3\baselineskip}
+
+Using animals as a vector for pollen could require the evolution of specialised floral structures. Examine the flowers of the specimens provided representing abiotic and biotic pollination systems and fill in the table on the hand out provided.
 
 - How might the flowers you examined maximise reproductive success (i.e.
  maximise the likelihood that pollen will be delivered to a conspecific
@@ -2756,22 +2772,21 @@ Many attempts at understanding the diversification of flowering plants have focu
 - Are the flowers from animal pollinated species more variable than the
  flowers from species pollinated abiotically?
 
- \vspace*{3\baselineskip}
+\vspace*{3\baselineskip}
 
 - Pollination success does not in itself increase the diversification
  rate of a taxa, how could specialised pollination systems increase
  diversity?
 
- \vspace*{3\baselineskip}
+\vspace*{3\baselineskip}
 
- Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families
- of flowering plants. Fig 4.1 is a phylogeny of flowering plants (a
- tree showing how flowering plant families are related to one another).
+Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families  of flowering plants. The figure shows a phylogeny of flowering plants (a
+ tree showing how flowering plant orders are related to one another).
  In addition, we have data on the diversity of flowering plant families
  and their main mode of pollination, dispersal mode, and life histories
  (Table 4.1).
 
- Using these data, we can ask some interesting and advanced questions
+Using these data, we can ask some interesting and advanced questions
  about the evolution of biological diversity. Closely related or sister
  families on a phylogeny can be compared to test if evolutionary events
  are correlated. For example, if one family evolves animal pollination,
@@ -2779,11 +2794,6 @@ Many attempts at understanding the diversification of flowering plants have focu
  (i.e. the number of species). Using a number of similar sister family
  comparisons, we can take the difference in species numbers from
  families with a biotic versus abiotic pollination.
-
- This is known as the Phylogenetically Independent Contrast method. For
- a variety of biological and statistical reasons, PIC is now the
- standard way for testing for trait relationships across plant and
- animal taxa.
 
  Using the data from table 4.1, find the families on the phylogeny (fig
  4.1) and answer the following questions:
@@ -2813,12 +2823,12 @@ Many attempts at understanding the diversification of flowering plants have focu
 
 \vspace*{3\baselineskip}
 
- Can a family have a high diversification rate but low species
+- Can a family have a high diversification rate but low species
  diversity? How?
 
 \vspace*{3\baselineskip}
 
-Table 4.1 – Family diversity, pollination mode, dispersal mode, and life
+**Table 4.1** – Family diversity, pollination mode, dispersal mode, and life
 histories for a subset of the flowering plant families. Data from
 Eriksson and Bremmer (1992) Evolution, 258-266.
 
@@ -2853,8 +2863,6 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
 ![The evolutionary relationships among the orders of vascular plants. From http://www.mobot.org/MOBOT/research/APweb/](tree.png)
 
 
-
-
 ## Plant Identification
 
  Complete the exercises for identifying plant families using the key /
@@ -2863,21 +2871,21 @@ Eriksson and Bremmer (1992) Evolution, 258-266.
 
 \newpage
 
-#Long-term assignments
+# Long-term Assignments
 
-##The Plant Collection
+## The Plant Collection
 
 See details at the end of the lab manual for plant collection
 guidelines. While the collection is not due until week 8, specimens take some time to both dry and identify.  We suggest
 that you begin work on this project as soon as possible.
 
-##Research In Botany
+## Research in Botany
 
 There are three options for this assignment.
 
 1. Write a research proposal (see ideas for topics at the back of the lab manual)
 
-2.  A tree journal.  In this assignment you will take (at least) weekly notes about the morphology and physiology of one tree individual through the term.  This may include photographs, data collection, or written observations.  These observations should be uploaded weekly to moodle.  
+2.  A tree journal.  In this assignment you will take (at least) weekly notes about the morphology and physiology of one tree individual through the term.  This may include photographs and data collection, and need to include written observations.  These observations should be uploaded weekly to moodle.  
 
 3.  A 3--minute video (groups of up to two) about a cool species from your collection or about some cool area of plant biology you want to explain to a general audience.  
 
@@ -2886,11 +2894,11 @@ For the tree journal you should find the tree that your will take repeated obser
 
 The one-page proposal is assessed, and we will give you feedback on the ideas.
 
-###Start both of these assignments early!!!
+### Start both of these assignments early!!!
 
 \newpage
 
-#Plant Collection Guidelines
+# Plant Collection Guidelines
 
 As part of this course, you will be required to produce a small
 herbarium style plant collection. Plant collections are used by
@@ -2908,7 +2916,7 @@ donate your specimens to our herbarium. Your specimens will either be
 incorporated into our collection or donated to other local or
 international herbaria.
 
-## Rules:
+### Rules
 
 There are a number of rules which apply to making a plant collection.
 Without a license, it is illegal (with potentially large fines) to
@@ -2932,17 +2940,11 @@ accepted.
 
 3.  Your specimens should include at least one specimen displaying:
     -   An inferior ovary
-
     -   A superior ovary
-
     -   Compound leaves
-
     -   Bilaterally symmetrical flowers
-
     -   Radially symmetrical flowers
-
     -   Cladodes
-
     -   Stipules
 
 4.  **Collect native or naturalised plants**. Horticultural plants are
@@ -2952,16 +2954,17 @@ accepted.
     put there by people; **Do** collect plants (such as weeds) that
     arrived there on their own.
 
-### Collecting instructions:*
+### Collecting Instructions
 
 1.  Bring a note book, a pair of clippers, plant tags, and a large
-    plastic bag with you when collecting.
+    plastic bag with you when collecting.  Optional: a GPS or smart phone that includes a GPS.  
 
 2.  When you find a plant you wish to collect, make careful note of the
-    habitat (e.g. woodland, park, grassy field, rock outcrop, etc) the
-    location (where possible give the names of roads, pathways, parks,
-    and neighbourhoods. This information will allow another scientist to
-    find the population), growth habit of the plant (tree, shrub, vine,
+    habitat (e.g. woodland, park, grassy field, rock outcrop, etc), and the
+    location.  The location may be either the latitude and longitude from a GPS or 
+     the names of nearby oads, pathways, parks,
+    and neighbourhoods. This information should allow another scientist to
+    find the population as easily as possible.  Also include the growth habit of the plant (tree, shrub, vine,
     herb, etc.), plant height (approximately), and the approximate size
     of the population.
 
@@ -2996,7 +2999,7 @@ accepted.
 8.  Submit a spreadsheet documenting the distribution of character
     states amongst the specimens
 
-###Here’s what we will be marking:
+Here’s what we will be marking:
 
 1.  Complete and correct identification. This includes family name,
     genus, specific epithet and authority. Common names are not
@@ -3023,9 +3026,7 @@ accepted.
 
 \newpage
 
-**Research in Botany project**
-
-*\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_***
+# Research in Botany project
 
 When not teaching courses, academics and research scientists spend a
 great deal of time writing grant applications to agencies that support
@@ -3118,7 +3119,7 @@ above.
 
 ***Potential projects will be posted on Moodle in week 1 or 2.***
 
-# PRACTICAL REQUIREMENTS
+# Practical Skills
 
 Practical work is an important component of this course. Apart from
 illustrating lecture material, it should teach you:
@@ -3131,7 +3132,7 @@ illustrating lecture material, it should teach you:
  others; observations must be clearly recorded so that they can be communicated
  to those who have not themselves examined the material.
 
-# Special Skill: Cutting and Staining
+## Special Skill: Cutting and Staining
 
 *GENERAL*
 
@@ -3153,7 +3154,7 @@ and embedding matrix are sectioned together and the extra support allows
 thinner sections to be cut, resulting in better resolution of tissue
 structure.
 
-## SECTIONING BY HAND*
+### Sectioning By Hand
 
 You will require:
 
@@ -3175,7 +3176,7 @@ the Petri dish.
 
 **Do not let the material dry out at any stage.**
 
-### STAINING SCHEDULES*
+### Staining Schedules
 
 Place the staining solution in a watch glass. Prepare a second watch
 glass about 2/3 full of distilled water ready for rinsing. After
@@ -3189,7 +3190,7 @@ accidental staining please wipe up any spills immediately.**
 
 Schedules for the stains you will use are outlined below.
 
-### MOUNTING SECTIONS
+### Mounting Sections
 
 Always place a cover-slip over the section before examining it under the
 microscope. Sections can be mounted either in water or 50% glycerol. The
@@ -3202,7 +3203,7 @@ the cover-slip and allowing the liquid to flow under the cover-slip.
 (Plastic-embedded sections are often mounted in oil or other non-aqueous
 media, rather than water: this gives improved resolution.)
 
-### STAINING SCHEDULES
+### Staining Schedules
 
 - *Toluidine Blue*** (MULTIPLE STAIN).
 
@@ -3214,7 +3215,7 @@ Toluidine Blue is a very important dye that distinguishes lignified
 
 More detailed staining reactions are given below:
 
-### CELL CHEMICAL GROUP THAT STAINING STRUCTURE REACTS COLOUR
+### Cell Chemical Group That Staining Structure Reacts With Colour
 
 1.  cytoplasm (phosphate groups in nucleic acids) purple
 
@@ -3226,7 +3227,7 @@ More detailed staining reactions are given below:
 
 2.  some vacuoles (phenols) deep dark blue
 
-### STAINING SCHEDULE:
+### Staining Schedule
 
 1. Wash section in distilled water (5 min.).
 
@@ -3267,9 +3268,9 @@ them to come in contact with your skin.
 
 # Light Microscopy
 
-### OLYMPUS MICROSCOPE
+### Olympus Microscope
 
-### Operating procedure
+**Operating procedure**
 
 1. Place the microscope in a comfortable position on the bench.
 
@@ -3346,7 +3347,7 @@ iris impinges on the exit pupil by about 1/3. This should always be done
 when objectives are changed.
 
 
-### DO'S AND DON'TS
+### Dos and don'ts
 
 1. If lenses are dirty you may clean them, but only with either a blower
 brush or a fresh piece of lens tissue - NOT KLEENEX. (Xylene, alcohol or
@@ -3378,7 +3379,7 @@ the microscope.
 The value of the micrometer eyepiece changes as the magnification
 changes and it should be calibrated for each objective with a stage
 micrometer. The stage micrometer scale is usually 1.0 mm long,
-subdivided into 100 $\times$ .01 mm (10 µm) divisions. To calibrate the
+subdivided into 100 X .01 mm (10 µm) divisions. To calibrate the
 eyepiece micrometer you need to determine the number of divisions on the
 stage micrometer that corresponds to a chosen number of divisions of the
 eyepiece micrometer.
@@ -3391,9 +3392,7 @@ determined.
 V is the value of each stage micrometer unit (usually 0.01 mm).
 
 S & E are the numbers of units on the stage and eyepiece micrometers,
-respectively, that
-
-correspond.
+respectively, that correspond.
 
 Once the value of M has been determined for a particular magnification,
 the eyepiece micrometer may then be used in the same way as a ruler.
@@ -3515,7 +3514,7 @@ include too many notes in the labels.
 **NB.** The key characters for recognising the family are underlined in
 these notes.
 
-##Family MYRTACEAE*** - The Eucalypt family.
+## Family Myrtaceae - The Eucalypt family.
 
 A family of about 120 genera and 3,200 species (ranks 11th amongst the
 Angiosperms in number of species). It is worldwide in distribution, but
@@ -3569,7 +3568,7 @@ have phloem on both sides of the xylem.*
 
 - *Callistemon* R. Br. (Bottlebrushes - stamens free), with woody capsules.
 
-### **ID Excercises**
+### ID Excercises
 
 1. Examine the leaves from one of the specimens provided. Are they simple
  or compound? Is the leaf margin toothed or entire? Take a leaf, hold
@@ -3621,7 +3620,7 @@ dispersed **or**  fleshy and coloured (eg., pink or white). Remove the flesh. Is
  rainforest species have this type of fruit. Opposite leaves are common
  in these species, also.
 
-## Family RUTACEAE - The Citrus family.
+## Family Rutaceae - the Citrus family.
 
 The family includes 150 genera and 1,600 species, of which 40 genera and
 335 species occur in Australia.
@@ -3654,58 +3653,51 @@ Important genera in Australia:
 - *Zieria* Sm. (25 species - flowers tetramerous with only one whorl of stamens).
 
 ###ID Exercises
->
-> Examine the leaves on the range of specimens provided. Do any have
-> compound leaves? Do they have serrate margins. Hold a leaf of each up
-> and look through it with a hand lens against the light (window). Are
-> translucent oil glands visible? Look from both surfaces. The family
-> may have simple or compound leaves (cf. Myrtaceae), and are
-> characterised by **oil glands** in the mesophyll (and flowers). Can
-> you detect a distinctive aroma from a crushed leaf? Recall the strong
-> smell of orange and lemon peel.
 
-a)  Examine a flower, and note the radial symmetry.
 
-b\) How many stamens are present? Check more than one flower. Is there a
-constant
+ Examine the leaves on the range of specimens provided. Do any have
+ compound leaves? Do they have serrate margins. Hold a leaf of each up
+ and look through it with a hand lens against the light (window). Are
+ translucent oil glands visible? Look from both surfaces. The family
+ may have simple or compound leaves (cf. Myrtaceae), and are
+ characterised by **oil glands** in the mesophyll (and flowers). Can
+ you detect a distinctive aroma from a crushed leaf? Recall the strong
+ smell of orange and lemon peel.
 
-number or does it vary? Does the number relate simply to the number of
+Examine a flower, and note the radial symmetry.
+
+- How many stamens are present? Check more than one flower. Is there a
+constant number or does it vary? Does the number relate simply to the number of
 petals? Is it equal to or twice the number of petals?
 
-c\) Is the ovary superior or inferior? Examine how the style attaches to
-the ovary. Does it
-
-arise out of the summit, or from a central depression, or from between
+- Is the ovary superior or inferior? Examine how the style attaches to
+the ovary. Does it arise out of the summit, or from a central depression, or from between
 lobes on the top of the ovary? The last two attachments are often
 referred to as ‘**gynobasic**’ (the style arising from the base of the
 ovary).
 
-d\) Look for a swollen ring of glandular tissue between the stamens and
-the base of the
-
-ovary, or lobes of such tissue. This is the **nectary**, which serves to
+- Look for a swollen ring of glandular tissue between the stamens and
+the base of the ovary, or lobes of such tissue. This is the **nectary**, which serves to
 attract the pollinating animals. A ‘**nectariferous disc**’ is a feature
 of most members of the family.
 
-e\) Cut a TS of the ovary, or preferably a young fruit. Note the number
-of locules and
-
-the axile placentation. The fruits may be capsules (dry fruits that
+- Cut a TS of the ovary, or preferably a young fruit. Note the number
+of locules and the axile placentation. The fruits may be capsules (dry fruits that
 split to release the seeds), or fleshy berries (small oranges?). To
 which part of the fruit does the fleshy segment of an orange correspond?
 
-f\) Check the distinguishing features of the family illustrated above
-with the notes on
-
-the Rutaceae under Family Descriptions. The key characters for
+- Check the distinguishing features of the family illustrated above
+with the notes on the Rutaceae under Family Descriptions. The key characters for
 identifying the family are underlined. Which features distinguish the
 Rutaceae from the Myrtaceae?
 
-## Faboideae: a subfamily of Fabaceae, the pea family
+## Subfamily Faboideae: a subfamily within Fabaceae
 
 ### (alternate name Papilionoideae) 
 
 500 genera, 12,000 species, worldwide in distribution.  59 m.y.o. (Lavin et al. 2005)
+
+The alternative name Leguminosae is sometimes also applied to the Fabaceae. This traditional name is unusal because it is based on a morphological feature, the legume or pod, instead of a type genus.  The name Fabaceae conforms to modern practices becasue it is based on a genus, *Faba*.
 
 Habit: very variable, from trees to herbs and climbers.
 
@@ -3734,42 +3726,41 @@ Their seed protein contains the amino acid lysine, essential for human
 nutrition but absent from all other plant proteins; they are therefore
 important components of vegetarian diets.
 
-### **ID Excercises**
+### ID Excercises
 
 Examine the floral morphology of the specimen(s) provided.
 
-a\) Note that the flower is strongly zygomorphic (bilaterally
+- Note that the flower is strongly zygomorphic (bilaterally
 symmetrical).
 
-b\) Is there a distinct calyx and corolla?
+- Is there a distinct calyx and corolla?
 
-> How many parts are in each of these whorls? Are any or all the parts
-> in either whorl fused (connate)? When parts are connate, look for the
-> mid-veins as a clue to how many parts are present. Note that the
-> members of one whorl may be very different from each other.
+- How many parts are in each of these whorls? Are any or all the parts
+ in either whorl fused (connate)? When parts are connate, look for the
+ mid-veins as a clue to how many parts are present. Note that the
+ members of one whorl may be very different from each other.
 
-c\) Are the stamens free (separate from each other) or connate or a
+- Are the stamens free (separate from each other) or connate or a
 combination of the two?
 
-> d\) Note the single long curved style. Look for developing fruits in
-> which to work out the structure of the ovary, since the unfertilised
-> ovary is too small.
->
-> Is the ovary superior or inferior (look for position of sepal remains
-> on the fruit)? How are the ovules arranged within the locule?
->
-> Does the mature fruit split along one seam only so that the ovary
-> opens like a book, or along two seams so that the ovary separates into
-> halves? This type of fruit is a pod or *legume*.
->
-> e\) Construct a floral formula for the specimen, and then draw a floral
-> diagram.
->
-> f\) Is the inflorescence anthotelic or blastotelic?
->
-> Which subtype in Fig 2.9, Lab 2 best fits the branching pattern?
+- Note the single long curved style. Look for developing fruits in
+ which to work out the structure of the ovary, since the unfertilised
+ ovary is too small.
 
-## Mimosoideae, subfamily of Fabaceae, the pea family
+- Is the ovary superior or inferior (look for position of sepal remains
+ on the fruit)? How are the ovules arranged within the locule?
+
+- Does the mature fruit split along one seam only so that the ovary
+ opens like a book, or along two seams so that the ovary separates into
+ halves? This type of fruit is a pod or *legume*.
+
+- Construct a floral formula for the specimen, and then draw a floral
+ diagram.
+
+- Is the inflorescence anthotelic or blastotelic?
+
+
+## Subfamily Mimosoideae, within Fabaceae
 
 ### The wattle subfamily
 
@@ -3781,9 +3772,7 @@ Leaves: alternate, *bipinnate*, but often reduced to a *simple phyllode*
 in the adult, and often bearing *one or more nectaries on the petiole
 and rachis* (midrib of a compound leaf).
 
-Inflorescence:
-
-crowded spikes or heads, often arranged in compound inflorescences.
+Inflorescence: crowded spikes or heads, often arranged in compound inflorescences.
 
 Flowers: small, actinomorphic; calyx and corolla 4 or 5, inconspicuous;
 stamens long, numerous and showy; carpel 1; ovary superior with marginal
@@ -3808,34 +3797,25 @@ belongs to the family **Mimosaceae** (see note (e) below).
 
 Examine the flowers.
 
-a\) Can you distinguish a calyx and corolla?
+- Can you distinguish a calyx and corolla?
 
-b\) Is the flower zygomorphic or actinomorphic?
+- Is the flower zygomorphic or actinomorphic?
 
-> c\) Note the large and indeterminate number of stamens, and look for the
-> single style. The fruit is a legume or pod, as in the Fabaceae.
+- Note the large and indeterminate number of stamens, and look for the single style. The fruit is a legume or pod, as in the Fabaceae.
 
-d\) What terms would you use to describe the inflorescence ?
-
-e.  Some botanists prefer to combine the Fabaceae and the Mimosaceae in
-    a single family. How would you determine which of the available
-    names to apply to the combined family? The alternative name
-    Leguminosae is sometimes also applied to it. What is unusual about
-    this name?
+- What terms would you use to describe the inflorescence ?
 
 ## Family Asteraceae, the Daisy family
 ### (Alternative name Compositae)
 
 1535 genera, 23,000 species; the largest family of dicotyledons; the
 family and many of the genera and even some species distributed
-worldwide, mainly in open communities.
+worldwide, mainly in open communities.  A relatively young family, Asteraceae probably has the highest rate of net diversification among all angiosperm families.  
 
 Habit: mostly herbs, often annuals (many desert ephemerals), a few
-shrubs and trees.
+shrubs and trees.  Often in arid or semi-arid environments.
 
-Inflorescence:
-
-a *capitulum* - a cluster of small sessile flowers seated on an expanded
+Inflorescence: a *capitulum* - a cluster of small sessile flowers seated on an expanded
 convex stem apex and surrounded by bracts (the *involucre*).
 
 Flowers: calyx either reduced to a ring of scales or hairs, or absent;
@@ -3881,43 +3861,38 @@ Examine the specimen(s) provided. There are clusters of tiny flowers
 (florets) surrounded by a series of bracts; which may be mistaken for a
 single flower. Such a cluster is called a *capitulum* .
 
-> a\) Dissect apart some flowers from the centre of a capitulum. Is each
-> flower subtended by a membranous scale or leaf, or does it arise on the
-> receptacle without an associated leaf?
+1. Dissect apart some flowers from the centre of a capitulum. Is each
+ flower subtended by a membranous scale or leaf, or does it arise on the
+ receptacle without an associated leaf?
 
-b\) Look for the calyx and corolla; the former may be present as branched
-or unbranched hairs, or may be totally absent.
-
-The petals are fused to form a tube.
-
+2. Look for the calyx and corolla; the former may be present as branched
+or unbranched hairs, or may be totally absent. The petals are fused to form a tube.
 How many lobes are there around the mouth of the tube? This indicates
 the number of petals in the flower.
 
-c\) The stamens are borne on the inside of the corolla tube
-(*epipetalous)*, and the anthers are themselves fused into a tube around
-the style.
+3. The stamens are borne on the inside of the corolla tube (*epipetalous)*, and the anthers are themselves fused into a tube around the style.
 
-How many stamens are there?
+4. How many stamens are there?
 
-Does this equal the number of petals?
+5. Does this equal the number of petals?
 
-d\) Look for a flower in which the stigma is projecting, and note how
+6. Look for a flower in which the stigma is projecting, and note how
 many stigmatic branches there are - this may not reflect the number of
 locules present in the ovary, of course.
 
-e\) Is the ovary inferior or superior?
+7. Is the ovary inferior or superior?
 
-f\) The fruits are small and indehiscent, and mostly dispersed by wind or
+8. The fruits are small and indehiscent, and mostly dispersed by wind or
 animal vectors.
 
-Examine the fruits, noting any mechanism or structure that might aid
+9. Examine the fruits, noting any mechanism or structure that might aid
 dispersal.
 
-g\) Construct a floral diagram and a floral formula for the flower.
+10. Construct a floral diagram and a floral formula for the flower.
 
-h\) Now examine the flowers (florets) at the outer edge of the capitulum.
+11. Now examine the flowers (florets) at the outer edge of the capitulum.
 
-What (if any) differences exist between the central and marginal
+12. What (if any) differences exist between the central and marginal
 flowers? Construct a floral formula for the marginal floret.
 
 ## Family Proteaceae, the Waratah family
@@ -4002,17 +3977,16 @@ c\) How are the stamens positioned in relation to the perianth?
 d\) There is only one carpel in each flower. Examine developing fruits
  and determine whether the ovary is inferior or superior?
 
-## Ericaceae, the heath family
+## Family Ericaceae, the heaths 
 
 **Formerly the southern hemisphere heaths were included in the family "Epacridaceae"; molecular evidence disproved the existence of Epacridaceae as a real evolutionary group and the southern heaths are now considered to be part of a globally distributed family, Ericaceae**
 
-A large globally distributed family with 126 genera and 4000 species. Boreal to warm temperate, also montane tropics, very rare in lowland tropics.  The species are mainly in wet and dry heathlands and are common
-on the sandstone around Sydney and in the Blue Mountains. They are known
+A large globally distributed family with 126 genera and 4000 species. Boreal to warm temperate, also montane tropics, very rare in lowland tropics.  The species are mainly in wet and dry heathlands and are common on the sandstone around Sydney and in the Blue Mountains. They are known
 as Native Heaths.
 
-Habit: Typically *woody* small under-shrubs or small trees.
+Habit: Typically *woody* small under-shrubs, shrubs, or sometimes trees.
 
-Leaves: *usually small and crowded*, alternate, simple, entire,
+Leaves: in Australia *usually small and crowded*, alternate, simple, entire,
 exstipulate with *palmate or longitudinal venation*.
 
 Flowers: *radially symmetrical and pentamerous*, with few to many
@@ -4129,9 +4103,7 @@ dicotyledon families. This skill will be tested in the practical exam. It will f
 avoid having to wade through the family key because you can go directly to the generic key in that
 family.
 
-
-
-# GLOSSARY
+# Glossary
 
 *Abaxial:* the side or face of a lateral organ (leaf or bract) turned
 away from the axis; the lower surface of a leaf
