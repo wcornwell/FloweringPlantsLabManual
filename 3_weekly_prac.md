@@ -2,7 +2,7 @@
 \raggedbottom
 \newpage
 
-# Week 2: Vegetative Morphology & Intro to Keys
+# Week 2: Vegetative Morphology & Keys
 
 ## The Nature Of Leaves
 
@@ -808,16 +808,14 @@ roots.
 
 The practical skills you should aim to perfect in this lab are:
 
-1. recognition of the major cell types in supporting and ground tissue;
+1. recognition of the major cell types in supporting and ground tissue
 
-2. section cutting by hand with a razor blade;
+2. section cutting by hand with a razor blade
 
-3. drawing.
+3. drawing what you see
 
-**Note:** see the introductory notes in the front of this manual.
-
-This practical deals *only* with the cell types found in "ground" and
-supporting tissue. Cells modified for transport are dealt with later.
+This practical deals *only* with the cell types found in supporting tissue. 
+Cells modified for transport are dealt with later in the course.
 
 ##Parenchyma and Collenchyma
 
@@ -831,9 +829,11 @@ section becomes a deep purple with blue areas in the vascular bundles.
 The collenchyma walls now stain purple. Are these walls lignified? What
 colour do lignified walls stain?
 
-Make a high power drawing of three collenchyma cells showing the
-position of wall thickenings and middle lamella. How is a plant cell
-wall deposited?
+**Make a high power drawing of three collenchyma cells showing the
+position of wall thickenings and middle lamella. **
+
+\vspace*{20\baselineskip}
+
 
 Cut an L.S. and stain with toluidine blue and examine. Locate the ends
 of the cells. Make a sketch to illustrate the shape in 3-D of a
@@ -857,6 +857,8 @@ f. appearance of intercellular space
 Make a high power drawing of **3 parenchyma** cells for comparison with
 the collenchyma to illustrate the differences.
 
+\vspace*{20\baselineskip}
+
 ##Aerenchyma and Chlorenchyma
 
 These are two common types of specialised parenchyma.
@@ -869,7 +871,7 @@ The pith of the cladode is filled with *aerenchyma* while the cortex is
 
 - What is the characteristic of chlorenchyma?
 
-\vspace*{3\baselineskip}
+\vspace*{5\baselineskip}
 
 
 
@@ -877,7 +879,7 @@ The pith of the cladode is filled with *aerenchyma* while the cortex is
 - What are the diagnostic features of aerenchyma, with respect to wall
 thickness and staining, cell contents and cell shape?
 
-\vspace*{3\baselineskip}
+\vspace*{5\baselineskip}
 
 
 
@@ -886,7 +888,7 @@ thickness and staining, cell contents and cell shape?
 Draw a few cells in an accurate, high power diagram and hand in for
 assessment.
 
-\vspace*{6\baselineskip}
+\vspace*{20\baselineskip}
 
 
 
@@ -900,15 +902,11 @@ Why should plants have aerenchyma?
 
 
 
-<!---
+
  ***FEEDBACK***: **You will likely be assessed on biological drawing
  from microscope sections in the practical exam. Hand in your drawing
  of the *Juncus* cladode and we will provide feedback. A submission of
  this drawing will count towards your participation mark.**
--->
-
-The classic example of tissue that is both chlorenchyma and aerenchyma
-is the spongy mesophyll of many leaves.
 
 ## Sclerenchyma
 
@@ -1137,9 +1135,15 @@ precise function of companion cells is controversial.
 
 See Raven Ch 23 for more information on plant cells.
 
+\newpage
+
 ![Parenchyma and Collenchyma](parenchyma_and_collenchyma.png)\
 
+\newpage
+
 ![Sclerenchyma and Xylem](sclerchyma_and_xylem.png)
+
+\newpage
 
 ![Phloem](phloem.png)
 
@@ -1150,18 +1154,33 @@ See Raven Ch 23 for more information on plant cells.
 
 Reference: The Biology of Plants  pp 592-604.
 
-Although leaves are all constructed to a basic plan, they vary greatly
+Leaves are *amazing* inventions.  They perform photosynthesis which is the key to life on land and to the regulation of the earth's atmosphere.  The key trade-off that leaves of land plants must solve is carbon capture via carbon dioxide reaching the chloroplasts versus water loss.   When times are bad, stomata have an amazingly ability to limit the water loss from leaves.  However, different species show different abilities to regulate water loss for a variety of reasons.  
+
+One of these reasons is that even if stomata close as tightly as they can, they still lose a little water.  The other reason is that different species waxy cuticles have different degrees of effectiveness.  Some thick waxy leaves are very good at preventing water loss in adverse conditions.  Other species have thin cuticles that continue to lose water in bad times.  
+
+Essentially, although leaves are all constructed to a basic plan, they vary greatly
 in physiognomy, morphology and internal arrangement of tissues. Syndromes of modifications
 are often correlated with particular environments and are therefore
-interpreted as being of adaptive significance.
+interpreted as being of adaptive significance.  
 
 In this practical we will look at leaves from plants from different
-environments and representing different leaf forms and life histories.
+environments and representing different leaf forms and life histories.  We will also measure the ability of species to restrict water loss in very difficult times.  
 
-Each digital file (save for one) in today’s prac is of transverse leaf sections.
+The first task is to set up the data collection protocol for each group of 4 students.  **YOU WILL NEED TO UPLOAD YOUR DATA ON MOODLE AT THE END OF THE LAB.** So be careful about your record keeping for the lab.  The task is to create a situation in which the leaves 
 
-## ADD OVERVIEW FOR THIS PRAC HERE
+To measure the rate of water loss before and after stomatal closure as a group we will pick 3 leaves from each of our species.  Give each leaf a unique identifier that we will use for record keeping.  We will then dry these leaves in the lab environment, weighing each leaf every five or so minutes on the balance.  Divide up the person responsible for each measurement.  **Record 1) the mass, 2) the time 3) the leaf's unique identifier.  After the stomata completely shut, which takes a few minutes, there should be a linear slope for water loss vs. time and the slope of that line is a measure of rate of water loss based ont the stomatas' ability to limit water loss from the leaf.  Try to predict the difference in slopes for the species that we have today.  
 
+Once you've scheduled your data collection and divided up the task of collecting data among your group.  Figure out when each member of the group can go and examine the digital slides and the plant families.
+
+Remember to:
+
+1) go to the computer room to look at the digital slides (transverse leaf sections) for the lab.  Answer the questions below
+
+2) Look at the unique characters for the families in this week's lab
+
+3) Download the data entry sheet from Moodle; enter the data you've collected into this sheet; upload the completed datasheet on Moodle
+
+4) **Don't leave without uploading your data!**
 
 ## The evolution of specialisation in leaf tissue
 
@@ -1207,20 +1226,24 @@ Leaves are a primary source of water loss in plants. Many Australian
 plants have to deal with regular droughts or consistently arid
 environments. As a consequence, these plants express many adaptations
 limit water loss. Open the images for each of the plants in the table
-below and list the adaptations to limit water loss.
+below and list the adaptations to limit water loss that you can see in the slide.
 
-<!---
-*Student Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
-  **Species**           **Adaptation to limit water loss**
-  --------------------- ------------------------------------
-  *Banksia serrata*     
-  *Correa alba*         
+  *Banksia serrata*   
+
+  \vspace*{3\baselineskip}
+  
+  *Correa alba* 
+  
+  \vspace*{3\baselineskip}        
+  
   *Hakea teretifolia*   
+  
+  \vspace*{3\baselineskip}
+  
   *Atriplex* sp         
--->
-
-
+  
+  \vspace*{3\baselineskip}
 
 \newpage
 
@@ -1591,7 +1614,7 @@ epidermis have expanded?
 
 *Young stem of a woody plant*
 
- You are provided with a transverse section (G35/1) of a first year
+ You are provided with a transverse section of a first year
  stem of *Cinnamomum camphora*. There is already an active vascular
  cambium that has laid down a small amount of secondary xylem (although
  no secondary phloem is yet apparent). The cambium is thin-walled and
@@ -1600,23 +1623,23 @@ epidermis have expanded?
  differences between this stem and the herbaceous stem of *Coleus*
  (above) and *Helianthus* (recall your first year work on Sunflower)?
 
+\newpage
+
  Draw and label a low power diagram to indicate the distribution of
  tissues in the stem.
 
+  \vspace*{25\baselineskip}
+
  Note particularly the following primary tissues or regions:
 
- pith - what types of cells are present?
+- pith - what types of cells are present?
 
-  \vspace*{3\baselineskip}
-
- pericyclic fibres - groups of thick-walled fibres outside the phloem -
+- pericyclic fibres - groups of thick-walled fibres outside the phloem -
  about how many cells separate adjacent fibre bundles?
- 
- \vspace*{3\baselineskip}
 
- cortex - what type(s) of cells are present
+- cortex - what type(s) of cells are present
 
- epidermis - closely fitting epidermal cells with dome–shaped outer
+- epidermis - closely fitting epidermal cells with dome–shaped outer
  walls, carrying a well developed cuticle.
 
  **PLANT IDENTIFICATION**
@@ -2184,14 +2207,14 @@ that you begin work on this project as soon as possible.
 
 There are three options for this assignment.
 
-1. Write a research proposal (see ideas for topics at the back of the lab manual)
+1. Write a research proposal (10 pages see details on this a bit later in the manual)
 
-2.  A species report.  In this assignment you will take (at least) weekly notes about the morphology and physiology of one plant individual through the term.  This may include photographs and data collection, and need to include written observations.  These observations should be uploaded weekly to moodle.  This will be supplemented with an ecological and conservation report on your species.  
+2.  A species report (10 pages see details on this a bit later in the manual).  
 
-3.  A 3--minute video (groups of up to two) about a cool species from your collection or about some cool area of plant biology you want to explain in a visually engaging way to a general audience.  
+3.  A roughly 3--minute video (groups of up to two) about a cool species from your collection or about some cool area of plant biology you want to explain in a visually engaging way to a general audience.  
 
-For all projects a one-page proposal is due at the last lecture of week 3.  This is simply a plan for what you are going to work on.    For the research proposal identify the topic.  
-For the tree journal you should find the tree that your will take repeated observations at, and have already identified it.  For the video project you should have a rough outline of the idea for the video and why it will be super cool.
+For all Research in Botany projects a one-page proposal is due at the last lecture of week 3.  This is simply a plan for what you are going to work on, but it should be well written and clearly communicate your idea.    For the research proposal identify the topic.  
+For the species report you should find the plant that your will take repeated observations at, and have already identified it.  Explain why this individual and this species are worthy of such detailed attention.  For the video project you should have a rough outline of the idea for the video and why it will be super cool.
 
 The one-page proposal is assessed, so prepare it professionally.  We will both mark and give you feedback on the ideas.
 
@@ -2211,7 +2234,7 @@ studies, and a source of morphological and architectural data for
 regional and global comparative studies. The School of BEES has a
 herbarium consisting of about 50 000 preserved specimens and other
 botanical resources on the fourth floor
-(http://www.bees.unsw.edu.au/research/facilities/herbarium). After the
+[http://www.bees.unsw.edu.au/research/facilities/herbarium](http://www.bees.unsw.edu.au/research/facilities/herbarium). After the
 course is completed, you may keep your collection or you may choose to
 donate your specimens to our herbarium. Your specimens will either be
 incorporated into our collection or donated to other local or
@@ -2327,7 +2350,11 @@ Here’s what we will be marking:
 
 \newpage
 
-# Research in Botany project
+# Research in Botany Project
+
+###Goal: build your skills in conducting research and communicating new ideas
+
+## Option 1: Reseach propoasl
 
 When not teaching courses, academics and research scientists spend a
 great deal of time writing grant applications to agencies that support
@@ -2343,15 +2370,9 @@ the end of session.
 
 ***Project goals*:**
 
-1)  ***To link some of the fundamental topics in botany you are
-    > currently examining in the lectures and practicals with current
-    > and cutting edge research in botany.***
+1)  ***To link some of the fundamental topics in botany you are currently examining in the lectures and practicals with current and cutting edge research in botany.***
 
-2)  ***To expose you to some of the requirements of being a research
-    > scientist.***
-
-3)  ***To build your skills in conducting research and communicating new
-    > ideas***
+2)  ***To expose you to some of the requirements of being a research scientist.***
 
 ***The project***
 
@@ -2369,20 +2390,6 @@ to get you started. You are not limited to these projects, I will be
 happy to work with you to develop a project that interests you. It does
 have to focus, in some way, to research in botany.
 
-Most research projects are developed as a team of researchers. *I
-encourage you to work in a group* – I don’t have an upper limit to the
-number in each research team. In my experience, groups larger than 4
-people start to get unwieldy and ineffective, so try to keep your team
-to 4 or fewer students. You may also work on this project by yourself.
-
-The projects are not limited to a single group. Every group can pick the
-same project if they wish (so long as each group works independently).
-
-Everybody in your research team will receive the same mark.
-
-I will arrange to have group areas included on the flowering plants
-Moodle page.
-
 ***Exploring Scientific Literature***
 
 As part of this project, you will spend some time reading published
@@ -2392,33 +2399,51 @@ for each project, I have selected a small number of articles that will
 introduce you to a topic with (hopefully) a minimum of jargon or
 statistics.
 
-You can find more/related literature from a database on our library
+You can find more/related literature from google scholar or a database on our library
 resource page called web of science (to get to this resource, you can
 follow the ‘sirius’ link to log into your resources area on the library
-page. From there, you can search for ‘web of science’. Web of science
+page. From there, you can search for ‘web of science’). Web of science
 will allow you to conduct general searches for scientific articles using
-search terms (just like google). Once you find an article of interest,
+search terms (just like google). 
+
+Once you find an article of interest,
 you can link to all of the articles citing your article, and all the
 articles your article has cited. You can do a quick and comprehensive
-search for all the literature in a given topic using this tool! *Having
-problems using this database? I will help you.*
+search for all the literature in a given topic using either google scholar or web of science! 
 
-You can also use web searches to explore a given topic. Try to stick to
-trusted areas on the web (e.g. government and university web pages) –
-there are a lot of crackpot ideas out there.
+## Option 2: species report
 
-***Marking the projects***
+This assignment you will take (at least) weekly notes about the morphology and physiology of one plant individual through the term.  This may include photographs and data collection, and need to include written observations.   This will be supplemented with an ecological and conservation report on your species; we will learn skills for doing this type of research in week 9.  The species report should have the following sections: 
 
-Research in Botany is worth 15% of your final mark.
+1) Ecological background of the species, including all of the scientific research that you can find on that species 
 
-1)  Short project summary (at the end of week 5) 3 %
+2) Evolutionary (phylogenetic) history of the species.  What family is it in?  What is known about the distribution, ecology and history of that family?  
 
-2)  Final project submission (at the end of week 11) 12 %
+3) Conservation issues (if any) of the species 
 
-I will be marking these projects based on the project goals listed
-above.
+4) the location of the individual studied. Include a map 
 
-***Potential projects will be posted on Moodle in week 1 or 2.***
+5) Notes from observations of this individual through time, including pictures.  Aim for weekly observations.  Take careful note of the leaf phenology.  Are there leaves being dropped?  Are there new leaves being formed?  When does the species flower?  Are there any signs of flowers through your obsevations?  
+
+## Option 3: Video
+
+A short interesting video.  There is no set format for the video.  We are looking for creative fun ideas, related to plant ecology.  Pitch something fun!  Here are some wild ideas to get your brain thinking:
+
+- Take pictures of every species of Banksia leaves that you can find.  Show the photos in the video about the evolution of leaf shape.
+
+- Find a good place with lots of flowers and pollinators and make a short film about the 
+
+- Make a stop motion animation with drawings and a voice over explaining how plants grow.  
+
+- Pick the coolest plant species you can think of (Sundew, Orchids, Eucalypts, Sea Grass, Rafflesia, etc.).  Explain its ecology in a quick and fun way with visuals
+
+- Make a stop motion animation explaining how plants and fungi form mycorrhizas
+
+- Make a short movie about plant adaptations to fire.  See if you can find a recently burned area to do some shooting on location.  
+
+- Something else cool!
+
+This is the only category where we allow two-person projects.  Someone has to hold the camera...Only requirement is that the video should reference at least one scientfic paper.  
 
 # Practical Skills
 
