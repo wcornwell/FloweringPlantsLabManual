@@ -487,19 +487,51 @@ angiosperms. In addition, we will introduce you to sufficient
 terminology that you can use identification keys based on reproductive
 characters.
 
-Adaptation of floral structure to a wide variety of pollination
-mechanisms has produced a vast array of different flowers. Analysing
-these differences is basic to identification of angiosperms. Since full
-descriptions are difficult to write and tedious to read, and most of us
-are not artistic enough to make accurate drawings of flowers, short-hand
-methods of recording some of the important features have been developed.
+The radiation of floral structure within Angiosperms has lead to a wide variety in both floral structures and inflorescences.
+In part this is due to change evolutionary events and in part it is do to selection pressures that arise from a particular pollination mechanism.  
+Sometimes the pollinators are animals that are evolving themselves, meaning the evolution of floral
+structure can only be understood in the context of *co-evolution*--both the plant and the animal are evolving 
+at the same time and in response to each other.  
+
+The floral diversity in angiosperms is staggering, but with some practice it's also useful---it can be of great assistance in plant identification.
+With a few terms and some practice.  
+
+### Learning flowering plants by family
+
+There are >300,000 Angiosperms and >350,000 vascular plants, so we use families as the *filing cabinet* to put all this diversity in.
+
+Families often (though not always) have defining floral traits, which we will explain in this lab.
+
+For this course you need to be able to identify on sight the following 10 families:  
+
+1. Poaceae 
+
+2. Arecaceae
+
+3. Myrtaceae
+
+4. Rutaceae
+
+5. Fabaceae
+
+6. Asteraceae
+
+7. Proteaceae
+
+8. Ericaceae
+
+9. Araucariaceae (not a flowering plant)
+
+10. Podocarpaceae (not a flowering plant)
+
+We will explain the diagnostic characters for these families throughout the course, but one of the most important are floral characters, the focus of this lab.
+
+Once you learn the theory in this lab, make sure to review the sections on Myrtaceae, Rutaceae, Fabaceae, Asteraceae, Proteaceae and Ericaceae in the back of this manual.
+Note that the characteristics of each family are explaining using floral and inflorescence traits.  
 
 ###Background
 
-Before the class, read the following section on recording floral
-structure and examine the diagrams supplied in this manual.
-
-Make sure you can distinguish between the following sets of terms
+Make sure you know these terms
 (consult the glossary at the back of the manual):
 
 1. determinate and indeterminate growth
@@ -1867,26 +1899,28 @@ Through  recent research, we have come a long way in understanding the evolution
 
 \newpage
 
-## Make sure you know the key terms:  
+### Make sure you know the key terms:  
 
 1. **Most recent common ancester** 
 
 2. **Clade** (a group of organisms that contains all descendents from a common evolutionary ancestor; **taxon** (plural: taxa) is a synonym of clade)
 
-3. **Speciation rate**
+3. **Speciation rate** (units of number of species per million years)
 
-4. **Extinction rate**
+4. **Extinction rate** (units of number of species per million years)
 
-5. **Sister group**--Sister groups or "sister taxa" are just what they sound like--two
+5. **Net diversification rate** (units of number of species gained or lost per million years)
+
+6. **Sister group**--Sister groups or "sister taxa" are just what they sound like--two
 groups the diverged from each other, with each being the other's closest relative.  Gymnosperms are angiosperms closest relative and vice versa.  The ferns are sister to the seed plants.  Fagales (the oak order) and Cucurbitales (the cucumber order) are sister groups.  However, this gets more complicated as some taxa do not have accepted names.  Rosales is sister to Cucurbitales + Fagales, which is a group that does not have its own name.  
 
-6. **Monophyletic** a group of organisms that contains all descendents from a common evolutionary ancestor; primates is one example of a monophyletic group that contains *you*.  If a plant family is found not to be monophyletic, taxonomists break it up to try to create monophyletic plant families.  This is usually why taxonomy changes through time.
+7. **Monophyletic** a group of organisms that contains all descendents from a common evolutionary ancestor; primates is one example of a monophyletic group that contains *you*.  If a plant family is found not to be monophyletic, taxonomists break it up to try to create monophyletic plant families.  This is usually why taxonomy changes through time.
 
-7. **Paraphyletic** (see figure)
+8. **Paraphyletic** (see figure)
 
-8. **Family** in plants these all end in *-aceae*; every family is in an order; in plants families *usually* have diagnostic features
+9. **Family** in plants these all end in *-aceae*; every family is in an order; in plants families *usually* have diagnostic features
 
-9. **Order** in plants these end in *-ales*; unlike families orders are so diverse that there are usually not diagnostic features
+10. **Order** in plants these end in *-ales*; unlike families orders are so diverse that there are usually not diagnostic features
 
 ![A way to talk about phylogenies](monophyly.jpg)
 
@@ -1895,6 +1929,22 @@ groups the diverged from each other, with each being the other's closest relativ
 ![Here is another phylogeny of the angiosperms with specific species at the tips highlighted.  The grey doughnuts each represent 50 Million Years so you can see the scale of plant evolution.  Phylogeny from Werner, Cornwell et al. 2014.](n-fixers.jpg)
 
 \newpage
+
+### Phylogenies can be in different units
+
+There are three key types, so learn to check this when you ``read'' a tree:
+
+1. No units at all.  These are commonly used just to show the shape (ie branching structure) of a tree.  The model organism tree above is like this.
+
+2. Time.  These are called time-trees and have units of (millions of) years.  The Werner et al. tree above is a time-tree.  These are almost always "dated" fixed to certain dates using information from fossils.  
+
+3. Molecular evolution.  In these tree the units are derived directly from the number of changes in the organisms genes.  The Smith et al. 2008 trees are an example.  
+
+![Smith et al. 2008 trees](smith2008.png)
+
+Branching structures represent the flow of more than just evolution.  Any idea or design concept often can be represented using a tree.  Here is a fun example, note that it is also a time-tree, that is the y-axis is in units of years:
+
+![Medieval helmet designs changing through time](helmets.jpg)
 
 ### Three key web resources that curate data on flowering plant diversity:
 
@@ -1908,7 +1958,7 @@ and
 
 The Plant List: (http://www.theplantlist.org/)
 
-### You will now use these two web resources (and anything else you can find on the web) to build a powerpoint slideshow (roughly 5 slides).  
+### You will now use these two web resources (and anything else you can find on the web) to build a powerpoint slideshow (4-6 slides!).  
 
 **Make sure to cite the source for all data in your slideshow**
 
@@ -1939,6 +1989,8 @@ Here are the steps to producing this slideshow:
 12. Place picture of each plant at the "tip" of the phylogeny (ALA or google image)
 
 13. Remember a phylogeny is a representation of history.  How long ago was the most recent common ancester of all the species in your phylogeny?  Place a rough scale bar (in millions of years) on your phylogeny (hint: look for dates/ages on APWeb)
+
+14. Calculate the net diversification rate for your species' family.  This is the total number of species in the family (get the number of "accepted" species from the plant list) divided by the age of the family.  
 
 ### Upload your slideshow on moodle
 
