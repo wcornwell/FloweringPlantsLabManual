@@ -814,8 +814,11 @@ Families).
 
 \newpage
 
+#Week 4: Campus Flora I
 
-#Week 4: Plant Cells
+\newpage
+
+#Week 5: Plant Cells
 
 You should refer to the notes on Light Microscopy and the use of the
 Olympus CHA Microscope which you will find in the manual introduction.
@@ -1182,7 +1185,7 @@ See Raven Ch 23 for more information on plant cells.
 \newpage
 
 
-# Week 5: Leaves and water loss
+# Week 6: Leaves and their control on plant water loss
 
 Reference: The Biology of Plants  pp 592-604.
 
@@ -1279,136 +1282,6 @@ below and list the adaptations to limit water loss that you can see in the slide
 
 \newpage
 
-# Week 6: Root Structure & Function
-
-Reference: Raven Biology of Plants. ch 24.
-
-## Introduction
-
-Plants invest significant carbon captured in
-photosynthesis into their root systems. Roots have four functions:
-
-1. Resources uptake
-
-2. Anchorage
-
-3. Transport
-
-4. Storage
-
-The last three of these functions are always done by the plant itself.  The first one, resource uptake is often done via symbiotic partners.
-
-Although the branching patterns and size of
-roots vary greatly with different species and in different conditions,
-the morphology and anatomy of all root systems is fundamentally similar.
-
-The basic structure of all roots is similar to that of a primary root
-covered in the first year course. We will assume
-that you have remembered this knowledge. Otherwise the reference above
-will help.
-
-Since all roots have an essentially similar plan we will focus mostly on
-root specialisations which enhance root survival and nutrient
-acquisition.
-
-First we will examine how lateral branches are produced. They are
-ENDOGENOUS - that is, in contrast to stems, they are initiated deep
-inside root tissues.
-
-## Root morphology
-
-### The initiation of lateral roots
-
-Lateral roots are initiated early in development in broad beans (*Vicia
-faba*). Cut transverse sections of root tissue through a young emerging
-lateral root and down the root where no lateral root has yet emerged and
-stain with toluidine blue.
-
-- From which tissues are lateral roots initiated?
-
-\vspace*{3\baselineskip}
-
-
-
-- Think about the vascular connections in roots.  Where is the xylem in a root compared to in a stem? 
-
-\vspace*{3\baselineskip}
-
-
-
-
-### When is a root not a root?
-
-<!---
-Can we get a rhizome to look at?
--->
-
- Aerating roots are an example of specialised roots with an atypical resource uptake function. 
- 
- Here we will examine
- the pneumatophores - aerating roots that emerge from the dense, anoxic mud in mangrove
- swamps.
-
- Use the following questions to conduct an investigative exercise into
- the differences between mangrove pneumatophores and a typical primary
- root.
-
-- Is there an obvious root cap?
-
-
-
-\vspace*{3\baselineskip}
-
-
--  What strange thing does the root tip do when it emerges from the mud?
-
-\vspace*{3\baselineskip}
-
-
-
--  What is the primary function of a pneumatophore? What adaptations do
-    pneumatophores have that allow them to carry out this function?
-
-\vspace*{3\baselineskip}
-
-
-
-## Strategies for enhancing Plant Nutrition
-
-###Root nodules: symbiotic fixation of Atmospheric nitrogen
-
- Cut and stain sections of the legume root nodules and also examine the
- demonstration sections. Determine, and make drawings to illustrate,
- the nature and distribution of the micro-organisms involved.
-
- In what ways does infection alter the morphology of the infected root?
- (You will need to compare infected and non-infected roots in each
- case.)
-
-### Proteoid or “Cluster” roots 
-
- Examine the proteoid roots and determine their morphology. 
- 
-
-### Mycorrhizas
-
-There are two types of mycorrhizal associates: ectomycorrhizal fungi and arbuscular mycorrhizal fungi.  Both principally trade the plant P for sugars.  Ectomycorrhizal fungi also can trade N to the plant for sugar.  The fungi involved are called ectomycorrhizal fungi and arbuscular mycorrhizal fungi.  One plant and fungus symbiosis together is called a mycorrhyza (plural: mycorrhizas).
-
-Arbuscular mycorrhizas are found in almost all vascular plants.  They create a structure **inside** a cortical cell to exchange materiel with the plant; these tiny tree-like structures are called arbuscules.
-
-Ectomycorrhizas found in specific families across the plant tree of life, including Myrataceae and Fabaceae.  They create a net-like hyphal structure **outside** the plant root where exchange occurs.
-
-Some species, including Eucalyptus spp., have both types of mycorrhizas.  Examine the fixed material of the *Eucalyptus* roots and identify
-    the characteristic appearance of ectomycorrhizal root systems
-
-
-## Plant Identification
-
-**Complete the exercises for identifying plant families using the key /
-identification and family descriptions of the major Australian plant
-families at the end of the manual.**
-
-\newpage
 
 
 #Week 7:  Stem Structure and Secondary Thickening
@@ -1683,9 +1556,258 @@ epidermis have expanded?
 
 \newpage
 
+# Week 8: Root Structure & Function (or how to make friends with other organisms)
+
+Reference: Raven Biology of Plants. ch 24.
+
+## Introduction
+
+Plants invest significant carbon captured in
+photosynthesis into their root systems. Roots have four functions:
+
+1. Resources uptake
+
+2. Anchorage
+
+3. Transport
+
+4. Storage
+
+The last three of these functions are always done by the plant itself.  The first one, resource uptake is often done via symbiotic partners.
+
+Although the branching patterns and size of
+roots vary greatly with different species and in different conditions,
+the morphology and anatomy of all root systems is fundamentally similar.
+
+The basic structure of all roots is similar to that of a primary root
+covered in the first year course. We will assume
+that you have remembered this knowledge. Otherwise the reference above
+will help.
+
+Since all roots have an essentially similar plan we will focus mostly on
+root specialisations which enhance root survival and nutrient
+acquisition.
+
+First we will examine how lateral branches are produced. They are
+ENDOGENOUS - that is, in contrast to stems, they are initiated deep
+inside root tissues.
+
+## Root morphology
+
+### The initiation of lateral roots
+
+Lateral roots are initiated early in development in broad beans (*Vicia
+faba*). Cut transverse sections of root tissue through a young emerging
+lateral root and down the root where no lateral root has yet emerged and
+stain with toluidine blue.
+
+- From which tissues are lateral roots initiated?
+
+\vspace*{3\baselineskip}
 
 
-# Week 8: Plant Allometry
+
+- Think about the vascular connections in roots.  Where is the xylem in a root compared to in a stem? 
+
+\vspace*{3\baselineskip}
+
+
+
+
+### When is a root not a root?
+
+<!---
+Can we get a rhizome to look at?
+-->
+
+ Aerating roots are an example of specialised roots with an atypical resource uptake function. 
+ 
+ Here we will examine
+ the pneumatophores - aerating roots that emerge from the dense, anoxic mud in mangrove
+ swamps.
+
+ Use the following questions to conduct an investigative exercise into
+ the differences between mangrove pneumatophores and a typical primary
+ root.
+
+- Is there an obvious root cap?
+
+
+
+\vspace*{3\baselineskip}
+
+
+-  What strange thing does the root tip do when it emerges from the mud?
+
+\vspace*{3\baselineskip}
+
+
+
+-  What is the primary function of a pneumatophore? What adaptations do
+    pneumatophores have that allow them to carry out this function?
+
+\vspace*{3\baselineskip}
+
+
+
+## Strategies for enhancing Plant Nutrition
+
+###Root nodules: symbiotic fixation of Atmospheric nitrogen
+
+ Cut and stain sections of the legume root nodules and also examine the
+ demonstration sections. Determine, and make drawings to illustrate,
+ the nature and distribution of the micro-organisms involved.
+
+ In what ways does infection alter the morphology of the infected root?
+ (You will need to compare infected and non-infected roots in each
+ case.)
+
+### Proteoid or “Cluster” roots 
+
+ Examine the proteoid roots and determine their morphology. 
+ 
+
+### Mycorrhizas
+
+There are two types of mycorrhizal associates: ectomycorrhizal fungi and arbuscular mycorrhizal fungi.  Both principally trade the plant P for sugars.  Ectomycorrhizal fungi also can trade N to the plant for sugar.  The fungi involved are called ectomycorrhizal fungi and arbuscular mycorrhizal fungi.  One plant and fungus symbiosis together is called a mycorrhyza (plural: mycorrhizas).
+
+Arbuscular mycorrhizas are found in almost all vascular plants.  They create a structure **inside** a cortical cell to exchange materiel with the plant; these tiny tree-like structures are called arbuscules.
+
+Ectomycorrhizas found in specific families across the plant tree of life, including Myrataceae and Fabaceae.  They create a net-like hyphal structure **outside** the plant root where exchange occurs.
+
+Some species, including Eucalyptus spp., have both types of mycorrhizas.  Examine the fixed material of the *Eucalyptus* roots and identify
+    the characteristic appearance of ectomycorrhizal root systems
+
+
+## Plant Identification
+
+**Complete the exercises for identifying plant families using the key /
+identification and family descriptions of the major Australian plant
+families at the end of the manual.**
+
+\newpage
+
+#Week 9: Flowering Plant Diversity
+
+In this lab, we will be examining the history of plant diversity.  *Phylogenetics* is the study of diversity through time.  In this lab we will do a practical introduction to the basics of phylogenetics and how it relates to what we've been studying this term.  
+
+First some history: seed plants are about 375 Million years old (Silvestro et al. 2015).  The age of angiosperms is a subject of much recent debate but probably the most recent common ancestor of all angiosperms lived between 150 and 200 million years (Stephens 2001).  
+
+The following paragraph is an excerpt from an influential paper (Davies
+et al. 2004):
+
+>“Charles Darwin described the rapid rise and diversification within the angiosperms as an ‘abominable mystery.’ Angiosperms are regarded as one of the greatest terrestrial radiations of recent geological times. The major lineages originated 130-90 million years ago (mya), followed by a dramatic rise to ecological dominance 100-70 mya. Approximately 250000 extant species have been recognised, although estimates vary, and the final number might be double this. Within the group, sister clades can differ in species richness over several orders of magnitude. Darwin attempted to identify a single causal explanation for the rapid diversification of angiosperms but described his own efforts as wretchedly poor.”
+
+Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families  of flowering plants. The figure shows a phylogeny of flowering plants (a
+ tree showing how flowering plant orders are related to one another).
+
+
+![The evolutionary relationships among the orders of vascular plants. From http://www.mobot.org/MOBOT/research/APweb/](tree.png)
+
+\newpage
+
+### Make sure you know the key terms:  
+
+1. **Most recent common ancester** 
+
+2. **Clade** (a group of organisms that contains all descendents from a common evolutionary ancestor; **taxon** (plural: taxa) is a synonym of clade)
+
+3. **Speciation rate** (units of number of species per million years)
+
+4. **Extinction rate** (units of number of species per million years)
+
+5. **Net diversification rate** (units of number of species gained or lost per million years)
+
+6. **Sister group**--Sister groups or "sister taxa" are just what they sound like--two
+groups the diverged from each other, with each being the other's closest relative.  Gymnosperms are angiosperms closest relative and vice versa.  The ferns are sister to the seed plants.  Fagales (the oak order) and Cucurbitales (the cucumber order) are sister groups.  However, this gets more complicated as some taxa do not have accepted names.  Rosales is sister to Cucurbitales + Fagales, which is a group that does not have its own name.  
+
+7. **Monophyletic** a group of organisms that contains all descendents from a common evolutionary ancestor; primates is one example of a monophyletic group that contains *you*.  If a plant family is found not to be monophyletic, taxonomists break it up to try to create monophyletic plant families.  This is usually why taxonomy changes through time.
+
+8. **Paraphyletic** (see figure)
+
+9. **Family** in plants these all end in *-aceae*; every family is in an order; in plants families *usually* have diagnostic features
+
+10. **Order** in plants these end in *-ales*; unlike families orders are so diverse that there are usually not diagnostic features
+
+![A way to talk about phylogenies](monophyly.jpg)
+
+![Here is a phylogeny with the model organisms (usually food plants) highlighted](modeltree3.gif)
+
+![Here is another phylogeny of the angiosperms with specific species at the tips highlighted.  The grey doughnuts each represent 50 Million Years so you can see the scale of plant evolution.  Phylogeny from Werner, Cornwell et al. 2014.](n-fixers.jpg)
+
+\newpage
+
+### Phylogenies can be in different units
+
+There are three key types, so learn to check this when you ``read'' a tree:
+
+1. No units at all.  These are commonly used just to show the shape (ie branching structure) of a tree.  The model organism tree above is like this.
+
+2. Time.  These are called time-trees and have units of (millions of) years.  The Werner et al. tree above is a time-tree.  These are almost always "dated" fixed to certain dates using information from fossils.  
+
+3. Molecular evolution.  In these tree the units are derived directly from the number of changes in the organisms genes.  The Smith et al. 2008 trees are an example.  
+
+![Smith et al. 2008 trees](smith2008.png)
+
+Branching structures represent the flow of more than just evolution.  Any idea or design concept often can be represented using a tree.  Here is a fun example, note that it is also a time-tree, that is the y-axis is in units of years:
+
+![Medieval helmet designs changing through time](helmets.jpg)
+
+### Three key web resources that curate data on flowering plant diversity:
+
+The Atlas of Living Australia:  (http://www.ala.org.au/)
+
+and
+
+The Angiosperm Phylogeny Website: (http://www.mobot.org/MOBOT/research/APweb/)
+
+and 
+
+The Plant List: (http://www.theplantlist.org/)
+
+### You will now use these two web resources (and anything else you can find on the web) to build a powerpoint slideshow (4-6 slides!).  
+
+**Make sure to cite the source for all data in your slideshow**
+
+Here are the steps to producing this slideshow:
+
+1. Find one native plant species that is found close to somewhere you know well, e.g. your home.  Pick a species that you like, since you'll proceed to do some research on it.  Everyone should pick a different species.  Don't pick the same one as your neighbor.   (Include in the slideshow the latitude and longitude of the species observation from ALA).
+
+2. Which state(s) is this species found in (check ALA)?
+
+3. Which family is this species in?
+
+4. Write down the traits of the flower (or plant) that would allow you to tell that the plant is in this family.
+
+5. Which order is this species in? 
+
+6. The number of species in this genus in the world (check the plant list).
+
+7. The number of species in this genus in Australia.
+
+8. The number of species in this family in the world. (Is this family relatively diverse or species poor? Is this number of species relatively high or low?)
+
+9. The number of species in this family in Australia. (Is this family relatively diverse or species poor? Is this number of species relatively high or low?)
+
+10. The sister family(s) of your plant's family (check the phylogenies on APWeb).
+
+11. Modeled on the pictures of phylogenies in the lab, draw a phylogeny (with lines in powerpoint or whatever drawing program you like) that contains your plant species, *Zea mays*, *Solanum tuberosum*, *Eucalyptus regnans*, *Pisum sativum*, and *Pinus radiata*. (Remember phylogenies don't have to contain all the species--it's OK to draw a phylogeny of just a few to show the relationships among those 6 species.)
+
+12. Place picture of each plant at the "tip" of the phylogeny (ALA or google image)
+
+13. Remember a phylogeny is a representation of history.  How long ago was the most recent common ancester of all the species in your phylogeny?  Place a rough scale bar (in millions of years) on your phylogeny (hint: look for dates/ages on APWeb)
+
+14. Calculate the net diversification rate for your species' family.  This is the total number of species in the family (get the number of "accepted" species from the plant list) divided by the age of the family.  
+
+### Upload your slideshow on moodle
+
+ \newpage
+
+# Week 10: Campus Flora II
+
+\newpage
+
+# Week 11: Plant Allometry
 
 Most aspects of plant function are size-dependent. In other words, the
 function of plant traits varies in an exponential fashion with plant (or
@@ -1880,123 +2002,9 @@ develop fruits for agriculture?
 
 \newpage
 
-#Week 9: Flowering Plant Diversity
-
-In this lab, we will be examining the history of plant diversity.  *Phylogenetics* is the study of diversity through time.  In this lab we will do a practical introduction to the basics of phylogenetics and how it relates to what we've been studying this term.  
-
-First some history: seed plants are about 375 Million years old (Silvestro et al. 2015).  The age of angiosperms is a subject of much recent debate but probably the most recent common ancestor of all angiosperms lived between 150 and 200 million years (Stephens 2001).  
-
-The following paragraph is an excerpt from an influential paper (Davies
-et al. 2004):
-
->“Charles Darwin described the rapid rise and diversification within the angiosperms as an ‘abominable mystery.’ Angiosperms are regarded as one of the greatest terrestrial radiations of recent geological times. The major lineages originated 130-90 million years ago (mya), followed by a dramatic rise to ecological dominance 100-70 mya. Approximately 250000 extant species have been recognised, although estimates vary, and the final number might be double this. Within the group, sister clades can differ in species richness over several orders of magnitude. Darwin attempted to identify a single causal explanation for the rapid diversification of angiosperms but described his own efforts as wretchedly poor.”
-
-Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families  of flowering plants. The figure shows a phylogeny of flowering plants (a
- tree showing how flowering plant orders are related to one another).
 
 
-![The evolutionary relationships among the orders of vascular plants. From http://www.mobot.org/MOBOT/research/APweb/](tree.png)
-
-\newpage
-
-### Make sure you know the key terms:  
-
-1. **Most recent common ancester** 
-
-2. **Clade** (a group of organisms that contains all descendents from a common evolutionary ancestor; **taxon** (plural: taxa) is a synonym of clade)
-
-3. **Speciation rate** (units of number of species per million years)
-
-4. **Extinction rate** (units of number of species per million years)
-
-5. **Net diversification rate** (units of number of species gained or lost per million years)
-
-6. **Sister group**--Sister groups or "sister taxa" are just what they sound like--two
-groups the diverged from each other, with each being the other's closest relative.  Gymnosperms are angiosperms closest relative and vice versa.  The ferns are sister to the seed plants.  Fagales (the oak order) and Cucurbitales (the cucumber order) are sister groups.  However, this gets more complicated as some taxa do not have accepted names.  Rosales is sister to Cucurbitales + Fagales, which is a group that does not have its own name.  
-
-7. **Monophyletic** a group of organisms that contains all descendents from a common evolutionary ancestor; primates is one example of a monophyletic group that contains *you*.  If a plant family is found not to be monophyletic, taxonomists break it up to try to create monophyletic plant families.  This is usually why taxonomy changes through time.
-
-8. **Paraphyletic** (see figure)
-
-9. **Family** in plants these all end in *-aceae*; every family is in an order; in plants families *usually* have diagnostic features
-
-10. **Order** in plants these end in *-ales*; unlike families orders are so diverse that there are usually not diagnostic features
-
-![A way to talk about phylogenies](monophyly.jpg)
-
-![Here is a phylogeny with the model organisms (usually food plants) highlighted](modeltree3.gif)
-
-![Here is another phylogeny of the angiosperms with specific species at the tips highlighted.  The grey doughnuts each represent 50 Million Years so you can see the scale of plant evolution.  Phylogeny from Werner, Cornwell et al. 2014.](n-fixers.jpg)
-
-\newpage
-
-### Phylogenies can be in different units
-
-There are three key types, so learn to check this when you ``read'' a tree:
-
-1. No units at all.  These are commonly used just to show the shape (ie branching structure) of a tree.  The model organism tree above is like this.
-
-2. Time.  These are called time-trees and have units of (millions of) years.  The Werner et al. tree above is a time-tree.  These are almost always "dated" fixed to certain dates using information from fossils.  
-
-3. Molecular evolution.  In these tree the units are derived directly from the number of changes in the organisms genes.  The Smith et al. 2008 trees are an example.  
-
-![Smith et al. 2008 trees](smith2008.png)
-
-Branching structures represent the flow of more than just evolution.  Any idea or design concept often can be represented using a tree.  Here is a fun example, note that it is also a time-tree, that is the y-axis is in units of years:
-
-![Medieval helmet designs changing through time](helmets.jpg)
-
-### Three key web resources that curate data on flowering plant diversity:
-
-The Atlas of Living Australia:  (http://www.ala.org.au/)
-
-and
-
-The Angiosperm Phylogeny Website: (http://www.mobot.org/MOBOT/research/APweb/)
-
-and 
-
-The Plant List: (http://www.theplantlist.org/)
-
-### You will now use these two web resources (and anything else you can find on the web) to build a powerpoint slideshow (4-6 slides!).  
-
-**Make sure to cite the source for all data in your slideshow**
-
-Here are the steps to producing this slideshow:
-
-1. Find one native plant species that is found close to somewhere you know well, e.g. your home.  Pick a species that you like, since you'll proceed to do some research on it.  Everyone should pick a different species.  Don't pick the same one as your neighbor.   (Include in the slideshow the latitude and longitude of the species observation from ALA).
-
-2. Which state(s) is this species found in (check ALA)?
-
-3. Which family is this species in?
-
-4. Write down the traits of the flower (or plant) that would allow you to tell that the plant is in this family.
-
-5. Which order is this species in? 
-
-6. The number of species in this genus in the world (check the plant list).
-
-7. The number of species in this genus in Australia.
-
-8. The number of species in this family in the world. (Is this family relatively diverse or species poor? Is this number of species relatively high or low?)
-
-9. The number of species in this family in Australia. (Is this family relatively diverse or species poor? Is this number of species relatively high or low?)
-
-10. The sister family(s) of your plant's family (check the phylogenies on APWeb).
-
-11. Modeled on the pictures of phylogenies in the lab, draw a phylogeny (with lines in powerpoint or whatever drawing program you like) that contains your plant species, *Zea mays*, *Solanum tuberosum*, *Eucalyptus regnans*, *Pisum sativum*, and *Pinus radiata*. (Remember phylogenies don't have to contain all the species--it's OK to draw a phylogeny of just a few to show the relationships among those 6 species.)
-
-12. Place picture of each plant at the "tip" of the phylogeny (ALA or google image)
-
-13. Remember a phylogeny is a representation of history.  How long ago was the most recent common ancester of all the species in your phylogeny?  Place a rough scale bar (in millions of years) on your phylogeny (hint: look for dates/ages on APWeb)
-
-14. Calculate the net diversification rate for your species' family.  This is the total number of species in the family (get the number of "accepted" species from the plant list) divided by the age of the family.  
-
-### Upload your slideshow on moodle
-
- \newpage
-
-# Week 10: Germination, Seeds And Fruits 
+# Week 12: Germination, Seeds And Fruits 
 
 Fruits and seeds play an essential role in the reproduction of most
 plants. As well as being reproductive structures they also have
@@ -2241,13 +2249,7 @@ bract and the flower stalks have all become succulent.
 
 \newpage
 
-# Week 11 + 12: Campus Flora Project
-
-
-
-\newpage
-
-# Long-term Assignments
+# Long-term Assignments: plant collection and plant biography
 
 ## The Plant Collection
 
@@ -2255,26 +2257,7 @@ See details at the end of the lab manual for plant collection
 guidelines. While the collection is not due until week 8, specimens take some time to both dry and identify.  We suggest
 that you begin work on this project as soon as possible.
 
-## Research in Botany
-
-There are three options for this assignment.
-
-1. Write a research proposal (10 pages see details on this a bit later in the manual)
-
-2.  A species report (10 pages see details on this a bit later in the manual).  
-
-3.  A roughly 3--minute video (groups of up to two) about a cool species from your collection or about some cool area of plant biology you want to explain in a visually engaging way to a general audience.  
-
-For all Research in Botany projects a one-page proposal is due at the last lecture of week 3.  This is simply a plan for what you are going to work on, but it should be well written and clearly communicate your idea.    For the research proposal identify the topic.  
-For the species report you should find the plant that your will take repeated observations at, and have already identified it.  Explain why this individual and this species are worthy of such detailed attention.  For the video project you should have a rough outline of the idea for the video and why it will be super cool.
-
-The one-page proposal is assessed, so prepare it professionally.  We will both mark and give you feedback on the ideas.
-
-### Start these assignments early!!!
-
-\newpage
-
-# Plant Collection Guidelines
+### Plant Collection Guidelines
 
 As part of this course, you will be required to produce a small
 herbarium style plant collection. Plant collections are used by
@@ -2402,100 +2385,35 @@ Here’s what we will be marking:
 
 \newpage
 
-# Research in Botany Project
+## Plant Biography Project
 
 ###Goal: build your skills in conducting research and communicating new ideas
 
-## Option 1: Reseach propoasl
+Pick one of the two species from your campus flora assignment and focus on it.  For plant biography projects, a one-page proposal is due at the last lecture of week 3.  This is simply a plan for what you are going to work on, but it should be well written and clearly communicate your idea.    
 
-When not teaching courses, academics and research scientists spend a
-great deal of time writing grant applications to agencies that support
-scientific research (e.g. the Australian Research Council – the ARC).
-Preparing these applications typically involves synthesising some of the
-important literature in the field and proposing the next big important
-step. Any of you who continue with careers in the sciences (academic,
-government, or private sector) will spend a great deal of time writing
-grants similar to what you will do in this project. The format of your
-submission is extremely similar to the format of ARC grant applications
-– most of your lecturers will be writing very similar applications after
-the end of session.
+In addition to the data we'll collect in the labs this project asks you to research that species in more depth.  We are looking for a creative idea about this species report--something, a video, an observation diary, a project--that tells us something new about that species.  
 
-***Project goals*:**
+The one-page proposal is assessed, so prepare it professionally.  We will both mark and give you feedback on the ideas.
 
-1)  ***To link some of the fundamental topics in botany you are currently examining in the lectures and practicals with current and cutting edge research in botany.***
+Here is the minimum that needs to be in the report:
 
-2)  ***To expose you to some of the requirements of being a research scientist.***
+1. Ecological background of the species, including at least one scientific papers you can find on the species (use Google Scholar or Web of Knowledge) 
 
-***The project***
+2. Evolutionary (phylogenetic) history of the species.  What family is it in?  What is known about the distribution, ecology and history of that family?  
 
-You are all at the very early stages of what should be long careers in
-biological research. I do not expect that you will become experts in
-your field or even understand all of the literature you read. To help
-you with developing your projects, I have listed some potential research
-projects (on blackboard). Each of these projects links some of the
-fundamental information you have seen in the course with current
-research activity in botany. Most of these projects are also linked to
-issues of pressing global concern, such as climate change and food
-production. For each project, I give a short background, provide some
-key questions that can be the focus of new research, and some references
-to get you started. You are not limited to these projects, I will be
-happy to work with you to develop a project that interests you. It does
-have to focus, in some way, to research in botany.
+3. Conservation issues (if any) of the species (or closely related species)
 
-***Exploring Scientific Literature***
+4. the location of the individuals that you have observed studied. Include a map 
 
-As part of this project, you will spend some time reading published
-scientific literature. I know that would be asking too much for you to
-have an immediate grasp of articles in advanced scientific fields. Thus,
-for each project, I have selected a small number of articles that will
-introduce you to a topic with (hopefully) a minimum of jargon or
-statistics.
+5. something creative, here are some ideas: 
 
-You can find more/related literature from google scholar or a database on our library
-resource page called web of science (to get to this resource, you can
-follow the ‘sirius’ link to log into your resources area on the library
-page. From there, you can search for ‘web of science’). Web of science
-will allow you to conduct general searches for scientific articles using
-search terms (just like google). 
+- If you have a Banksia species, take pictures of every species of Banksia leaves that you can find.  Show the photos in the video about the evolution of leaf shape.
 
-Once you find an article of interest,
-you can link to all of the articles citing your article, and all the
-articles your article has cited. You can do a quick and comprehensive
-search for all the literature in a given topic using either google scholar or web of science! 
-
-## Option 2: species report
-
-This assignment you will take (at least) weekly notes about the morphology and physiology of one plant individual through the term.  This may include photographs and data collection, and need to include written observations.   This will be supplemented with an ecological and conservation report on your species; we will learn skills for doing this type of research in week 9.  The species report should have the following sections: 
-
-1) Ecological background of the species, including all of the scientific research that you can find on that species 
-
-2) Evolutionary (phylogenetic) history of the species.  What family is it in?  What is known about the distribution, ecology and history of that family?  
-
-3) Conservation issues (if any) of the species 
-
-4) the location of the individual studied. Include a map 
-
-5) Notes from observations of this individual through time, including pictures.  Aim for weekly observations.  Take careful note of the leaf phenology.  Are there leaves being dropped?  Are there new leaves being formed?  When does the species flower?  Are there any signs of flowers through your obsevations?  
-
-## Option 3: Video
-
-A short interesting video.  There is no set format for the video.  We are looking for creative fun ideas, related to plant ecology.  Pitch something fun!  Here are some wild ideas to get your brain thinking:
-
-- Take pictures of every species of Banksia leaves that you can find.  Show the photos in the video about the evolution of leaf shape.
-
-- Find a good place with lots of flowers and pollinators and make a short film about the 
+- Find a good place with lots of flowers and pollinators and make a short film about flowers and bees.
 
 - Make a stop motion animation with drawings and a voice over explaining how plants grow.  
 
-- Pick the coolest plant species you can think of (Sundew, Orchids, Eucalypts, Sea Grass, Rafflesia, etc.).  Explain its ecology in a quick and fun way with visuals
-
-- Make a stop motion animation explaining how plants and fungi form mycorrhizas
-
-- Make a short movie about plant adaptations to fire.  See if you can find a recently burned area to do some shooting on location.  
-
 - Something else cool!
-
-This is the only category where we allow two-person projects.  Someone has to hold the camera...Only requirement is that the video should reference at least one scientfic paper.  
 
 # Practical Skills
 
