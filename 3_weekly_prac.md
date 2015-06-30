@@ -1721,13 +1721,13 @@ Through  recent research, we have come a long way in understanding the evolution
 6. **Sister group**--Sister groups or "sister taxa" are just what they sound like--two
 groups the diverged from each other, with each being the other's closest relative.  Gymnosperms are angiosperms closest relative and vice versa.  The ferns are sister to the seed plants.  Fagales (the oak order) and Cucurbitales (the cucumber order) are sister groups.  However, this gets more complicated as some taxa do not have accepted names.  Rosales is sister to Cucurbitales + Fagales, which is a group that does not have its own name.  
 
-7. **Monophyletic** a group of organisms that contains all descendents from a common evolutionary ancestor; primates is one example of a monophyletic group that contains *you*.  If a plant family is found not to be monophyletic, taxonomists break it up to try to create monophyletic plant families.  This is usually why taxonomy changes through time.
+7. **Monophyletic** a group of organisms that contains all descendents from a common evolutionary ancestor; primates is one example of a monophyletic group that contains *you*.  If a plant family is found not to be monophyletic, taxonomists break it up to try to create monophyletic plant families.  This is usually why taxonomy changes through time.  For example the *Acacia* species in Australia and the *Acacia* species in Africa are not monophyletic and taxonomists are currently in the process of breaking them up into two different genera.
 
-8. **Paraphyletic** (see figure)
+8. **Paraphyletic** (hard to explain in words see figure)
 
 9. **Family** in plants these all end in *-aceae*; every family is in an order; in plants families *usually* have diagnostic features
 
-10. **Order** in plants these end in *-ales*; unlike families orders are so diverse that there are usually not diagnostic features
+10. **Order** in plants these end in *-ales*; unlike families orders are so internally diverse that there are usually not diagnostic features
 
 ![A way to talk about phylogenies](monophyly.jpg)
 
