@@ -502,27 +502,19 @@ There are >300,000 Angiosperms and >350,000 vascular plants, so we use families 
 
 Families often (though not always) have defining floral traits, which we will explain in this lab.
 
-For this course you need to be able to identify on sight the following 10 families:  
+For this course you need to be able to identify on sight the following 6 families:  
 
-1. Poaceae 
+1. Myrtaceae
 
-2. Arecaceae
+2. Rutaceae
 
-3. Myrtaceae
+3. Fabaceae
 
-4. Rutaceae
+4. Asteraceae
 
-5. Fabaceae
+5. Proteaceae
 
-6. Asteraceae
-
-7. Proteaceae
-
-8. Ericaceae
-
-9. Araucariaceae (not a flowering plant)
-
-10. Podocarpaceae (not a flowering plant)
+6. Ericaceae
 
 We will explain the diagnostic characters for these families throughout the course, but one of the most important are floral characters, the focus of this lab.
 
@@ -671,7 +663,7 @@ highly evolved it is usually considered.
 open is indicated by size of the circles representing the flowers;
 largest opens first, smallest opens last.](inflorescenceTypes.png)
 
-##Plant Identification
+## Diversity of floral traits
 
 ### Examine the floral structure of the specimen provided.
 
@@ -1087,7 +1079,13 @@ contents etc. and draw if you have time.
 \vspace*{6\baselineskip}
 
 
+## Plant Identification 
 
+We will examine the key traits and features of some of the **major
+Australian plant families** throughout this course. Details for these
+families are provided in the back of the lab manual (Plant
+Identification and Family Descriptions, and the Key to Australian Plant
+Families).
 
 
 ## Plant Cells: Supplementary Notes
@@ -1353,6 +1351,14 @@ below and list the adaptations to limit water loss that you can see in the slide
   *Atriplex* sp         
   
   \vspace*{3\baselineskip}
+
+## Plant Identification 
+
+We will examine the key traits and features of some of the **major
+Australian plant families** throughout this course. Details for these
+families are provided in the back of the lab manual (Plant
+Identification and Family Descriptions, and the Key to Australian Plant
+Families).
 
 \newpage
 
@@ -1621,11 +1627,13 @@ epidermis have expanded?
 - epidermis - closely fitting epidermal cells with dome–shaped outer
  walls, carrying a well developed cuticle.
 
- **PLANT IDENTIFICATION**
+## Plant Identification 
 
- Complete the exercise(s) assigned from the plant identification
- section at the end of the manual.**\
- **
+We will examine the key traits and features of some of the **major
+Australian plant families** throughout this course. Details for these
+families are provided in the back of the lab manual (Plant
+Identification and Family Descriptions, and the Key to Australian Plant
+Families).
 
 
 \newpage
@@ -1753,11 +1761,14 @@ Some species, including Eucalyptus spp., have both types of mycorrhizas.  Examin
     the characteristic appearance of ectomycorrhizal root systems
 
 
-## Plant Identification
+## Plant Identification 
 
-**Complete the exercises for identifying plant families using the key /
-identification and family descriptions of the major Australian plant
-families at the end of the manual.**
+We will examine the key traits and features of some of the **major
+Australian plant families** throughout this course. Details for these
+families are provided in the back of the lab manual (Plant
+Identification and Family Descriptions, and the Key to Australian Plant
+Families).
+
 
 \newpage
 
@@ -2347,7 +2358,7 @@ bract and the flower stalks have all become succulent.
 
 \newpage
 
-# Long-term Assignments: plant collection and plant biography
+# Long-term Assignments
 
 ## The Plant Collection
 
@@ -2695,7 +2706,7 @@ illustrating lecture material, it should teach you:
  others; observations must be clearly recorded so that they can be communicated
  to those who have not themselves examined the material.
 
-## Special Skill: Cutting and Staining
+## Sectioning and Staining
 
 *GENERAL*
 
@@ -2829,7 +2840,7 @@ should be used with care, and any spills mopped up with paper towel.
 are highly allergic to it. Treat all stains with care and do not allow
 them to come in contact with your skin.
 
-# Light Microscopy
+## Light Microscopy
 
 ### Olympus Microscope
 
