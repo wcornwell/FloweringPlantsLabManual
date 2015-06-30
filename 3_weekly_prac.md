@@ -4,7 +4,7 @@
 
 # Week 2: Vegetative Morphology & Keys
 
-## The Nature Of Leaves
+## The Nature of Leaves
 
 Flowering plants are the culmination of just one evolutionary
 pathway in vascular plants. This laboratory aims to place them in the
@@ -432,7 +432,7 @@ Species........Form of leaf......Modification to aid climbing........Organ modif
 
 \newpage
 
-## Introduction To The Use Of An Identification Key
+## Introduction to the use of an identification key
 
 	**Plant identification is a key skill from this course. 
 	 This skill is essential in a range of careers
