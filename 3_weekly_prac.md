@@ -814,7 +814,81 @@ Families).
 
 \newpage
 
-#Week 4: Campus Flora I
+# Week 4: Campus Flora I
+
+This year, you are doing something brand new - developing a Campus Flora
+app. The aim is to generate an interactive map that will allow users to
+access information on all of the amazing plants around us.
+
+The jobs for the class of 2015 will be to
+
+a. Map the location and identity of all the trees on campus, and
+
+b. Write “Plant biographies” to tell people about each species.
+
+The mapping will be done in class time (starting today), while the plant
+biographies are your first major assignment for this course.
+
+We will use the information you provide as the basis for an app
+something like the one available at Sydney University
+(<http://campusflora.sydneybiology.org/>). Next year’s class will add to
+what you have done by mapping the shrubs, and the year after will map
+herbaceous plants.
+
+The overall aims of this project are to:
+
+1. Produce a real-life product that the community can use, and that you can be proud of.
+
+2. Address plant-blindness – the fact that most people wander around the world without noticing all the different sorts of plants they pass.
+
+3.  Increase your familiarity with many of the online botanical information resources, the primary literature, the herbarium, and the fact that there are interesting stories associated with many of the plants around you.
+
+4.  Reinforce what you have learned so far about plant identification, and help you to learn more about plant families.
+
+**PART A) MAPPING THE PLANTS ON CAMPUS**
+
+The class will be divided in to small groups. Each group will need at
+least one smart phone or tablet (but not every person needs one). We
+will divide a map of campus in to sections, and each group will be
+responsible for mapping all plants above 15cm dbh (diameter at breast
+height) in one map section.
+
+We will establish a help station in central campus that you can come to
+for help with plant identification, to borrow pole pruners, or for any
+other questions.
+
+You will need to:
+
+1\) Download a GPS app. For android, we suggest GPS – Simple. For Iphone,
+we suggest Easy-GPS-coordinates-compass. Whatever you use should be in
+decimal format (degrees, minutes seconds are likely to cause conversion
+errors), should have at least 5 decimal places on degrees or 3 decimal
+places on minutes, and should have an estimate of the accuracy of your
+location.
+
+When you take readings, make sure the accuracy is within \~5 m
+(preferably less). If you are in a corner surrounded by many buildings,
+you might not be able to get an accurate reading – in this case, do your
+best, and locate the tree on google maps back in the lab to get more
+accurate coordinates.
+
+2\) Go to your section of campus (take secateurs, plastic bags, pen and
+paper, and your phone with you), and systematically map all of the
+trees. For each individual plant, you will need to record:
+
+**Latitude**
+
+**Longitude**
+
+**Species identity**
+
+*If you aren’t sure what species a plant is, give it a placeholder name,
+and take a specimen and helpful photographs that will allow an expert
+(Frank!) to identify the species.*
+
+3\) Enter the data in the Google spreadsheet:
+[https://docs.google.com/spreadsheets/d/1f\_MIdJXdi0-kiRrqaaXCNxc9e\_3vdIwO1k8WC2VtCzA/edit\#gid=0](#gid=0)
+
 
 \newpage
 
@@ -1805,6 +1879,30 @@ Here are the steps to producing this slideshow:
 
 # Week 10: Campus Flora II
 
+This week, we will finish developing the content for our Campus Flora.
+This is a fairly free-form class, designed to give you time to finish
+identifying and mapping all your species, and to error check the
+location and name data.
+
+Work in your groups:
+
+-   Finish mapping (if you didn’t manage all of the plants in your
+    section of campus in week 4).
+
+-   Revisit any plants whose identification is still eluding you.
+
+-   Plot your plant coordinates on a map, and make sure they are all
+    correct
+
+-   Make sure the plant names you have entered in the mapping
+    spreadsheet match the plant names for the species biographies
+    (correct any spelling errors).
+
+-   If you finish all of the above, spend some time checking out other
+    people’s plant biographies – with luck, you will learn some really
+    interesting things!
+
+
 \newpage
 
 # Week 11: Plant Allometry
@@ -2387,33 +2485,202 @@ Here’s what we will be marking:
 
 ## Plant Biography Project
 
-###Goal: build your skills in conducting research and communicating new ideas
 
-Pick one of the two species from your campus flora assignment and focus on it.  For plant biography projects, a one-page proposal is due at the last lecture of week 3.  This is simply a plan for what you are going to work on, but it should be well written and clearly communicate your idea.    
+During the first lecture (week 2), you will be randomly assigned two
+species for which you will write plant biographies.
 
-In addition to the data we'll collect in the labs this project asks you to research that species in more depth.  We are looking for a creative idea about this species report--something, a video, an observation diary, a project--that tells us something new about that species.  
+The goals for this project are:
 
-The one-page proposal is assessed, so prepare it professionally.  We will both mark and give you feedback on the ideas.
+-   To build your skills in communicating scientific information, and to
+    practice giving constructive feedback to your peers.
 
-Here is the minimum that needs to be in the report:
+-   To reinforce your understanding of plant families, learn interesting
+    things about plants, and learn where to find information about plant
+    taxonomy, distribution and ecology.
 
-1. Ecological background of the species, including at least one scientific papers you can find on the species (use Google Scholar or Web of Knowledge) 
+-   To develop the content that will populate our campus flora app (see
+    prac manual for further explanation).
 
-2. Evolutionary (phylogenetic) history of the species.  What family is it in?  What is known about the distribution, ecology and history of that family?  
+There are three assessable components of the plant biography project:
 
-3. Conservation issues (if any) of the species (or closely related species)
+**1) FIRST PLANT BIOGRAPHY** (Due Mon 24^th^ August)
 
-4. the location of the individuals that you have observed studied. Include a map 
+Prepare the plant biography for one of your two assigned plant species
+(detailed instructions below). We understand that it might not be
+possible to take pictures of your study species at this time of the year
+(e.g. if they are deciduous), so you can omit the pictures for this
+version. Herbarium specimens are not due until October.
 
-5. something creative, here are some ideas: 
+Your biography must be uploaded to Moodle.
 
-- If you have a Banksia species, take pictures of every species of Banksia leaves that you can find.  Show the photos in the video about the evolution of leaf shape.
+We will allocate each plant biography to three randomly selected
+students from the class. These people will give you anonymous feedback
+on your assignment. Your grade will be calculated based on the scores
+these three people give you. If you believe that one of your scores is
+unfair, you can click to flag it in Moodle, and we will check it.
 
-- Find a good place with lots of flowers and pollinators and make a short film about flowers and bees.
+**2) FEEDBACK ON PEER ASSIGNMENTS** (Due Friday 4^th^ Sept)
 
-- Make a stop motion animation with drawings and a voice over explaining how plants grow.  
+Scientists spend a lot of time reviewing other scientists’ work, and
+giving their colleagues feedback on their work. We have designed this
+part of the assignment to give you the opportunity to develop your
+skills in giving constructive feedback. We hope that reading plant
+biographies for three additional species will also increase the amount
+of interesting plant knowledge you pick up. Finally, thinking about what
+you like (or don’t like) about how others have done things is a
+fantastic way to improve your own work.
 
-- Something else cool!
+We expect you to upload at least 100 words of constructive feedback for
+each of the three biographies you review, in addition to assigning a
+grade. Use the marking schedule below to allocate marks, and to guide
+your feedback. We take plagiarism seriously – if you find any evidence
+of plagiarism (e.g. sentences copied directly from other sources),
+please let Will or Angela know.
+
+Together, the first plant biography and feedback on peer assignments are
+worth 10% of your grade for Flowering Plants. The peer assessments are
+important - if you do not submit feedback on peer assignments, you get 0
+for the whole first plant biography assignment.
+
+**\
+**
+
+**3) FINAL VERSIONS OF PLANT BIOGRAPHIES** (Due Friday 16^th^ October)
+
+Revise your first plant biography in light of the comments from your
+peers, and prepare your second biography. Both need to be complete (ie,
+they should include pictures), and you need to include herbarium
+specimens for your species in your plant collections.
+
+Upload completed biographies for both of your species on Moodle.
+
+The final versions of your plant biographies are worth 10% of your grade
+in Plant Ecology (5% per species). They will be marked by Will and/or
+Angela.
+
+**WHAT TO INCLUDE IN YOUR PLANT BIOGRAPHY**
+
+The plant biographies (one for each species) can each be up to 500 words
+(not including references). They must include:
+
+-   Species name (binomial)
+
+-   Common name (if it has one)
+
+-   Family
+
+-   Order
+
+-   Pictures of the species highlighting important characteristics (you
+    can use the georeferenced information from the google sheet (link
+    above) to find your species on campus). Take photographs both at a
+    distance, and close ups showing leaves, reproductive structures etc.
+    *The pictures should be your own (not taken from the internet).* We
+    understand that the species may not have leaves during winter, so
+    pictures are not compulsory for the first version of your biography
+    (due in August). However, we do expect that you will have found the
+    plant and taken pictures by the time the final version is due in
+    October.
+
+-   Link to a map showing where in the world the species naturally
+    occurs (e.g. information from GBIF or the Atlas of living
+    Australia),
+
+-   Link to a map showing where in the world the family naturally
+    occurs.
+
+-   Links to species descriptions (from the Flora of Australia or the
+    flora of NSW)
+
+We would also like you to include information such as:
+
+-   **Ecological background of the species**, including finding at least
+    one scientific paper about the species or its family (use Google
+    Scholar or Web of Knowledge). Some ideas:
+
+<!-- -->
+
+-   Interesting biotic interactions (e.g. if you had a *Ficus*, you
+    could write about the special interaction between figs and their
+    pollinating wasps – figs can’t form without wasps living inside
+    them, so are off the menu for strict vegetarians),
+
+-   Chemical and physical defences (e.g. Solanaceae tend to have
+    interesting alkaloids like nicotine),
+
+-   Is the species, or its relatives useful/edible/noteworthy? (e.g did
+    you know that black tea is made from a type of *Camellia* – those
+    ugly plants with pink flowers that you see near the coffee cart?).
+
+-   Any interesting biogeography or palaeoecology? (e.g. *Nothofagus*
+    has a classic Gondwanan distribution)
+
+<!-- -->
+
+-   Include citations to the primary scientific literature wherever
+    possible for all information [follow the reference format for the
+    *Journal of Ecology*]. We need you to do more than cherry pick the
+    Wikipedia entry.
+
+<!-- -->
+
+-   **Evolutionary (phylogenetic) history of the species.** What is
+    known about the distribution, ecology and history of the genus or
+    family?
+
+<!-- -->
+
+-   **Historical information** e.g. The *Agathis australis* (Kauri) on
+    the biology lawn was planted by the Queen.
+
+<!-- -->
+
+-   **Translations of the scientific name** (to help people get past all
+    those long latin words)
+
+<!-- -->
+
+-   **Ethnobotanical information**, such as traditional uses of plants
+
+-   **Conservation issues** (if any) of the species (or closely related
+    species)
+
+-   **Something creative**. Here are some ideas:
+
+    -   If you have a *Banksia* species, take pictures of the leaves of
+        every species of *Banksia* that you can find. Show the photos in
+        the video about the evolution of leaf shape.
+
+    -   Find a good place with lots of flowers and pollinators and make
+        a short film about flowers and bees.
+
+    -   Make a stop motion animation with drawings and a voice over
+        explaining how plants grow.
+
+    -   Interview someone with traditional knowledge, historical
+        knowledge, or with particular research or horticultural
+        expertise on the species
+
+    -   Something else!
+
+The more creative you are in writing these entries, the more fun our app
+will be.
+
+Finally, we ask that you make a **herbarium specimen** for each of your
+species. These will be lodged in the UNSW herbarium, and the herbarium
+reference number can be included in the information in the species
+description, linking the online information to our impressive plant
+reference collection at UNSW. The herbarium specimens should be included
+in your plant collection – add notes to your plant collection to
+indicate which specimens are of your plant biography species.
+
+**\
+**
+\newpage
+
+###MARKING SCHEDULE
+
+![](marking.pdf)
 
 # Practical Skills
 
@@ -2501,7 +2768,7 @@ media, rather than water: this gives improved resolution.)
 
 ### Staining Schedules
 
-- *Toluidine Blue*** (MULTIPLE STAIN).
+- *Toluidine Blue* (MULTIPLE STAIN)
 
 Toluidine Blue is a very important dye that distinguishes lignified
  from unlignified walls. It is a positively charged dye which stains negative groups.
@@ -2544,7 +2811,7 @@ stains protein (and, particularly, primary walls). Both stains are also
 fast (ie. permanent) on clothing and to a lesser extent on fingers, so
 should be used with care, and any spills mopped up with paper towel.
 
-### Iodine in KI (STARCH).
+### Iodine in KI (STARCH)
 
 - Iodine stains starch grains bright purple to blue-black.
 
