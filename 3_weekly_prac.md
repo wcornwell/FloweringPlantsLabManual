@@ -496,7 +496,7 @@ at the same time and in response to each other.
 The floral diversity in angiosperms is staggering, but with some practice it's also useful---it can be of great assistance in plant identification.
 With a few terms and some practice.  
 
-### Learning flowering plants by family
+## Learning flowering plants by family
 
 There are >300,000 Angiosperms and >350,000 vascular plants, so we use families as the *filing cabinet* to put all this diversity in.
 
@@ -521,7 +521,14 @@ We will explain the diagnostic characters for these families throughout the cour
 Once you learn the theory in this lab, make sure to review the sections on Myrtaceae, Rutaceae, Fabaceae, Asteraceae, Proteaceae and Ericaceae in the back of this manual.
 Note that the characteristics of each family are explaining using floral and inflorescence traits.  
 
-###Background
+
+##Floral structure
+
+As you will see, flowers are complex, highly specialised, and exhibit
+tremendous morphological diversity across taxa. Botanists have a number
+of ways of describing floral structure.
+
+### Important terms
 
 Make sure you know these terms
 (consult the glossary at the back of the manual):
@@ -536,11 +543,8 @@ Make sure you know these terms
 
 5. carpel and gynoecium
 
-##Floral structure
 
-As you will see, flowers are complex, highly specialised, and exhibit
-tremendous morphological diversity across taxa. Botanists have a number
-of ways of describing floral structure.
+## Floral formula
 
 **A floral formula** can express the number, fusion and insertion of
 floral parts.
@@ -887,7 +891,7 @@ and take a specimen and helpful photographs that will allow an expert
 #Week 5: Plant Cells
 
 You should refer to the notes on Light Microscopy and the use of the
-Olympus CHA Microscope which you will find in the manual introduction.
+Olympus CHA Microscope which you will find in the back of this manual.
 
 Only a few types of cell are found in higher plants. These can be
 recognised on several basic features:
