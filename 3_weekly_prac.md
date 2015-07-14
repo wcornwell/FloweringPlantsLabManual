@@ -35,7 +35,7 @@ from whisk ferns, ferns, gymnosperms, and finishing with the angiosperms.
 
 \newpage
 
-##Division Psilophyta: the whisk ferns
+##A basal group of ferns: the whisk ferns
 
 The earliest known vascular plants consisted of a system of cylindrical
 axes. The cortical tissues of the above ground parts had stomata and a
@@ -43,7 +43,7 @@ cuticle and were photosynthetic, while the epidermis of the underground
 parts had no cuticle but produced hair-like outgrowths to aid absorption
 of water and minerals. Such plants are only known from the fossil
 record, but there are two living genera that approach this simple level
-of organisation. These are *Psilotum* and *Tmesipteris*, both native to
+of organisation. These are *Psilotum* and *Tmesipteris*, which are both "whisk ferns" and native to
 Australia.
 
 
@@ -77,9 +77,9 @@ It consists of a stem system bearing small *microphylls*. The stem grows by a si
 
 \newpage
 
-## The Ferns
+## Ophioglossoid Ferns
 
-Members of this order have roots, stems and leaves, but the latter are *megaphylls*, and are not homologous with the microphylls of the previous group. In the ferns there is no main root system, the roots being lateral organs borne on the stems (*adventitious* roots).
+Members of this group have roots, stems and leaves, but the latter are *megaphylls*, and are not homologous with the microphylls of the previous group. In the ferns there is no main root system, the roots being lateral organs borne on the stems (*adventitious* roots).
 
 ### Examine *Lygodium scandens*. 
 The stem grows horizontally below the surface of the ground (it is a *rhizome*); only
@@ -381,7 +381,8 @@ Determine in each case whether the climbing structure (tendril or claw)
 
   \vspace*{3\baselineskip}
 
-Species..............Form of leaf...............Phyllotaxis..................Stipules
+**Species \hspace{25 mm} Form of leaf \hspace{25 mm} Phyllotaxis \hspace{25 mm} Stipules**
+
   \rule{\textwidth}{1pt}        
  *Abelia triflora*  
    \vspace*{3\baselineskip}
@@ -414,7 +415,7 @@ Species..............Form of leaf...............Phyllotaxis..................Sti
 
  \vspace*{3\baselineskip}
 
-Species........Form of leaf......Modification to aid climbing........Organ modified
+**Species \hspace{13 mm} Form of leaf  \hspace{10 mm} Modification to aid climbing \hspace{10 mm}Organ modified**
 
   \rule{\textwidth}{1pt}        
  *Specimen D *  
@@ -1267,21 +1268,37 @@ Reference: The Biology of Plants  pp 592-604.
 
 Leaves are *amazing* inventions.  They perform photosynthesis which is the key to life on land and to the regulation of the earth's atmosphere.  The key trade-off that leaves of land plants must solve is carbon capture via carbon dioxide reaching the chloroplasts versus water loss.   When times are bad, stomata have an amazingly ability to limit the water loss from leaves.  However, different species show different abilities to regulate water loss for a variety of reasons.  
 
-One of these reasons is that even if stomata close as tightly as they can, they still lose a little water.  The other reason is that different species waxy cuticles have different degrees of effectiveness.  Some thick waxy leaves are very good at preventing water loss in adverse conditions.  Other species have thin cuticles that continue to lose water in bad times.  
+One of these reasons is that even if stomata close as tightly as they can, they still lose a little water, and different species differ in this ability to shut their stomata tightly.  The other reason is that different species waxy cuticles have different degrees of effectiveness.  Some thick waxy leaves are very good at preventing water loss in adverse conditions.  Other species have thin cuticles that continue to lose water in bad times.  
 
-Essentially, although leaves are all constructed to a basic plan, they vary greatly
-in physiognomy, morphology and internal arrangement of tissues. Syndromes of modifications
-are often correlated with particular environments and are therefore
-interpreted as being of adaptive significance.  
+Essentially, although leaves are all constructed to a basic plan, they vary greatly in physiognomy, morphology and internal arrangement of tissues. Syndromes of modifications are often correlated with particular environments and are therefore interpreted as being of adaptive significance.  
 
-In this practical we will look at leaves from plants from different
-environments and representing different leaf forms and life histories.  We will also measure the ability of species to restrict water loss in very difficult times.  
+In this practical we will look at leaves from plants from different environments and representing different leaf forms and life histories.  We will also measure the ability of species to restrict water loss in very difficult times.  
 
-The first task is to set up the data collection protocol for each group of 4 students.  **YOU WILL NEED TO UPLOAD YOUR DATA ON MOODLE AT THE END OF THE LAB.** So be careful about your record keeping for the lab.  The task is to create a situation in which the leaves 
+The first task is to set up the data collection protocol for each group of 4 students.  
 
-To measure the rate of water loss before and after stomatal closure as a group we will pick 3 leaves from each of our species.  Give each leaf a unique identifier that we will use for record keeping.  We will then dry these leaves in the lab environment, weighing each leaf every five or so minutes on the balance.  Divide up the person responsible for each measurement.  **Record 1) the mass, 2) the time 3) the leaf's unique identifier.  After the stomata completely shut, which takes a few minutes, there should be a linear slope for water loss vs. time and the slope of that line is a measure of rate of water loss based ont the stomatas' ability to limit water loss from the leaf.  Try to predict the difference in slopes for the species that we have today.  
+**EACH MEMBER OF THE GROUP WILL NEED TO UPLOAD YOUR DATA ON MOODLE AT THE END OF THE LAB.** 
 
-Once you've scheduled your data collection and divided up the task of collecting data among your group.  Figure out when each member of the group can go and examine the digital slides and the plant families.
+We will look at this as part of your participation mark for the course, so be careful about your record keeping for the lab.  The task is to create a situation in which the leaves want to restrict their water loss, then we will measure the rate at which water is lost to the environment for two species.
+
+To measure the rate of water loss before and after stomatal closure as a group we will pick 3 leaves from each of our two species.  Give each leaf a unique identifier that we will use for record keeping.   We will then dry these leaves in the lab environment, weighing each leaf every five or so minutes on the balance.   Divide up the person responsible for each measurement.  
+
+Record: 
+
+1. the mass of the leaf 
+
+2. the exact time of the measurement 
+
+3. the leaf's unique identifier 
+
+4. the species name 
+
+5. your research group name.
+
+These will correspond to columns in the excel file that can be downloaded from Moodle.  
+
+After the stomata completely shut, which takes a few minutes, there should be a linear slope for water loss vs. time and the slope of that line is a measure of rate of water loss based ont the stomatas' ability to limit water loss from the leaf.   Try to predict the difference in slopes for the species that we have today.  Think about what the units of water loss are.  
+
+Once you've organized and scheduled your data collection and divided up the task of collecting data among your group.  Figure out when each member of the group can go and examine the digital slides and the plant families.
 
 Remember to:
 
@@ -1299,9 +1316,8 @@ We have specimens of *Psilotum* (a seedless vascular plant), *Pinus* (a
 conifer), and many flowering plants (e.g. *Hibbertia scandens*). Open
 each of these three images.
 
-*Psilotum* and *Pinus* represent an evolutionary jump in the
-specialisation of photosynthetic tissue (from a green photosynthesising
-stem to a specialised needle leaf).
+*Psilotum* and *Pinus* represent two alternate strategies for photosynthetic tissue--a green photosynthesising
+stem versus a specialised needle-shaped leaf.
 
 - Is there any evidence that *Pinus* leaves are more specialised for
 photosynthesis than *Psilotum* stems?
@@ -1379,10 +1395,10 @@ in the same region of a stem or root. There are two systems: xylem,
 involved in water transport and phloem, in sugar (usually sucrose)
 transport. Collectively these are known as vascular tissue.
 
-In stems xylem and phloem occur together in vascular bundles, which are
+In stems, xylem and phloem occur together in vascular bundles, which are
 distributed either in a ring (dicotyledons) or scattered throughout
 (monocotyledons). In contrast in roots, they occur in the centre as a
-stele. The system is continuous throughout the plant and extends into
+*stele*. The system is continuous throughout the plant and extends into
 the leaves as the major and minor veins.
 
 The purpose of today's lab is to demonstrate the features of the types
@@ -1455,7 +1471,7 @@ imperforate cell while the end walls of vessel elements are perforated.
 
 3. tracheids? when seen in T.S.
 
- ### L.S. and T.S. of stem of *Cucurbita* sp.
+### L.S. and T.S. of stem of *Cucurbita* sp.
 
  Examine xylem tissue in prepared slides of R.L.S. (G11/2) and T.S.
  (G11/1) sections of *Cucurbita* stem.
@@ -1516,8 +1532,8 @@ help you to revise primary stem structure in the dicot, and illustrate
 the early stages of vascular cambial activity.
 
   Cut thin transverse sections through an internode in *Coleus* from
-    about the middle of plant. Stain with toluidine blue and mount in
-    glycerine. Note the following features in the section:
+about the middle of plant. Stain with toluidine blue and mount in
+glycerine. Note the following features in the section:
 
 1.  Epidermis and cortex (indicate types of cells present).
     - The wider parts of the vascular cylinder which contain the original
