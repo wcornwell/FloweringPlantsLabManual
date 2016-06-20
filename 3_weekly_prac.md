@@ -6,10 +6,12 @@
 
 ## The Nature of Leaves
 
-Flowering plants are the culmination of just one evolutionary
-pathway in vascular plants. This laboratory aims to place them in the
+Flowering plants are the culmination of an amazing cascade of evolutionary innovations. 
+This laboratory aims to place them in the
 context of the diverse array of vascular plants and trace the evolution
-of some basic aspects of their morphology. The first section of this
+of some basic aspects of their morphology. 
+
+The first section of this
 laboratory aims to illustrate the less specialised organisation of the
 plant body found in the non-flowering plants and from which angiosperm
 morphology has been derived, while the latter part of the lab introduces
@@ -18,22 +20,16 @@ the flowering plants, and will consider form and function of the various
 organs of this group in more detail.
 
 The purpose of many of the questions in this lab is to encourage you to
-look carefully at your material to see what is really there.
-
-Note the increasing specialisation of organs carrying out
-photosynthesis. In the earliest plants ordinary cylindrical stems were
-the organs of photosynthesis. In later groups some of the features of
-stems are still discernible in the leaves: eg. highly divided and
-branching in 3 dimensions; indeterminate growth.
-
-The developments of new organs such as axillary buds, and the
-specialisation of organs to serve new functions such as aids to
-climbing, are also illustrated.
+look carefully at your material to see what is really there.  Today's focus is on
+**leaves**, **buds**, and **stems**.  In different species they make look very different. There are also some specialized terms for discussing different types of leaves; it's not necessary to memorize these terms but it is good to know they exist and where to find definitions when you need them.   
 
 In today's lab we will do a very brief tour of leaves across all the major groups of vascular plants 
 from whisk ferns, ferns, gymnosperms, and finishing with the angiosperms.
 
-\newpage
+![Terms for different leaf shapes.  Figure from N.C.W. Beadle, O.D. Evans & R.C. Carolin (1982)  Flora of The Sydney Region. Reed, Sydney.](Fig. 2 Leaf shape .tif)
+
+![Leaf arrangements; simple and compound leaves. Figure from N.C.W. Beadle, O.D. Evans & R.C. Carolin (1982)  Flora of The Sydney Region. Reed, Sydney.](Fig. 3 Leaf margins, simple & compound.tif)
+
 
 ##A basal group of ferns: the whisk ferns
 
@@ -45,8 +41,6 @@ of water and minerals. Such plants are only known from the fossil
 record, but there are two living genera that approach this simple level
 of organisation. These are *Psilotum* and *Tmesipteris*, which are both "whisk ferns" and native to
 Australia.
-
-
 
 ###Examine *Psilotum nudum*. 
 
@@ -120,7 +114,7 @@ new one the next year.
 
 \vspace*{3\baselineskip}
 
-![Terms for different leaf morphologies](alternateLeafMorphologies.png)
+
 
 ### Examine *Gleichenia* sp. 
 
@@ -372,46 +366,46 @@ Determine in each case whether the climbing structure (tendril or claw)
 	Enter your answers in Table 1.2.
 
 
-![Terms for the different arrangements of leaves](alternateLeafArrangements.png)
+
 
 \newpage
 
- **TABLE 1** Leaf morphology in angiosperms.  Fill in the missing fields using the terms in the figures above.
+ **TABLE 1** Leaf morphology in angiosperms.  For form of leaf write down the shape, apex, base, and veneation using the terms from Figure 1.1 and 1.2.
 
 
   \vspace*{3\baselineskip}
 
-**Species \hspace{25 mm} Form of leaf \hspace{25 mm} Phyllotaxis \hspace{25 mm} Stipules**
+**Species \hspace{20 mm} Form of Leaf\hspace{20 mm} Arrangement of leaves \hspace{15 mm} Stipules** 
 
   \rule{\textwidth}{1pt}        
  *Abelia triflora*  
-   \vspace*{3\baselineskip}
+   \vspace*{4\baselineskip}
   
   \rule{\textwidth}{1pt} 
   *Pisum sativum* 
-  \vspace*{3\baselineskip}
+  \vspace*{4\baselineskip}
   
   \rule{\textwidth}{1pt}    
   *Acacia elata*            
-  \vspace*{3\baselineskip}
+  \vspace*{4\baselineskip}
 
  \rule{\textwidth}{1pt}    
  Specimen A          
-  \vspace*{3\baselineskip}
+  \vspace*{4\baselineskip}
   
  \rule{\textwidth}{1pt}    
   Specimen B           
-  \vspace*{3\baselineskip}
+  \vspace*{4\baselineskip}
 
  \rule{\textwidth}{1pt}    
   Specimen C           
-  \vspace*{3\baselineskip}
+  \vspace*{4\baselineskip}
 
   \rule{\textwidth}{1pt}    
 
 \newpage
 
-**TABLE 2** Modifications to aid climbing.
+**TABLE 2** Modifications to aid climbing. For form of leaf write down the shape, apex, base, and veneation using the terms from Figure 1.1 and 1.2.
 
  \vspace*{3\baselineskip}
 
@@ -419,15 +413,13 @@ Determine in each case whether the climbing structure (tendril or claw)
 
   \rule{\textwidth}{1pt}        
  *Specimen D *  
-   \vspace*{3\baselineskip}
+   \vspace*{4\baselineskip}
   
   \rule{\textwidth}{1pt} 
   *Specimen E* 
-  \vspace*{3\baselineskip}
+  \vspace*{4\baselineskip}
 
   \rule{\textwidth}{1pt}    
-
-\vspace*{3\baselineskip}
 
 **Check your answers with demonstrators / lecturers / classmates**
 
@@ -467,7 +459,7 @@ either of the following ways:
 In **both** types, it is essential to -
 
 1. always proceed downwards;
-2.  **read both alternatives carefully** **before** deciding which best fits the specimen, and check any unfamiliar terms in the glossary. **Never** decide that the first alternative is correct before you read the second of the contrasting pair!
+2.  **read all alternatives carefully** **before** deciding which best fits the specimen, and check any unfamiliar terms in the glossary. **Never** decide that the first alternative is correct before you read the second of the contrasting pair!
 
  Now turn to the key at the back of the lab manual. This is a key that uses only
 vegetative characters. The advantage of such a key is that it does not
@@ -489,7 +481,7 @@ terminology that you can use identification keys based on reproductive
 characters.
 
 The radiation of floral structure within Angiosperms has lead to a wide variety in both floral structures and inflorescences.
-In part this is due to change evolutionary events and in part it is do to selection pressures that arise from a particular pollination mechanism.  
+In part this is due to chance evolutionary events and in part it is do to selection pressures that arise from a particular pollination mechanism.  
 Sometimes the pollinators are animals that are evolving themselves, meaning the evolution of floral
 structure can only be understood in the context of *co-evolution*--both the plant and the animal are evolving 
 at the same time and in response to each other.  
@@ -497,37 +489,14 @@ at the same time and in response to each other.
 The floral diversity in angiosperms is staggering, but with some practice it's also useful---it can be of great assistance in plant identification.
 With a few terms and some practice.  
 
-## Learning flowering plants by family
-
-There are >300,000 Angiosperms and >350,000 vascular plants, so we use families as the *filing cabinet* to put all this diversity in.
-
-Families often (though not always) have defining floral traits, which we will explain in this lab.
-
-For this course you need to be able to identify on sight the following 6 families:  
-
-1. Myrtaceae
-
-2. Rutaceae
-
-3. Fabaceae
-
-4. Asteraceae
-
-5. Proteaceae
-
-6. Ericaceae
-
-We will explain the diagnostic characters for these families throughout the course, but one of the most important are floral characters, the focus of this lab.
-
-Once you learn the theory in this lab, make sure to review the sections on Myrtaceae, Rutaceae, Fabaceae, Asteraceae, Proteaceae and Ericaceae in the back of this manual.
-Note that the characteristics of each family are explaining using floral and inflorescence traits.  
-
 
 ##Floral structure
 
 As you will see, flowers are complex, highly specialised, and exhibit
 tremendous morphological diversity across taxa. Botanists have a number
 of ways of describing floral structure.
+
+The basic floral structure comprises four **whorls**, each comprising 3-5 segments, but this varies greatly among species. A 'whorl' is a group of appendages arising from the same point on an axis. The identity of each floral whorl is determined by its position and function. The inner-most and upper-most whorl is the gynoecium, followed by the androecium, corolla and calyx (the outer-most and lowest whorl of the flower.
 
 ### Important terms
 
@@ -592,7 +561,7 @@ they must be attached at the other end.
 **A floral diagram** is a ground plan that can express number of
     parts, fusion and some of the symmetry, but not whether the ovary is
     superior or inferior. It helps to draw concentric circles for each
-    whorl first in light pencil as a guide for the diagram. The position
+    whorl first in light pencil as a guide for the floral diagram. The position
     of the inflorescence axis and the subtending bract or leaf can also
     be shown. The figures and show examples of floral diagrams and
     floral formulae
@@ -613,7 +582,7 @@ they must be attached at the other end.
 some variations in floral structure that can be shown in these ways.](variation_floral_diagram.png)
 
 ![Terminology for describing the position of the ovary in
-relation to other floral parts.](ovary_position.png)
+relation to other floral parts.  The hypanthium (shown in black)  is an extension of the pedicel (flower stalk). For every new flower you examine, check if the calyx, corolla and androecium separate from the hypanthium above (epigynous), level with (perigynous) or below (hypogynous) the gynoecium.  Also check if the ovary fused to the hypanthium only at its base (superior), for its basal portion (half-inferior) or for its entire length (inferior).](ovary_position.png)
 
 ![Carpels in basal angiosperm lineages and one hypothesis for the evolution of syncarpy](basal_carpels.png)
 
@@ -666,7 +635,7 @@ highly evolved it is usually considered.
 
 ![Types of inflorescences. The sequence in which the flowers
 open is indicated by size of the circles representing the flowers;
-largest opens first, smallest opens last.](inflorescenceTypes.png)
+largest opens first, smallest opens last.  Figure from N.C.W. Beadle, O.D. Evans & R.C. Carolin (1982)  Flora of The Sydney Region. Reed, Sydney.](Fig_4inflorescence.png)
 
 ## Diversity of floral traits
 
@@ -691,7 +660,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
 
 \vspace*{3\baselineskip}
 
- **Androecium.** 
+ **Androecium  - the male part of the flower comprising one or more stamens, each with an anther and filament** 
  
  - Does the number of stamens relate readily to the
  number in each perianth whorl, or is it very large and variable from
@@ -716,7 +685,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
 
 \vspace*{3\baselineskip}
 
- **Gynoecium.** Note the single style arising in the centre of the
+ **Gynoecium - the female part of the flower comprising one or more carpels, each with an ovary, style and stima.** Note the single style arising in the centre of the
  flower. The structure of the ovary is often seen more clearly in
  developing fruits. Cut the ovary transversely with a razor blade and
  examine the cut surface with a hand lens. Make certain you have cut
@@ -776,7 +745,7 @@ largest opens first, smallest opens last.](inflorescenceTypes.png)
  Use “The key to some Australian Plant families” found at the end of
  the lab manual to identify the specimen supplied to family level.
 
- First, examine the flower and construct a floral formula for it. Check
+ First, examine the flower and construct a floral formula for it. Drawing a floral diagram or a vertical cross-sectional diagram may help. Check
  this with a demonstrator, so that you are sure you have interpreted
  the flower correctly, **before proceeding to the key.**
 
@@ -811,7 +780,43 @@ Families).
 
 \newpage
 
-# Week 4: Campus Flora I
+
+
+
+
+
+# Week 4: Important Plant Families in Australia and the World
+
+There are >300,000 Angiosperms and >350,000 vascular plants, so we use families as the filing cabinet to put all this diversity in.
+
+Families often (though not always) have defining floral traits, which we will explain in this lab.
+
+For this course you need to be able to identify on sight the following 10 families:
+
+## Myrtaceae
+
+\begin{table}[]
+\centering
+\caption{Important families in Australia and the world}
+\label{my-label}
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+                                                    & \begin{tabular}{@{}c@{}}Floral formula \\ of example species\end{tabular} & \begin{tabular}{@{}c@{}}Leaves \\ Opp or Alt\end{tabular} & Growth form & Notable aroma & Example species \\ \hline
+ \large Myrtaceae \rule{0pt}{12ex}     &   &   &   & &   \\ \hline
+  \large Rutaceae  \rule{0pt}{12ex}   &   &   &   &  & \\ \hline
+ \large Fabaceae     \rule{0pt}{12ex}     &    &   &  & &   \\ \hline
+ \large Proteaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+ \large Ericaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+ \large Poaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+ \large Brassicaceae \rule{0pt}{12ex}    &   &   &  & &  \\ \hline
+ \large Apiacae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+ \large Rosaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+ \large Asteraceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+\end{tabular}
+\end{table}
+
+
+# Week something: Campus Flora I
 
 This year, you are doing something brand new - developing a Campus Flora
 app. The aim is to generate an interactive map that will allow users to
