@@ -773,45 +773,77 @@ largest opens first, smallest opens last.  Figure from N.C.W. Beadle, O.D. Evans
 ### Plant Identification and Family Descriptions
 
 We will examine the key traits and features of some of the **major
-Australian plant families** throughout this course. Details for these
-families are provided in the back of the lab manual (Plant
-Identification and Family Descriptions, and the Key to Australian Plant
-Families).
+Australian plant families** throughout this course. 
 
 \newpage
-
-
-
-
 
 
 # Week 4: Important Plant Families in Australia and the World
 
 There are >300,000 Angiosperms and >350,000 vascular plants, so we use families as the filing cabinet to put all this diversity in.
+There are 416 flowering plant families by the most recent assessment (Angiosperm Phylogeny Group IV 2015).  Most working
+botanists will know around 100 of these families.  (Not all families are present everywhere.) In this class we'll teach your first 10 families. We will split one of these into two sub-families that look very different.  Some are important in the Australian flora, and others are on the global scale and especially 
+for agriculture.  
 
-Families often (though not always) have defining floral traits, which we will explain in this lab.
+The important concept to consider first is that some traits are variable within some families, but good diagnostic characters for other families.  So the key traits for different families are different.  Moreover it's the particular combination of traits that makes an family identification accurate.  
+Categories of traits that help were covered in detail in the previous two labs, so there are not new terms to 
+learn today, but use this opportunity to review those terms.  The terms also are crucial for working your way through plant ID keys.  
 
-For this course you need to be able to identify on sight the following 10 families:
+Details for these families are provided in the back of the lab manual (Plant Identification and Family Descriptions, and the Key to Australian Plant
+Families).  As throughout this course, please also use the abundant resources on the web for Australian and global 
+plants (see links on Moodle).  The key skill in this course is connecting the plants you see in front of you to resource material.
 
-## Myrtaceae
+![A notable Australian genus](banksia.jpg)
 
 \begin{table}[]
 \centering
-\caption{Important families in Australia and the world}
-\label{my-label}
-\begin{tabular}{|l|l|l|l|l|l|}
+\caption{Proportion of Australian species within each of the major families.}
+\label{prop-aussie}
+\begin{tabular}{c c}
 \hline
-                                                    & \begin{tabular}{@{}c@{}}Floral formula \\ of example species\end{tabular} & \begin{tabular}{@{}c@{}}Leaves \\ Opp or Alt\end{tabular} & Growth form & Notable aroma & Example species \\ \hline
- \large Myrtaceae \rule{0pt}{12ex}     &   &   &   & &   \\ \hline
-  \large Rutaceae  \rule{0pt}{12ex}   &   &   &   &  & \\ \hline
- \large Fabaceae     \rule{0pt}{12ex}     &    &   &  & &   \\ \hline
- \large Proteaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
- \large Ericaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
- \large Poaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
- \large Brassicaceae \rule{0pt}{12ex}    &   &   &  & &  \\ \hline
- \large Apiacae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
- \large Rosaceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
- \large Asteraceae \rule{0pt}{12ex}    &   &   &   &  & \\ \hline
+Family & Percent of the Australian Flora  \\ \hline
+  Fabaceae     &  	12.0 \\ 
+   Myrtaceae     & 	9.3  \\
+   Asteraceae & 	8.0 \\ 
+ Poaceae    &   6.5 \\ 
+  Proteaceae   &  5.6 \\ 
+\end{tabular}
+\end{table}
+
+
+
+
+
+\begin{table}[]
+\centering
+\caption{Important families in Australia and the world. part 1}
+\label{my-label}
+\begin{tabular}{|c|l|l|l|l|l|}
+\hline
+& \begin{tabular}{@{}c@{}}Floral formula \\ of example species\end{tabular} & \begin{tabular}{@{}c@{}}Leaf Arrangement \\ Opp or Alt\end{tabular} & Growth form & Notable aroma & Example species \\ \hline
+ \large Myrtaceae \rule{0pt}{14ex}     &   &   &   & &   \\ \hline
+  \large Rutaceae  \rule{0pt}{14ex}   &   &   &   &  & \\ \hline
+ \large \begin{tabular}{@{}c@{}} Fabaceae \\ \normalsize sub-family: \\ \normalsize Faboideae  \\ \normalsize aka Papilionaceae \end{tabular} \rule{0pt}{14ex}     &    &   &  & &   \\ \hline
+\large \begin{tabular}{@{}c@{}} Fabaceae \\ \normalsize sub-family: \\ \normalsize Mimosoideae \end{tabular} \rule{0pt}{14ex}     &    &   &  & &   \\ \hline
+ \large Proteaceae \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
+\end{tabular}
+\end{table}
+
+\newpage
+
+ \begin{table}[]
+\centering
+\caption{Important families in Australia and the world. part 2}
+\label{my-label-2}
+\begin{tabular}{|c|l|l|l|l|l|}
+\hline
+& \begin{tabular}{@{}c@{}}Floral formula \\ of example species\end{tabular} & \begin{tabular}{@{}c@{}}Leaf Arrangement \\ Opp or Alt\end{tabular} & Growth form & Notable aroma & Example species \\ \hline
+ \large Ericaceae \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
+ \large \begin{tabular}{@{}c@{}} Poaceae \\ \normalsize aka Gramineae \end{tabular}  \rule{0pt}{14ex}   &   &   &   &  & \\ \hline
+ \large \begin{tabular}{@{}c@{}} Brassicaceae \\ \normalsize aka Cruciferae \end{tabular} \rule{0pt}{14ex}    &   &   &  & &  \\ \hline
+ \large \begin{tabular}{@{}c@{}} Apiaceae \\ \normalsize aka Umbelliferae \end{tabular} \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
+ \large Rosaceae \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
+ \large \begin{tabular}{@{}c@{}} Asteraceae \\ \normalsize aka Compositae \end{tabular} \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
 \end{tabular}
 \end{table}
 
