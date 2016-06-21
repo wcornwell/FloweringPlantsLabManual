@@ -87,7 +87,7 @@ new one the next year.
 
 -  Note the growing apex of a leaf is coiled up to protect the initial
     cell that is responsible for the growth. All fern leaves uncoil at
-    the apex like this – why is this adaptive?
+    the apex like this  why is this adaptive?
 
 \vspace*{3\baselineskip}
 
@@ -740,9 +740,9 @@ largest opens first, smallest opens last.  Figure from N.C.W. Beadle, O.D. Evans
 
 ## Plant Identification
 
-### Introduction to the use of the ‘Key to Plant Families’
+### Introduction to the use of the Key to Plant Families
 
- Use “The key to some Australian Plant families” found at the end of
+ Use The key to some Australian Plant families found at the end of
  the lab manual to identify the specimen supplied to family level.
 
  First, examine the flower and construct a floral formula for it. Drawing a floral diagram or a vertical cross-sectional diagram may help. Check
@@ -793,6 +793,8 @@ Details for these families are provided in the back of the lab manual (Plant Ide
 Families).  As throughout this course, please also use the abundant resources on the web for Australian and global 
 plants (see links on Moodle).  The key skill in this course is connecting the plants you see in front of you to resource material.
 
+One note about names: modern botanical rules state that families should be named after a "type" genus and end in "-aceae".  (Animal families end in -idae.)  That is the Proteaceae is named for the "type" genus Protea (which is found in South Africa and florist shops).  Because this was the first genus of the family it becomes the type genus.  Before these names were introduced there was a bit more chaos in naming of plant families.  (And there are still a few hold-outs around that want to stick to old names.)  We've included the old names below as some of the reference books and field guides still use the old names.  
+
 ![A notable Australian genus](banksia.jpg)
 
 \begin{table}[]
@@ -812,117 +814,308 @@ Family & Percent of the Australian Flora  \\ \hline
 
 
 
+## Myrtaceae
 
+### Floral formula
+\vspace*{2\baselineskip}
 
-\begin{table}[]
-\centering
-\caption{Important families in Australia and the world. part 1}
-\label{my-label}
-\begin{tabular}{|c|l|l|l|l|l|}
-\hline
-& \begin{tabular}{@{}c@{}}Floral formula \\ of example species\end{tabular} & \begin{tabular}{@{}c@{}}Leaf Arrangement \\ Opp or Alt\end{tabular} & Growth form & Notable aroma & Example species \\ \hline
- \large Myrtaceae \rule{0pt}{14ex}     &   &   &   & &   \\ \hline
-  \large Rutaceae  \rule{0pt}{14ex}   &   &   &   &  & \\ \hline
- \large \begin{tabular}{@{}c@{}} Fabaceae \\ \normalsize sub-family: \\ \normalsize Faboideae  \\ \normalsize aka Papilionaceae \end{tabular} \rule{0pt}{14ex}     &    &   &  & &   \\ \hline
-\large \begin{tabular}{@{}c@{}} Fabaceae \\ \normalsize sub-family: \\ \normalsize Mimosoideae \end{tabular} \rule{0pt}{14ex}     &    &   &  & &   \\ \hline
- \large Proteaceae \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
-\end{tabular}
-\end{table}
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\hrulefill
+
+## Rutaceae
+
+### Floral formula
+
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
 
 \newpage
 
- \begin{table}[]
-\centering
-\caption{Important families in Australia and the world. part 2}
-\label{my-label-2}
-\begin{tabular}{|c|l|l|l|l|l|}
-\hline
-& \begin{tabular}{@{}c@{}}Floral formula \\ of example species\end{tabular} & \begin{tabular}{@{}c@{}}Leaf Arrangement \\ Opp or Alt\end{tabular} & Growth form & Notable aroma & Example species \\ \hline
- \large Ericaceae \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
- \large \begin{tabular}{@{}c@{}} Poaceae \\ \normalsize aka Gramineae \end{tabular}  \rule{0pt}{14ex}   &   &   &   &  & \\ \hline
- \large \begin{tabular}{@{}c@{}} Brassicaceae \\ \normalsize aka Cruciferae \end{tabular} \rule{0pt}{14ex}    &   &   &  & &  \\ \hline
- \large \begin{tabular}{@{}c@{}} Apiaceae \\ \normalsize aka Umbelliferae \end{tabular} \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
- \large Rosaceae \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
- \large \begin{tabular}{@{}c@{}} Asteraceae \\ \normalsize aka Compositae \end{tabular} \rule{0pt}{14ex}    &   &   &   &  & \\ \hline
-\end{tabular}
-\end{table}
+## Fabaceae sub-family: Faboideae \small aka Papilionaceae
 
 
-# Week something: Campus Flora I
+### Floral formula
+\vspace*{2\baselineskip}
 
-This year, you are doing something brand new - developing a Campus Flora
-app. The aim is to generate an interactive map that will allow users to
-access information on all of the amazing plants around us.
+### Inflorescence type
 
-The jobs for the class of 2015 will be to
+\vspace*{2\baselineskip}
 
-a. Map the location and identity of all the trees on campus, and
+### Leaf type and arrangement and notable traits 
 
-b. Write “Plant biographies” to tell people about each species.
+\vspace*{2\baselineskip}
 
-The mapping will be done in class time (starting today), while the plant
-biographies are your first major assignment for this course.
+### Notable aroma 
 
-We will use the information you provide as the basis for an app
-something like the one available at Sydney University
-(<http://campusflora.sydneybiology.org/>). Next year’s class will add to
-what you have done by mapping the shrubs, and the year after will map
-herbaceous plants.
+\vspace*{2\baselineskip}
 
-The overall aims of this project are to:
+### Growth form
 
-1. Produce a real-life product that the community can use, and that you can be proud of.
+\vspace*{2\baselineskip}
 
-2. Address plant-blindness – the fact that most people wander around the world without noticing all the different sorts of plants they pass.
+### Example species
 
-3.  Increase your familiarity with many of the online botanical information resources, the primary literature, the herbarium, and the fact that there are interesting stories associated with many of the plants around you.
+\vspace*{2\baselineskip}
 
-4.  Reinforce what you have learned so far about plant identification, and help you to learn more about plant families.
+\hrulefill
 
-**PART A) MAPPING THE PLANTS ON CAMPUS**
+## Fabaceae sub-family: Mimosoideae
 
-The class will be divided in to small groups. Each group will need at
-least one smart phone or tablet (but not every person needs one). We
-will divide a map of campus in to sections, and each group will be
-responsible for mapping all plants above 15cm dbh (diameter at breast
-height) in one map section.
+### Floral formula
 
-We will establish a help station in central campus that you can come to
-for help with plant identification, to borrow pole pruners, or for any
-other questions.
+\vspace*{2\baselineskip}
 
-You will need to:
+### Inflorescence type
 
-1\) Download a GPS app. For android, we suggest GPS – Simple. For Iphone,
-we suggest Easy-GPS-coordinates-compass. Whatever you use should be in
-decimal format (degrees, minutes seconds are likely to cause conversion
-errors), should have at least 5 decimal places on degrees or 3 decimal
-places on minutes, and should have an estimate of the accuracy of your
-location.
+\vspace*{2\baselineskip}
 
-When you take readings, make sure the accuracy is within \~5 m
-(preferably less). If you are in a corner surrounded by many buildings,
-you might not be able to get an accurate reading – in this case, do your
-best, and locate the tree on google maps back in the lab to get more
-accurate coordinates.
+### Leaf type and arrangement and notable traits 
 
-2\) Go to your section of campus (take secateurs, plastic bags, pen and
-paper, and your phone with you), and systematically map all of the
-trees. For each individual plant, you will need to record:
+\vspace*{2\baselineskip}
 
-**Latitude**
+### Notable aroma 
 
-**Longitude**
+\vspace*{2\baselineskip}
 
-**Species identity**
+### Growth form
 
-*If you aren’t sure what species a plant is, give it a placeholder name,
-and take a specimen and helpful photographs that will allow an expert
-(Frank!) to identify the species.*
+\vspace*{2\baselineskip}
 
-3\) Enter the data in the Google spreadsheet:
-[https://docs.google.com/spreadsheets/d/1f\_MIdJXdi0-kiRrqaaXCNxc9e\_3vdIwO1k8WC2VtCzA/edit\#gid=0](#gid=0)
+### Example species
 
+\vspace*{2\baselineskip}
+
+\newpage
+
+## Proteaceae  
+
+### Floral formula
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\hrulefill
+
+## Ericaceae \small aka Epacridaceae
+
+### Floral formula
+
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\newpage
+
+## Poaceae \small aka Gramineae  
+
+### Floral formula
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\hrulefill
+
+## Brassicaceae \small aka Cruciferae
+
+### Floral formula
+
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\newpage
+
+## Apiaceae \small aka Umbelliferae  
+
+### Floral formula
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\hrulefill
+
+## Brassicaceae \small aka Cruciferae
+
+### Floral formula
+
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\newpage
+
+## Asteraceae \small aka Compositae  
+
+### Floral formula
+\vspace*{2\baselineskip}
+
+### Inflorescence type
+
+\vspace*{2\baselineskip}
+
+### Leaf type and arrangement and notable traits 
+
+\vspace*{2\baselineskip}
+
+### Notable aroma 
+
+\vspace*{2\baselineskip}
+
+### Growth form
+
+\vspace*{2\baselineskip}
+
+### Example species
+
+\vspace*{2\baselineskip}
+
+\hrulefill
 
 \newpage
 
@@ -1299,6 +1492,166 @@ See Raven Ch 23 for more information on plant cells.
 \newpage
 
 
+# Week 6: Leaf economics 
+
+In this practical class, we will examine some of the evolutionary constraints that have influenced the shape and structure of angiosperm leaves. 
+
+Even casual observation of the plants around us reveals an incredible diversity of form and architecture, for example even in the leaves of quite closely-related native plants such as members of the Acacias or Banksias.  What evolutionary forces have generated such diversity?  Why is there not a single 'best' shape and structure for a leaf?  
+
+One way to imagine these problems is to think of alternative investment strategies.  On one hand, a plant may have evolved a strategy of investing considerable amounts of organic molecules to manufacture robust leaves, resistant to physical and herbivore damage.  Alternatively, another species may have evolved a 'throw-away' strategy, investing relatively little carbon in each leaf, but replacing leaves frequently.  
+
+We will examine these questions by analysing the relationship of **leaf mass per unit** area, (**LMA**, the dried weight of a leaf divided by its area) to **leaf longevity** (how long the leaves of each species last on the plant). 
+
+## Part 1. LMA versus leaf longevity
+
+1.  Take one leaf from each of seven angiosperm species.  The leaves have been pressed and dried in an oven to remove all water.
+
+2.  Measure the area of each leaf. Record in units of $m^2$.
+
+3.  Weigh each leaf, in grams, on the electronic balance 
+
+4.  For each leaf, divide mass ($g$) by area ($m^2$) to calculate LMA ($\frac{g}{m^2}$). Put your data for each leaf on the whiteboard.  
+
+5.  Plot LMA on the X-axis, against leaf longevity on the Y-axis (you can do this by hand, or using a computer).
+
+\newpage
+
+![Plot LMA on the X-axis, against leaf longevity on the Y-axis](graph_paper.pdf)
+
+6. Why do you think the points fall where they do, and not elsewhere on the graph?
+
+\vspace*{10\baselineskip}
+
+7. Would you expect deciduous species to have higher, or lower LMA than evergreen species? Why?
+
+\vspace*{10\baselineskip}
+
+![The relationships between leaf lifespan, photosynthetic rate, leaf nitrogen concentration, and specific leaf area (the inverse of LMA) across species from around the world. From Reich, P. B., Walters, M. B., and Ellsworth, D. S. (1997) From tropics to tundra: Global convergence in plant functioning. PNAS 94:13730-13734. ](reich.png)
+
+![Distribution of leaf dry mass per unit area (LMA) values in the field, as observed for a wide range of species from (a) different functional groups and (b) different habitats. Box plots characterize this distribution, with the bottom and top part of the box indicating the 25th and 75th percentile, respectively, the two whiskers the 10th and the 90th percentile, respectively, and the horizontal line within the box the median value. The median value is also printed right above the box plots. The total number of species present in each functional group or habitat is indicated at the top of the graphs.  Poorter, H., Niinemets, U., Poorter, L., Wright, I.J. and Villar, R. (2009) Causes and consequences of variation in leaf mass per area (LMA): a metaanalysis. New Phytologist, 182, 565-588](poorter.gif)
+
+## Part 2. Leaf structure and function
+
+There are virtual sections of leaves available on Moodle (in the resources folder).
+
+### What does a high LMA leaf look like inside?
+
+Look at the images of *Doryphora sassafras* and *Banksia serrata*.
+
+1. Which species has an LMA of 70?                                
+
+2. Which species has an LMA of 352?
+
+3. What differences can you see between the high and low LMA leaves?
+
+\newpage
+
+### Adaptations to arid environments
+
+Plants lose a lot of water through their leaves. Many Australian plants have to deal with regular droughts or consistently arid environments. As a consequence, these plants have many adaptations to limit water loss. Open the images for each of these plants and list the adaptations to water loss that you can see.
+
+1. *Banksia serrata*
+
+\vspace*{10\baselineskip}
+
+
+2. *Correa alba*
+
+
+\vspace*{10\baselineskip}
+
+
+3. *Hakea terretifolia*
+
+
+\vspace*{10\baselineskip}
+
+4. *Atriplex* sp
+
+\vspace*{10\baselineskip}
+
+\newpage
+
+# Week something: Campus Flora I
+
+This year, you are doing something brand new - developing a Campus Flora
+app. The aim is to generate an interactive map that will allow users to
+access information on all of the amazing plants around us.
+
+The jobs for the class of 2015 will be to
+
+a. Map the location and identity of all the trees on campus, and
+
+b. Write Plant biographies to tell people about each species.
+
+The mapping will be done in class time (starting today), while the plant
+biographies are your first major assignment for this course.
+
+We will use the information you provide as the basis for an app
+something like the one available at Sydney University
+(<http://campusflora.sydneybiology.org/>). Next years class will add to
+what you have done by mapping the shrubs, and the year after will map
+herbaceous plants.
+
+The overall aims of this project are to:
+
+1. Produce a real-life product that the community can use, and that you can be proud of.
+
+2. Address plant-blindness  the fact that most people wander around the world without noticing all the different sorts of plants they pass.
+
+3.  Increase your familiarity with many of the online botanical information resources, the primary literature, the herbarium, and the fact that there are interesting stories associated with many of the plants around you.
+
+4.  Reinforce what you have learned so far about plant identification, and help you to learn more about plant families.
+
+**PART A) MAPPING THE PLANTS ON CAMPUS**
+
+The class will be divided in to small groups. Each group will need at
+least one smart phone or tablet (but not every person needs one). We
+will divide a map of campus in to sections, and each group will be
+responsible for mapping all plants above 15cm dbh (diameter at breast
+height) in one map section.
+
+We will establish a help station in central campus that you can come to
+for help with plant identification, to borrow pole pruners, or for any
+other questions.
+
+You will need to:
+
+1\) Download a GPS app. For android, we suggest GPS  Simple. For Iphone,
+we suggest Easy-GPS-coordinates-compass. Whatever you use should be in
+decimal format (degrees, minutes seconds are likely to cause conversion
+errors), should have at least 5 decimal places on degrees or 3 decimal
+places on minutes, and should have an estimate of the accuracy of your
+location.
+
+When you take readings, make sure the accuracy is within \~5 m
+(preferably less). If you are in a corner surrounded by many buildings,
+you might not be able to get an accurate reading  in this case, do your
+best, and locate the tree on google maps back in the lab to get more
+accurate coordinates.
+
+2\) Go to your section of campus (take secateurs, plastic bags, pen and
+paper, and your phone with you), and systematically map all of the
+trees. For each individual plant, you will need to record:
+
+**Latitude**
+
+**Longitude**
+
+**Species identity**
+
+*If you arent sure what species a plant is, give it a placeholder name,
+and take a specimen and helpful photographs that will allow an expert
+(Frank!) to identify the species.*
+
+3\) Enter the data in the Google spreadsheet:
+[https://docs.google.com/spreadsheets/d/1f\_MIdJXdi0-kiRrqaaXCNxc9e\_3vdIwO1k8WC2VtCzA/edit\#gid=0](#gid=0)
+
+
+\newpage
+
+
+
 # Week 6: Leaves and their control on plant water loss
 
 Reference: The Biology of Plants  pp 592-604.
@@ -1425,7 +1778,7 @@ Families).
 
 ## Vascular Tissue
 
-References : Raven et al. (2013) ch 25-26
+References: Raven et al. (2013) ch 25-26
 
 The cells involved in long distance transport invariably occur together
 in the same region of a stem or root. There are two systems: xylem,
@@ -1634,7 +1987,7 @@ may be relatively continuous or seasonal.
  leaves each spring, the bud scales falling away to leave a cluster of
  scars. Hence the past positions of the winter buds can be determined
  by looking for these clusters of scars, and the length of stem between
- the groups of scars corresponds to one year’s growth. It is therefore
+ the groups of scars corresponds to one years growth. It is therefore
  possible to date any part of the stem by counting the number of
  winter-bud positions between that point and the apical bud.
 
@@ -1681,7 +2034,7 @@ epidermis have expanded?
 
 - cortex - what type(s) of cells are present
 
-- epidermis - closely fitting epidermal cells with dome–shaped outer
+- epidermis - closely fitting epidermal cells with domeshaped outer
  walls, carrying a well developed cuticle.
 
 ## Plant Identification 
@@ -1801,7 +2154,7 @@ Can we get a rhizome to look at?
  (You will need to compare infected and non-infected roots in each
  case.)
 
-### Proteoid or “Cluster” roots 
+### Proteoid or Cluster roots 
 
  Examine the proteoid roots and determine their morphology. 
  
@@ -1838,7 +2191,7 @@ First some history: seed plants are about 375 Million years old (Silvestro et al
 The following paragraph is an excerpt from an influential paper (Davies
 et al. 2004):
 
->“Charles Darwin described the rapid rise and diversification within the angiosperms as an ‘abominable mystery.’ Angiosperms are regarded as one of the greatest terrestrial radiations of recent geological times. The major lineages originated 130-90 million years ago (mya), followed by a dramatic rise to ecological dominance 100-70 mya. Approximately 250000 extant species have been recognised, although estimates vary, and the final number might be double this. Within the group, sister clades can differ in species richness over several orders of magnitude. Darwin attempted to identify a single causal explanation for the rapid diversification of angiosperms but described his own efforts as wretchedly poor.”
+>Charles Darwin described the rapid rise and diversification within the angiosperms as an abominable mystery. Angiosperms are regarded as one of the greatest terrestrial radiations of recent geological times. The major lineages originated 130-90 million years ago (mya), followed by a dramatic rise to ecological dominance 100-70 mya. Approximately 250000 extant species have been recognised, although estimates vary, and the final number might be double this. Within the group, sister clades can differ in species richness over several orders of magnitude. Darwin attempted to identify a single causal explanation for the rapid diversification of angiosperms but described his own efforts as wretchedly poor.
 
 Through  recent research, we have come a long way in understanding the evolutionary relationship among orders and families  of flowering plants. The figure shows a phylogeny of flowering plants (a
  tree showing how flowering plant orders are related to one another).
@@ -1954,7 +2307,7 @@ location and name data.
 
 Work in your groups:
 
--   Finish mapping (if you didn’t manage all of the plants in your
+-   Finish mapping (if you didnt manage all of the plants in your
     section of campus in week 4).
 
 -   Revisit any plants whose identification is still eluding you.
@@ -1967,7 +2320,7 @@ Work in your groups:
     (correct any spelling errors).
 
 -   If you finish all of the above, spend some time checking out other
-    people’s plant biographies – with luck, you will learn some really
+    peoples plant biographies  with luck, you will learn some really
     interesting things!
 
 
@@ -1978,7 +2331,7 @@ Work in your groups:
 Most aspects of plant function are size-dependent. In other words, the
 function of plant traits varies in an exponential fashion with plant (or
 organ) size. These size-dependent (or allometric) relationships are
-central to understanding the nature of plant adaptations and constraints. In today’s lab, we will examine some important allometric relationships across plant vegetative and reproductive traits.
+central to understanding the nature of plant adaptations and constraints. In todays lab, we will examine some important allometric relationships across plant vegetative and reproductive traits.
 
 In order to examine allometric relationships, data must be collected
 from plants across a range of sizes. Each group will be responsible for
@@ -1993,11 +2346,11 @@ early detection of competitors. Plants can detect competitors by a
 number of mechanisms. For example, green light reflected from the leaves
 of competitors is low quality light received by phytochrome receptors in
 the chloroplasts. In order to avoid being overtopped by competitors, a
-plant will undergo a phenotypic shift to maximise height extension – the
+plant will undergo a phenotypic shift to maximise height extension  the
 shade-avoidance response.
 
 We been growing *Impatiens wallerana* since early in the session under
-two treatments – high density, and individually. High density plants
+two treatments  high density, and individually. High density plants
 have been grown with a number of competitors. Record the following data
 from the 1-2 randomly high density plants growing in the centre of the
 pot (i.e. surrounded by competing plants) and the plants growing
@@ -2012,7 +2365,7 @@ iii) Height / diameter
 iv) Total leaf weight (remove all leaves, place in a paper bag, record
     mass).
 
-Using class data – complete the graph and questions on the following
+Using class data  complete the graph and questions on the following
 sheet. Check your answers with demonstrators / lecturers
 
 ![](graph.png)
@@ -2048,10 +2401,10 @@ associated with adaptive stem architecture (as seen in question 1)?
 
 Reproductive effort (i.e. proportional allocation to reproduction) is a
 major life history trait in plants and animals. In many plant
-populations, reproductive effort increases with increasing plant size –
+populations, reproductive effort increases with increasing plant size 
 large plants have a higher relative allocation to reproduction than
 small plants. We will test for size-dependent reproduction in *Capsella
-bursa-pastoris* (shepherd’s purse).
+bursa-pastoris* (shepherds purse).
 
 For the individuals of *Capsella bursa-pastoris* provided, a) count the
 total number of fruits (including the pedicels and/or dehisced tissue of
@@ -2087,9 +2440,9 @@ fruit or seed) as a parachute. Wind can keep these seeds aloft, allowing
 them to travel great distances.
 
 The capacity for a pappus to keep a seed aloft should be strongly
-related to seed mass. This sets up an interesting evolutionary tradeoff–-plants that provision their offspring with a large endosperm (large seeds) are more likely to germinate and survive. Plants with small seeds
+related to seed mass. This sets up an interesting evolutionary tradeoff-plants that provision their offspring with a large endosperm (large seeds) are more likely to germinate and survive. Plants with small seeds
 are more likely to successfully disperse into new habitats. Of course,
-tradeoffs can be quite complex – selection on seed size should be very
+tradeoffs can be quite complex  selection on seed size should be very
 strong if there is a allometric relationship between how fast a seed
 falls to the ground and its mass. In other words, if large seeds fall to
 earth disproportionately fast, then plants employing a wind dispersal
@@ -2101,20 +2454,20 @@ ability using manipulated *Sonchus* seeds. These seeds are very small
 into three treatment groups and recorded their average mass.
 
 1.  Control seeds are simply seeds collected from their natural habitat
-    (my neighbour’s garden) – average seed mass for these seeds is
+    (my neighbours garden)  average seed mass for these seeds is
     0.0003 g
 
-2. Large seeds are seeds experimentally coated with a layer of glue –
-    average seed mass for these seeds is 0.00045 g. Please note, I don’t
+2. Large seeds are seeds experimentally coated with a layer of glue 
+    average seed mass for these seeds is 0.00045 g. Please note, I dont
     have many of these seeds (treating them was very difficult), so
-    don’t loose them.
+    dont loose them.
 
-3. Small seeds are seeds with the bottom portion removed – average
+3. Small seeds are seeds with the bottom portion removed  average
     seed mass for these seeds is 0.00025 g.
 
 Tubes have been constructed in the back of the lab. The tubes can be
 used to measure the rate seeds differing in mass fall without being
-influenced by ambient air currents – they are 1m tall. Drop seeds of
+influenced by ambient air currents  they are 1m tall. Drop seeds of
 each mass into the tube and record how fast they fall. Convert this to a
 value for rate of descent (m/sec). Record your data in the table and
 graph at the front of the lab.
@@ -2138,7 +2491,7 @@ For example, the ancestors to most of our fruits are relatively small.
 We modified these fruits by using natural variation in fruit traits,
 (and, in some cases, fruit trait) mutants to maximise the size and
 nutritional quality of our fruits. Any selection (natural or artificial)
-acts on variation within populations – traits that limit the fitness of
+acts on variation within populations  traits that limit the fitness of
 a genotype will be quickly removed from a population by processes of
 natural selection.
 
@@ -2475,7 +2828,7 @@ accepted.
 4.  **Collect native or naturalised plants**. Horticultural plants are
     often difficult to identify and collecting them would not contribute
     to our knowledge base of the Australian flora. If you are looking
-    for plants near gardens – **Don’t** collect plants that have been
+    for plants near gardens  **Dont** collect plants that have been
     put there by people; **Do** collect plants (such as weeds) that
     arrived there on their own.
 
@@ -2524,7 +2877,7 @@ accepted.
 8.  Submit a spreadsheet documenting the distribution of character
     states amongst the specimens
 
-Here’s what we will be marking:
+Heres what we will be marking:
 
 1.  Complete and correct identification. This includes family name,
     genus, specific epithet and authority. Common names are not
@@ -2589,19 +2942,19 @@ unfair, you can click to flag it in Moodle, and we will check it.
 
 **2) FEEDBACK ON PEER ASSIGNMENTS** (Due Friday 4^th^ Sept)
 
-Scientists spend a lot of time reviewing other scientists’ work, and
+Scientists spend a lot of time reviewing other scientists work, and
 giving their colleagues feedback on their work. We have designed this
 part of the assignment to give you the opportunity to develop your
 skills in giving constructive feedback. We hope that reading plant
 biographies for three additional species will also increase the amount
 of interesting plant knowledge you pick up. Finally, thinking about what
-you like (or don’t like) about how others have done things is a
+you like (or dont like) about how others have done things is a
 fantastic way to improve your own work.
 
 We expect you to upload at least 100 words of constructive feedback for
 each of the three biographies you review, in addition to assigning a
 grade. Use the marking schedule below to allocate marks, and to guide
-your feedback. We take plagiarism seriously – if you find any evidence
+your feedback. We take plagiarism seriously  if you find any evidence
 of plagiarism (e.g. sentences copied directly from other sources),
 please let Will or Angela know.
 
@@ -2670,14 +3023,14 @@ We would also like you to include information such as:
 
 -   Interesting biotic interactions (e.g. if you had a *Ficus*, you
     could write about the special interaction between figs and their
-    pollinating wasps – figs can’t form without wasps living inside
+    pollinating wasps  figs cant form without wasps living inside
     them, so are off the menu for strict vegetarians),
 
 -   Chemical and physical defences (e.g. Solanaceae tend to have
     interesting alkaloids like nicotine),
 
 -   Is the species, or its relatives useful/edible/noteworthy? (e.g did
-    you know that black tea is made from a type of *Camellia* – those
+    you know that black tea is made from a type of *Camellia*  those
     ugly plants with pink flowers that you see near the coffee cart?).
 
 -   Any interesting biogeography or palaeoecology? (e.g. *Nothofagus*
@@ -2739,7 +3092,7 @@ species. These will be lodged in the UNSW herbarium, and the herbarium
 reference number can be included in the information in the species
 description, linking the online information to our impressive plant
 reference collection at UNSW. The herbarium specimens should be included
-in your plant collection – add notes to your plant collection to
+in your plant collection  add notes to your plant collection to
 indicate which specimens are of your plant biography species.
 
 **\
@@ -3010,14 +3363,14 @@ the microscope.
 The value of the micrometer eyepiece changes as the magnification
 changes and it should be calibrated for each objective with a stage
 micrometer. The stage micrometer scale is usually 1.0 mm long,
-subdivided into 100 X .01 mm (10 µm) divisions. To calibrate the
+subdivided into 100 X .01 mm (10 m) divisions. To calibrate the
 eyepiece micrometer you need to determine the number of divisions on the
 stage micrometer that corresponds to a chosen number of divisions of the
 eyepiece micrometer.
 
 The relationship is: $M = \frac{S \times V} {E}$
 
-M is the value (in mm or µm) of *each* eyepiece micrometer unit to be
+M is the value (in mm or m) of *each* eyepiece micrometer unit to be
 determined.
 
 V is the value of each stage micrometer unit (usually 0.01 mm).
@@ -3083,19 +3436,19 @@ scale:
  objective
 
 2. Calculate the actual size: (ie. multiply occular units by the length each represents on the objective used)
-eg. 54 x 25 =1350 µm (or 1.35mm)
+eg. 54 x 25 =1350 m (or 1.35mm)
 
 3. Measure the size of *the same part* on the drawing (ie. the diameter of the same bundle) eg. 76mm
 
-4. Since 76mm on the drawing represents 1350µm on the section, what
- distance on the drawing equals 1mm (1000µm) on the section?
+4. Since 76mm on the drawing represents 1350m on the section, what
+ distance on the drawing equals 1mm (1000m) on the section?
 
- 1 m = *76* therefore 1000µm = *76* x1000 = 55.9mm
+ 1 m = *76* therefore 1000m = *76* x1000 = 55.9mm
 
  1350 1350
 
 5. Draw a scale line 56mm long below the drawing and label it 1mm
- (ie.1000µm).
+ (ie.1000m).
 
 ### General points
 
@@ -3213,7 +3566,7 @@ have phloem on both sides of the xylem.*
 2. Examine a flower. Note the **radial** symmetry. How many stamens are
  present? Is the number constant from flower to flower, and does it
  relate simply to the number of petals and sepals (eg., equal or double
- the number)? Which parts provide the main ‘display’ of the flower:
+ the number)? Which parts provide the main display of the flower:
  petals, or stamens?
 
 3. Note the single undivided style in the centre. Is the ovary clearly
@@ -3227,7 +3580,7 @@ have phloem on both sides of the xylem.*
  around the edge of the top of the ovary. Does each stamen and petal
  attach separately to the side of the ovary, or is there a raised rim of
  receptacle forming a cup above the ovary? This rim of receptacle is
- often referred to as the “**hypanthium**”.
+ often referred to as the **hypanthium**.
 
 5. Take another flower or a young developing fruit and cut transversely
  through the ovary (below the perianth). Examine the cut face with a hand
@@ -3243,9 +3596,9 @@ have phloem on both sides of the xylem.*
  family have this type of fruit. Each locule opens by a separate slit or
  valve in the top of the fruit. The seeds are mostly very small and wind
 dispersed **or**  fleshy and coloured (eg., pink or white). Remove the flesh. Is there
- a single central stony ‘kernel’, or are there several separate seeds?
- These are indehiscent fruits, termed a ‘drupe’ (single kernel) or
-‘berry’ (several seeded). They are mostly animal dispersed, though
+ a single central stony kernel, or are there several separate seeds?
+ These are indehiscent fruits, termed a drupe (single kernel) or
+berry (several seeded). They are mostly animal dispersed, though
  sometimes water-borne, and characterise most of the extra-Australian
  members of the family (mostly in the tropics). Some Australian
  rainforest species have this type of fruit. Opposite leaves are common
@@ -3304,12 +3657,12 @@ petals? Is it equal to or twice the number of petals?
 - Is the ovary superior or inferior? Examine how the style attaches to
 the ovary. Does it arise out of the summit, or from a central depression, or from between
 lobes on the top of the ovary? The last two attachments are often
-referred to as ‘**gynobasic**’ (the style arising from the base of the
+referred to as **gynobasic** (the style arising from the base of the
 ovary).
 
 - Look for a swollen ring of glandular tissue between the stamens and
 the base of the ovary, or lobes of such tissue. This is the **nectary**, which serves to
-attract the pollinating animals. A ‘**nectariferous disc**’ is a feature
+attract the pollinating animals. A **nectariferous disc** is a feature
 of most members of the family.
 
 - Cut a TS of the ovary, or preferably a young fruit. Note the number
@@ -3661,7 +4014,7 @@ Examine the specimen(s) provided.
 
 The following summarises the way you should proceed to identify any
 unknown specimen. First determine if the plant is a monocotyledon or a dicotyledon. If the
-specimen is a monocotyledon, have a closer look – if it has
+specimen is a monocotyledon, have a closer look  if it has
 modified/reduced flowers and/or spikelets, go to the family key to
 determine if it belongs to **CYPERACEAE** or not. If the specimen has
 well developed flowers, use the full family key for
@@ -4293,7 +4646,7 @@ flowers crowded together on the same axis
 *Nectary:* a specialised gland which secretes nectar
 
 *Node*: that part of the stem from which a leaf or leaves and/or bracts
-arise; the “knot” in a grass stem
+arise; the knot in a grass stem
 
 *Nut:* a dry, indehiscent, one-seeded fruit formed from 2 or more
 carpels
@@ -4581,7 +4934,7 @@ inherited by members of a taxon but which was present in a distant
 ancestor; ie. arose in the lineage leading to the common ancestor of the
 taxon, and hence may have been inherited by members of related taxa. A
 common trait that is not unique to the taxon [cf. *synapomorph*]. Note
-that, since ‘ancestral’ and ‘derived’ are relative terms, the taxon must
+that, since ancestral and derived are relative terms, the taxon must
 always be defined when this term is used. Eg. cuticle and lignin are
 symplesiomorphs in seed plants; double fertilisation in Ericaceae.
 
@@ -4594,7 +4947,7 @@ from an axillary bud below the apex
 common ancestor of a taxon but did not predate the taxon, and hence
 could have been inherited by all members of the taxon, but not by
 members of other taxa. [cf. *symplesiomorph, autapomorph*]. Note that,
-since ‘ancestral’ and ‘derived’ are relative terms, the taxon must
+since ancestral and derived are relative terms, the taxon must
 always be defined when this term is used. eg. double fertilisation in
 angiosperms.
 
