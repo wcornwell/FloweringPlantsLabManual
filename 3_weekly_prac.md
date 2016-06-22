@@ -2326,201 +2326,137 @@ Work in your groups:
 
 \newpage
 
-# Week 11: Plant Allometry
+# Week 11: Plant--Animal Interactions --- Herbivory
 
-Most aspects of plant function are size-dependent. In other words, the
-function of plant traits varies in an exponential fashion with plant (or
-organ) size. These size-dependent (or allometric) relationships are
-central to understanding the nature of plant adaptations and constraints. In todays lab, we will examine some important allometric relationships across plant vegetative and reproductive traits.
+In this practical, we’re going to have a look at one of the most important interactions between plants and animals: herbivory. We will start by estimating the amount of herbivore damage experienced by plants growing in Sydney. Next, we will look at the different strategies plants use to reduce the amount of damage they receive, and test the efficacy of four types of plant defences.  
 
-In order to examine allometric relationships, data must be collected
-from plants across a range of sizes. Each group will be responsible for
-collecting data, but we will need data from the entire class.
+## I.	How much herbivory do plants experience at UNSW? 
 
-##  Adaptive responses to the presence of competitors in *Impatiens wallerana*.
+Work in pairs. 
 
-The capacity to respond to competitors is a key adaptation for most
-plants (plants rarely grow alone). One common adaptation is the
-shade-avoidance response. The shade-avoidance response is induced by the
-early detection of competitors. Plants can detect competitors by a
-number of mechanisms. For example, green light reflected from the leaves
-of competitors is low quality light received by phytochrome receptors in
-the chloroplasts. In order to avoid being overtopped by competitors, a
-plant will undergo a phenotypic shift to maximise height extension  the
-shade-avoidance response.
+**Step 1:** Each pair should choose two species from the selection in the lab. 
 
-We been growing *Impatiens wallerana* since early in the session under
-two treatments  high density, and individually. High density plants
-have been grown with a number of competitors. Record the following data
-from the 1-2 randomly high density plants growing in the centre of the
-pot (i.e. surrounded by competing plants) and the plants growing
-individually in pots:
+**Step 2:** Go outside (but stay on campus). Find a specimen of one of your species, and haphazardly select a branch to sample (try not to look at the state of the leaves when you do this). 
 
-i)  The diameter of the main stem at ground level (in cm).
+**Step 3.** Locate the second and third fully expanded leaves on your branch, and estimate the level of damage as a percentage of leaf area removed (see Figure 1). Record data for each leaf separately, using Table 1, below. If you see a leaf scar where a leaf used to be, record 100% herbivory. 
 
-ii) The height of the main stem (in cm).
+**Step 4:** Repeat step 3 for five branches (10 leaves) on each of five plants.
 
-iii) Height / diameter
+![.A handy way to figure out what percentage of your leaf area is damaged. Take your leaf, and imagine halving it. That’s what 50% damage looks like. Halve one of the halves. That’s what 25% damage looks like – and so on. Don’t get too hung up on whether a leaf has lost 1.39 or 1.45% of its area – it’s more important to sample a lot of leaves than to measure each one to the 18th decimal place.](leaf_percentage.png)
 
-iv) Total leaf weight (remove all leaves, place in a paper bag, record
-    mass).
+\begin {table}
+\caption{**Percent leaf area damaged for Species 1.** Enter data for each individual leaf in a separate box. Don’t worry about keeping data from the different branches separate. The extra rows are just in case you need them.}
+\begin{tabular}{ |p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|  }
 
-Using class data  complete the graph and questions on the following
-sheet. Check your answers with demonstrators / lecturers
+ \hline
+ \multicolumn{11}{|l|}{Species 1:} \\
+ \hline
+ Plant 1 &&&&&&&&&&\\
+ \hline
+ Plant 2 &&&&&&&&&&\\
+ \hline
+ Plant 3 &&&&&&&&&&\\
+ \hline
+ Plant 4 &&&&&&&&&&\\
+ \hline
+ Plant 5 &&&&&&&&&&\\
+ \hline
+ extra row &&&&&&&&&&\\
+ \hline
+ extra row &&&&&&&&&&\\
+ \hline
+  \multicolumn{11}{|l|}{Average herbivory:} \\
+  \hline
+\end{tabular}
+\end{table}
 
-![](graph.png)
+\begin {table}
+\caption{**Percent leaf area damaged for Species 2.**}
+\begin{tabular}{ |p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|p{1cm}|  }
+
+ \hline
+ \multicolumn{11}{|l|}{Species 2:} \\
+ \hline
+ Plant 1 &&&&&&&&&&\\
+ \hline
+ Plant 2 &&&&&&&&&&\\
+ \hline
+ Plant 3 &&&&&&&&&&\\
+ \hline
+ Plant 4 &&&&&&&&&&\\
+ \hline
+ Plant 5 &&&&&&&&&&\\
+ \hline
+ extra row &&&&&&&&&&\\
+ \hline
+ extra row &&&&&&&&&&\\
+ \hline
+   \multicolumn{11}{|l|}{Average herbivory:} \\
+  \hline
+\end{tabular}
+\end{table}
 
 
-- What are the average Height / Diameter values for each treatment
-(high and low density)? What do these values tell us about how stem
-architecture adaptively responds to environmental variability?
 
-\vspace*{5\baselineskip}
+**Step 5:** Enter your results on the class spreadsheet.  Follow the link on Moodle
 
- On the graph above, plot leaf mass vs stem diameter for all plants.
-Use different symbols to plot plants from the high and low density
-treatments. Fit a line of best fit (linear or non-linear) through all
-data. 
+**Step 6:** Look at the class results, and answer the following questions.
 
-- Is the relationship between leaf mass and stem diameter
-allometric? 
-
-\vspace*{5\baselineskip}
-
-- What is the most likely mechanism behind the above
-relationship? 
-
-\vspace*{5\baselineskip}
-
-- Based on these results, are there potential costs
-associated with adaptive stem architecture (as seen in question 1)?
-
-\vspace*{5\baselineskip}
-
-## Size-dependent reproduction in *Capsella bursa-pastoris*.
-
-Reproductive effort (i.e. proportional allocation to reproduction) is a
-major life history trait in plants and animals. In many plant
-populations, reproductive effort increases with increasing plant size 
-large plants have a higher relative allocation to reproduction than
-small plants. We will test for size-dependent reproduction in *Capsella
-bursa-pastoris* (shepherds purse).
-
-For the individuals of *Capsella bursa-pastoris* provided, a) count the
-total number of fruits (including the pedicels and/or dehisced tissue of
-fruits that have already matured, and b) put the plant in a paper bag
-and record its mass (remember to get the weight of the bag prior to
-weighing the plant).
-
-Calculate reproductive effort:
-
-RE = Total number of fruits / Total plant mass.
-
-Using the class data at the front of the lab, calculate the relationship
-between RE and plant size.
-
-- Is there an allometric relationship between reproductive effort and
-plant size?
+Calculate the average herbivore damage across the study species. Does this seem like a lot of damage?
 
 \vspace*{3\baselineskip}
 
-- How should large plants differ from small plants in their relative
-contribution of seeds into the next generation? How should natural
-selection act on plant sizes in populations where reproductive effort is
-size-dependent?
+What sorts of damage has our study missed? 
 
 \vspace*{3\baselineskip}
 
-##  Seed size and dispersal in *Sonchus* sp.
-
-The capacity to disperse offspring into new areas is an important trait
-related to fitness and success in plants. Many plant species (like many
-*Sonchus*, and many other daisies) employ a pappus (fine hairs on the
-fruit or seed) as a parachute. Wind can keep these seeds aloft, allowing
-them to travel great distances.
-
-The capacity for a pappus to keep a seed aloft should be strongly
-related to seed mass. This sets up an interesting evolutionary tradeoff-plants that provision their offspring with a large endosperm (large seeds) are more likely to germinate and survive. Plants with small seeds
-are more likely to successfully disperse into new habitats. Of course,
-tradeoffs can be quite complex  selection on seed size should be very
-strong if there is a allometric relationship between how fast a seed
-falls to the ground and its mass. In other words, if large seeds fall to
-earth disproportionately fast, then plants employing a wind dispersal
-strategy will have strong limits on the size of seeds they can produce.
-
-Here, we will examine the relationship between seed size and dispersal
-ability using manipulated *Sonchus* seeds. These seeds are very small
-(too small to individually weigh on our balances), so I divided them
-into three treatment groups and recorded their average mass.
-
-1.  Control seeds are simply seeds collected from their natural habitat
-    (my neighbours garden)  average seed mass for these seeds is
-    0.0003 g
-
-2. Large seeds are seeds experimentally coated with a layer of glue 
-    average seed mass for these seeds is 0.00045 g. Please note, I dont
-    have many of these seeds (treating them was very difficult), so
-    dont loose them.
-
-3. Small seeds are seeds with the bottom portion removed  average
-    seed mass for these seeds is 0.00025 g.
-
-Tubes have been constructed in the back of the lab. The tubes can be
-used to measure the rate seeds differing in mass fall without being
-influenced by ambient air currents  they are 1m tall. Drop seeds of
-each mass into the tube and record how fast they fall. Convert this to a
-value for rate of descent (m/sec). Record your data in the table and
-graph at the front of the lab.
-
-- Is there an allometric (non-linear) relationship between seed mass and
-how fast seeds fall?
+How could you improve the methods if you had more time?
 
 \vspace*{3\baselineskip}
 
-- What does this say about the seed size evolution in wind dispersed
-species? Should seed size limitations control the types of habitats in
-which wind dispersed species will be found?
+## How well do plant defence strategies work?
+
+1.	Look at the samples of the species we have studied. How might these leaves be defended against herbivory? We will select four putative defences to study today (class discussion). List a few ideas here:
 
 \vspace*{3\baselineskip}
 
-##  Allometry and fruit size.
+2.	Choose a defence to study (please try to make groups of a roughly even size). Move so that you’re sitting with your group.
 
-Most of the fruits and vegetables we eat are the product of thousands of
-generations of artificial selection on traits that are beneficial to us.
-For example, the ancestors to most of our fruits are relatively small.
-We modified these fruits by using natural variation in fruit traits,
-(and, in some cases, fruit trait) mutants to maximise the size and
-nutritional quality of our fruits. Any selection (natural or artificial)
-acts on variation within populations  traits that limit the fitness of
-a genotype will be quickly removed from a population by processes of
-natural selection.
+3.	Discuss the ways that your trait might influence herbivory, and come up with a testable hypothesis about the relationship between herbivory and levels of your trait, and write it in the report space on the following page. 
 
-Since fruit size is a variable trait within populations, we can predict
-that increasing fruit size does not come at a fitness cost to plants. We
-will test this prediction using variants of capsicum (*Capsicum annum*).
+4.	Sketch the sort of graph you might use to present the data (not everybody needs to do it the same way).
 
-From each of the capsicum variants, separate the seeds from the non seed
-fruit tissue. Put this material in paper bags and weigh the seed and non
-seed components. Record the mass of each component on the table and
-graph at the front of the lab.
 
-- Is there any evidence of allometric relationships between seed mass and
-non-seed fruit mass across individuals of capsicum?
 
-\vspace*{3\baselineskip}
+\vspace*{6\baselineskip}
 
-- What would allometric relationships indicate about our capacity to
-develop fruits for agriculture?
 
-\vspace*{3\baselineskip}
 
-## Plant Identification
+5.	Think of a practical way to quantify your trait. 
 
- Complete the exercise(s) assigned from the plant identification
- section at the end of the manual.
+6.	Divide the tasks up among your group members, collect and collate data. Enter your defence data in the google sheet (add columns as appropriate).
+
+7.	Summarise the relationship between your defence mechanism and herbivore damage in a figure (use a computer to generate the graph). 
+
+8.	As a group, summarise your study on a single powerpoint slide (please include the figure), and write up your study in the space below. 
+
+9.	Two people from each group will summarise their results in a 2-minute presentation for the class. Take notes on the results of all groups.
 
 \newpage
 
+**BRIEF WRITE UP OF YOUR STUDY**
+
+Hypothesis:
+
+\vspace*{5\baselineskip}
+
+Methods:
+
+\vspace*{15\baselineskip}
+
+Results: 
+
+\vspace*{15\baselineskip}
 
 
 # Week 12: Germination, Seeds And Fruits 
