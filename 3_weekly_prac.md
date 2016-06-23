@@ -789,9 +789,9 @@ The important concept to consider first is that some traits are variable within 
 Categories of traits that help were covered in detail in the previous two labs, so there are not new terms to 
 learn today, but use this opportunity to review those terms.  The terms also are crucial for working your way through plant ID keys.  
 
-Details for these families are provided in the back of the lab manual (Plant Identification and Family Descriptions, and the Key to Australian Plant
-Families).  As throughout this course, please also use the abundant resources on the web for Australian and global 
-plants (see links on Moodle).  The key skill in this course is connecting the plants you see in front of you to resource material.
+Start filling out the trait data for the families below by looking at the specimens.  There is also details for many of these families are provided in the back of the lab manual (Plant Identification and Family Descriptions, and the Key to Australian Plant
+Families).  As throughout this course, feel free also use the abundant plant resources on the web for Australian and global 
+families (see links on Moodle).  The key skill in this course is connecting the plants you see in front of you to resource material.
 
 One note about names: modern botanical rules state that families should be named after a "type" genus and end in "-aceae".  (Animal families end in -idae.)  That is the Proteaceae is named for the "type" genus Protea (which is found in South Africa and florist shops).  Because this was the first genus of the family it becomes the type genus.  Before these names were introduced there was a bit more chaos in naming of plant families.  (And there are still a few hold-outs around that want to stick to old names.)  We've included the old names below as some of the reference books and field guides still use the old names.  
 
@@ -1062,7 +1062,7 @@ Family & Percent of the Australian Flora  \\ \hline
 
 \hrulefill
 
-## Brassicaceae \small aka Cruciferae
+## Rosaceae
 
 ### Floral formula
 
@@ -1572,209 +1572,8 @@ Plants lose a lot of water through their leaves. Many Australian plants have to 
 
 \newpage
 
-# Week something: Campus Flora I
 
-This year, you are doing something brand new - developing a Campus Flora
-app. The aim is to generate an interactive map that will allow users to
-access information on all of the amazing plants around us.
-
-The jobs for the class of 2015 will be to
-
-a. Map the location and identity of all the trees on campus, and
-
-b. Write Plant biographies to tell people about each species.
-
-The mapping will be done in class time (starting today), while the plant
-biographies are your first major assignment for this course.
-
-We will use the information you provide as the basis for an app
-something like the one available at Sydney University
-(<http://campusflora.sydneybiology.org/>). Next years class will add to
-what you have done by mapping the shrubs, and the year after will map
-herbaceous plants.
-
-The overall aims of this project are to:
-
-1. Produce a real-life product that the community can use, and that you can be proud of.
-
-2. Address plant-blindness  the fact that most people wander around the world without noticing all the different sorts of plants they pass.
-
-3.  Increase your familiarity with many of the online botanical information resources, the primary literature, the herbarium, and the fact that there are interesting stories associated with many of the plants around you.
-
-4.  Reinforce what you have learned so far about plant identification, and help you to learn more about plant families.
-
-**PART A) MAPPING THE PLANTS ON CAMPUS**
-
-The class will be divided in to small groups. Each group will need at
-least one smart phone or tablet (but not every person needs one). We
-will divide a map of campus in to sections, and each group will be
-responsible for mapping all plants above 15cm dbh (diameter at breast
-height) in one map section.
-
-We will establish a help station in central campus that you can come to
-for help with plant identification, to borrow pole pruners, or for any
-other questions.
-
-You will need to:
-
-1\) Download a GPS app. For android, we suggest GPS  Simple. For Iphone,
-we suggest Easy-GPS-coordinates-compass. Whatever you use should be in
-decimal format (degrees, minutes seconds are likely to cause conversion
-errors), should have at least 5 decimal places on degrees or 3 decimal
-places on minutes, and should have an estimate of the accuracy of your
-location.
-
-When you take readings, make sure the accuracy is within \~5 m
-(preferably less). If you are in a corner surrounded by many buildings,
-you might not be able to get an accurate reading  in this case, do your
-best, and locate the tree on google maps back in the lab to get more
-accurate coordinates.
-
-2\) Go to your section of campus (take secateurs, plastic bags, pen and
-paper, and your phone with you), and systematically map all of the
-trees. For each individual plant, you will need to record:
-
-**Latitude**
-
-**Longitude**
-
-**Species identity**
-
-*If you arent sure what species a plant is, give it a placeholder name,
-and take a specimen and helpful photographs that will allow an expert
-(Frank!) to identify the species.*
-
-3\) Enter the data in the Google spreadsheet:
-[https://docs.google.com/spreadsheets/d/1f\_MIdJXdi0-kiRrqaaXCNxc9e\_3vdIwO1k8WC2VtCzA/edit\#gid=0](#gid=0)
-
-
-\newpage
-
-
-
-# Week 6: Leaves and their control on plant water loss
-
-Reference: The Biology of Plants  pp 592-604.
-
-Leaves are *amazing* inventions.  They perform photosynthesis which is the key to life on land and to the regulation of the earth's atmosphere.  The key trade-off that leaves of land plants must solve is carbon capture via carbon dioxide reaching the chloroplasts versus water loss.   When times are bad, stomata have an amazingly ability to limit the water loss from leaves.  However, different species show different abilities to regulate water loss for a variety of reasons.  
-
-One of these reasons is that even if stomata close as tightly as they can, they still lose a little water, and different species differ in this ability to shut their stomata tightly.  The other reason is that different species waxy cuticles have different degrees of effectiveness.  Some thick waxy leaves are very good at preventing water loss in adverse conditions.  Other species have thin cuticles that continue to lose water in bad times.  
-
-Essentially, although leaves are all constructed to a basic plan, they vary greatly in physiognomy, morphology and internal arrangement of tissues. Syndromes of modifications are often correlated with particular environments and are therefore interpreted as being of adaptive significance.  
-
-In this practical we will look at leaves from plants from different environments and representing different leaf forms and life histories.  We will also measure the ability of species to restrict water loss in very difficult times.  
-
-The first task is to set up the data collection protocol for each group of 4 students.  
-
-**EACH MEMBER OF THE GROUP WILL NEED TO UPLOAD YOUR DATA ON MOODLE AT THE END OF THE LAB.** 
-
-We will look at this as part of your participation mark for the course, so be careful about your record keeping for the lab.  The task is to create a situation in which the leaves want to restrict their water loss, then we will measure the rate at which water is lost to the environment for two species.
-
-To measure the rate of water loss before and after stomatal closure as a group we will pick 3 leaves from each of our two species.  Give each leaf a unique identifier that we will use for record keeping.   We will then dry these leaves in the lab environment, weighing each leaf every five or so minutes on the balance.   Divide up the person responsible for each measurement.  
-
-Record: 
-
-1. the mass of the leaf 
-
-2. the exact time of the measurement 
-
-3. the leaf's unique identifier 
-
-4. the species name 
-
-5. your research group name.
-
-These will correspond to columns in the excel file that can be downloaded from Moodle.  
-
-After the stomata completely shut, which takes a few minutes, there should be a linear slope for water loss vs. time and the slope of that line is a measure of rate of water loss based ont the stomatas' ability to limit water loss from the leaf.   Try to predict the difference in slopes for the species that we have today.  Think about what the units of water loss are.  
-
-Once you've organized and scheduled your data collection and divided up the task of collecting data among your group.  Figure out when each member of the group can go and examine the digital slides and the plant families.
-
-Remember to:
-
-1) go to the computer room to look at the digital slides (transverse leaf sections) for the lab.  Answer the questions below
-
-2) Look at the unique characters for the families in this week's lab
-
-3) Download the data entry sheet from Moodle; enter the data you've collected into this sheet; upload the completed datasheet on Moodle
-
-4) **Don't leave without uploading your data!**
-
-## The evolution of specialisation in leaf tissue
-
-We have specimens of *Psilotum* (a seedless vascular plant), *Pinus* (a
-conifer), and many flowering plants (e.g. *Hibbertia scandens*). Open
-each of these three images.
-
-*Psilotum* and *Pinus* represent two alternate strategies for photosynthetic tissue--a green photosynthesising
-stem versus a specialised needle-shaped leaf.
-
-- Is there any evidence that *Pinus* leaves are more specialised for
-photosynthesis than *Psilotum* stems?
-
-\vspace*{3\baselineskip}
-
-- Photosynthetic stems are required to support the plant as well as
-photosynthesise. Are support cells present in *Psilotum* stems that are
-not seen in *Pinus* stems? If so, why is the presence of these support
-cells problematic for photosynthesis?
-
-\vspace*{3\baselineskip}
-
-- Do *Pinus* leaves have more specialised cell types than *Psilotum*
-stems?
-
-\vspace*{3\baselineskip}
-
-Compare the *Pinus* leaf to the angiosperm *Hibbertia scandens* leaf.
-
-- Are the parenchyma cells arranged differently in the two leaf types?
-
-\vspace*{3\baselineskip}
-
-- Are there more specialised cell types or arrangements in angiosperm
-leaves? 
-
-\vspace*{3\baselineskip}
-
-##  Adaptations to arid environments
-
-Leaves are a primary source of water loss in plants. Many Australian
-plants have to deal with regular droughts or consistently arid
-environments. As a consequence, these plants express many adaptations
-limit water loss. Open the images for each of the plants in the table
-below and list the adaptations to limit water loss that you can see in the slide.
-
-
-  *Banksia serrata*   
-
-  \vspace*{3\baselineskip}
-  
-  *Correa alba* 
-  
-  \vspace*{3\baselineskip}        
-  
-  *Hakea teretifolia*   
-  
-  \vspace*{3\baselineskip}
-  
-  *Atriplex* sp         
-  
-  \vspace*{3\baselineskip}
-
-## Plant Identification 
-
-We will examine the key traits and features of some of the **major
-Australian plant families** throughout this course. Details for these
-families are provided in the back of the lab manual (Plant
-Identification and Family Descriptions, and the Key to Australian Plant
-Families).
-
-\newpage
-
-
-
-#Week 7:  Stem Structure and Secondary Thickening
+#Week 7:  How to be a Tree --- Stem Structure and Secondary Thickening
 
 ## Vascular Tissue
 
@@ -2048,7 +1847,7 @@ Families).
 
 \newpage
 
-# Week 8: Root Structure & Function (or how to make friends with other organisms)
+# Week 8: How to make friends with other organisms -- Root Structure and Function 
 
 Reference: Raven Biology of Plants. ch 24.
 
@@ -2298,30 +2097,82 @@ Here are the steps to producing this slideshow:
 
  \newpage
 
-# Week 10: Campus Flora II
+# Week 10: Campus Flora 2016
 
-This week, we will finish developing the content for our Campus Flora.
-This is a fairly free-form class, designed to give you time to finish
-identifying and mapping all your species, and to error check the
-location and name data.
+This year, we are developing a Campus Flora
+app. The aim is to generate an interactive map that will allow users to
+access information on all of the amazing plants around us.
 
-Work in your groups:
+The jobs for the class of 2016 will be to
 
--   Finish mapping (if you didnt manage all of the plants in your
-    section of campus in week 4).
+a. Map the location and identity of unidentified trees on a section of campus, and
 
--   Revisit any plants whose identification is still eluding you.
+b. Write plant biographies to tell people about each species.
 
--   Plot your plant coordinates on a map, and make sure they are all
-    correct
+The mapping will be done in class time (starting today), while the plant
+biographies are your first major assignment for this course.
 
--   Make sure the plant names you have entered in the mapping
-    spreadsheet match the plant names for the species biographies
-    (correct any spelling errors).
+We will use the information you provide as the basis for an app
+something like the one available at Sydney University
+(<http://campusflora.sydneybiology.org/>). Next years class will add to
+what you have done by mapping the shrubs, and the year after will map
+herbaceous plants.
 
--   If you finish all of the above, spend some time checking out other
-    peoples plant biographies  with luck, you will learn some really
-    interesting things!
+The overall aims of this project are to:
+
+1. Produce a real-life product that the community can use, and that you can be proud of.
+
+2. Address plant-blindness  the fact that most people wander around the world without noticing all the different sorts of plants they pass.
+
+3.  Increase your familiarity with many of the online botanical information resources, the primary literature, the herbarium, and the fact that there are interesting stories associated with many of the plants around you.
+
+4.  Reinforce what you have learned so far about plant identification, and help you to learn more about plant families.
+
+**PART A) MAPPING THE PLANTS ON CAMPUS**
+
+The class will be divided in to small groups. Each group will need at
+least one smart phone or tablet (but not every person needs one). We
+will divide a map of campus in to sections, and each group will be
+responsible for mapping 5 unidentified species above 15-cm dbh (diameter at breast
+height) in one map section.
+
+We will establish a help station that you can come to
+for help with plant identification, to borrow pole pruners, or for any
+other questions.
+
+You will need to:
+
+1\) Download a GPS app. For android, we suggest GPS  Simple. For Iphone,
+we suggest Easy-GPS-coordinates-compass. Whatever you use should be in
+decimal format (degrees, minutes seconds are likely to cause conversion
+errors), should have at least 5 decimal places on degrees or 3 decimal
+places on minutes, and should have an estimate of the accuracy of your
+location.
+
+When you take readings, make sure the accuracy is within \~5 m
+(preferably less). If you are in a corner surrounded by many buildings,
+you might not be able to get an accurate reading  in this case, do your
+best, and locate the tree on google maps back in the lab to get more
+accurate coordinates.  We will correct all of these based on aerial photographs.
+
+2\) For each group we have printed aerial photographs with the target plants circled.  
+Each group should collect their target photographs from the instructors.  
+
+3\) Go to your section of campus that corresponds to your photograph (take secateurs, plastic bags, pen and
+paper, and your phone with you), and systematically map the circled
+trees. For each individual plant, you will need to record:
+
+**Latitude**
+
+**Longitude**
+
+**Species identity**
+
+*If you arent sure what species a plant is, give it a placeholder name,
+and take a specimen and helpful photographs that will allow an expert
+(Frank!) to identify the species.*
+
+3\) Enter the data in the Google spreadsheet: link on Moodle
 
 
 \newpage
@@ -2330,7 +2181,7 @@ Work in your groups:
 
 In this practical, we’re going to have a look at one of the most important interactions between plants and animals: herbivory. We will start by estimating the amount of herbivore damage experienced by plants growing in Sydney. Next, we will look at the different strategies plants use to reduce the amount of damage they receive, and test the efficacy of four types of plant defences.  
 
-## I.	How much herbivory do plants experience at UNSW? 
+## How much herbivory do plants experience at UNSW? 
 
 Work in pairs. 
 
@@ -2618,7 +2469,7 @@ A simple fruit is derived from the ripening of a simple or compound ovary in a f
  open along a number of
 
  sutures or by pores, e.g. *Eucalyptus.* A **siliqua** is the capsule
- characteristic of the Cruciferae (Brassicaceae) - it is a capsule that
+ characteristic of the Brassicaceae--it is a capsule that
  has two valves (from two fused carpels) which separate from a
  persistent central partition (septum) to which the seeds are attached.
 
@@ -2627,7 +2478,7 @@ A simple fruit is derived from the ripening of a simple or compound ovary in a f
  **ACHENE** - product of a single superior carpel with one seed which
  is free from the pericarp except at the placenta, e.g. *Ranunculus*. A
  **cypsela** is an achene derived from an inferior ovary; the term
- appears to be restricted to the Compositae (Asteraceae).
+ appears to be restricted to the Asteraceae.
 
 **SAMARA** - a winged achene; the wing is an extension of the pericarp
  and presumably assists in dispersal, e.g. *Fraxinus* (ash). The fruit
