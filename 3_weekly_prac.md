@@ -2298,39 +2298,12 @@ Here are the steps to producing this slideshow:
 
  \newpage
 
-# Week 10: Campus Flora II
 
-This week, we will finish developing the content for our Campus Flora.
-This is a fairly free-form class, designed to give you time to finish
-identifying and mapping all your species, and to error check the
-location and name data.
-
-Work in your groups:
-
--   Finish mapping (if you didnt manage all of the plants in your
-    section of campus in week 4).
-
--   Revisit any plants whose identification is still eluding you.
-
--   Plot your plant coordinates on a map, and make sure they are all
-    correct
-
--   Make sure the plant names you have entered in the mapping
-    spreadsheet match the plant names for the species biographies
-    (correct any spelling errors).
-
--   If you finish all of the above, spend some time checking out other
-    peoples plant biographies  with luck, you will learn some really
-    interesting things!
-
-
-\newpage
-
-# Week 11: Plant--Animal Interactions --- Herbivory
+# Week 10: Plant--Animal Interactions --- Herbivory
 
 In this practical, we’re going to have a look at one of the most important interactions between plants and animals: herbivory. We will start by estimating the amount of herbivore damage experienced by plants growing in Sydney. Next, we will look at the different strategies plants use to reduce the amount of damage they receive, and test the efficacy of four types of plant defences.  
 
-## I.	How much herbivory do plants experience at UNSW? 
+## How much herbivory do plants experience at UNSW? 
 
 Work in pairs. 
 
@@ -2457,6 +2430,34 @@ Methods:
 Results: 
 
 \vspace*{15\baselineskip}
+
+# Week 11: Campus Flora II
+
+This week, we will finish developing the content for our Campus Flora.
+This is a fairly free-form class, designed to give you time to finish
+identifying and mapping all your species, and to error check the
+location and name data.
+
+Work in your groups:
+
+-   Finish mapping (if you didnt manage all of the plants in your
+    section of campus in week 4).
+
+-   Revisit any plants whose identification is still eluding you.
+
+-   Plot your plant coordinates on a map, and make sure they are all
+    correct
+
+-   Make sure the plant names you have entered in the mapping
+    spreadsheet match the plant names for the species biographies
+    (correct any spelling errors).
+
+-   If you finish all of the above, spend some time checking out other
+    peoples plant biographies  with luck, you will learn some really
+    interesting things!
+
+
+\newpage
 
 
 # Week 12: Germination, Seeds And Fruits 
@@ -3480,7 +3481,11 @@ have phloem on both sides of the xylem.*
 
 - *Syzygium* Gaertn. and *Acmena* DC, with fleshy fruits.
 
-- *Eucalyptus* L'Herit., *Corymbia* Hill & Johnson (previously included in *Eucalyptus*), *Angophora* Cav. (similar to eucalypts, but having sepals and petals in the flower, and always with opposite leaves)
+- *Eucalyptus* L'Herit., 
+
+- *Corymbia* Hill & Johnson (previously included in *Eucalyptus*), 
+
+- *Angophora* Cav. (similar to eucalypts, but having sepals and petals in the flower, and always with opposite leaves)
 
 - *Leptospermum* Forst. f. (Tea Trees)
 
@@ -3537,8 +3542,8 @@ dispersed **or**  fleshy and coloured (eg., pink or white). Remove the flesh. Is
 berry (several seeded). They are mostly animal dispersed, though
  sometimes water-borne, and characterise most of the extra-Australian
  members of the family (mostly in the tropics). Some Australian
- rainforest species have this type of fruit. Opposite leaves are common
- in these species, also.
+ rainforest species have this type of fruit. Opposite leaves are also common
+ in these species.
 
 ## Family Rutaceae - the Citrus family.
 
