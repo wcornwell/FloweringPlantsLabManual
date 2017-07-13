@@ -1,0 +1,4 @@
+pandoc -V papersize:"a4paper" -V geometry:margin=1.1in --toc --toc-depth=2 --chapters -o output_2017.pdf prac_manual_2017.md
+
+
+pandoc --extract-media ./myMediaFolder -o  INL.md INLEAVES.docx
