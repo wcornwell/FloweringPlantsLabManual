@@ -1121,28 +1121,56 @@ Here are the steps to producing this slideshow:
 
  \newpage
 
- \newpage
+2
 
  \newpage
 
- \newpage
+3
 
  \newpage
+
+4
+
+ \newpage
+
+5
+
+ \newpage
+ 
+6
   
 \newpage
 
-\newpage
+7
 
 \newpage
 
-\newpage
+8
 
 \newpage
 
-\newpage
+9
 
 \newpage
 
+10
+
+\newpage
+
+11
+
+\newpage
+
+12
+
+\newpage
+
+13
+
+\newpage
+
+14  
+  
 \newpage
     
 # Week 7: Leaf economics 
